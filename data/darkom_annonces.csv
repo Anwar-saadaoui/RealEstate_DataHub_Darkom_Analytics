@@ -1,0 +1,1509 @@
+annonce_id,date_publication,titre,ville,quartier,type_bien,transaction,prix,surface,nb_chambres,nb_salles_bain,etage,annee_construction
+ANO000343,2023-05-05,Terrain moderne Meknès,Meknès,Hamria,Terrain,Vente,811401.04,314.4,0.0,,0.0,2014.0
+ANO001296,2023-08-20,Terrain moderne Kenitra,Kenitra,Centre,Terrain,Location,3843.55,36.46,0.0,0.0,,2008.0
+ANO001212,2023-06-20,Appartement moderne Oujda,Oujda,Hay Qods,Appartement,Location,9190.7,95.54,2.0,2.0,,2012.0
+ANO001000,2024-01-21,Appartement à vente - Tanger,Tanger,,Appartement,Vente,30000.0,93.35,1.0,1.0,3.0,2008.0
+ANO001123,2024-03-19,Beau Villa Rabat,Rabat,Souissi,Villa,Location,20844.72,264.22,3.0,1.0,0.0,2006.0
+ANO000927,2024-03-19,Appartement 96m² Talborjt,Agadir,Talborjt,Appartement,Vente,542588.3,96.99,3.0,1.0,4.0,2016.0
+ANO000511,2023-06-12,Bureau à vente - Tanger,TANGER,,Bureau,Vente,1256354.5,49.26,0.0,0.0,,2012.0
+ANO000608,2023-08-17,Appartement moderne Rabat,Rabat,Agdal,Appartement,Vente,2030740.75,79.38,1.0,1.0,1.0,
+ANO000153,2024-10-16,Appartement moderne Fès,Fès,Zouagha,Appartement,Vente,537156.36,59.12,1.0,1.0,8.0,1991.0
+ANO000720,2024-09-12,Beau Appartement Agadir,Agadir,Talborjt,Appartement,Vente,511874.19,117.04,2.0,2.0,1.0,2014.0
+ANO000965,2023-12-08,Villa moderne Fès,Fès,Medina,Villa,Location,180.0,267.23,5.0,2.0,0.0,2007.0
+ANO000532,2023-02-04,Beau Appartement Meknès,MEKNÈS,Hamria,Appartement,Location,9446.3,25.93,,2.0,0.0,2001.0
+ANO000544,2024-02-12,Beau Appartement Oujda,oujda,Hay Qods,Appartement,Vente,652332.84,97.12,3.0,2.0,,2003.0
+ANO000172,2023-07-15,Beau Appartement Casablanca,Casablanca,Californie,Appartement,Location,1764.37,70.58,2.0,1.0,,2011.0
+ANO001227,2024-07-04,Villa moderne Tétouan,tétouan,,Villa,Location,11183.41,243.3,5.0,2.0,0.0,2001.0
+ANO000102,2023-08-24,Appartement à location - Tanger,Tanger,Centre Ville,Appartement,Location,8976.59,84.48,2.0,,1.0,2010.0
+ANO000947,2023-05-29,Appartement à vente - Marrakech,MARRAKECH,Gueliz,Appartement,Vente,816253.63,81.02,3.0,2.0,7.0,2012.0
+ANO000946,2024-05-29,Appartement à location - Oujda,Oujda,,Appartement,Location,2056.08,132.6,3.0,2.0,,2023.0
+ANO000155,2024-09-20,Bureau 128m² Hay Qods,Oujda,Hay Qods,Bureau,Vente,920109.8,128.56,0.0,0.0,3.0,
+ANO001240,2024-11-24,Beau Duplex Fès,Fès,Zouagha,Duplex,Vente,3184749.75,140.93,3.0,1.0,3.0,1998.0
+ANO000755,2024-11-11,Beau Appartement Casablanca,Casablanca,Maarif,Appartement,Vente,2494312.88,58.22,,1.0,2.0,2010.0
+ANO000371,2023-07-28,Terrain à vente - Marrakech,Marrakech,Hivernage,Terrain,Vente,742795.28,326.09,0.0,0.0,,2016.0
+ANO000518,2023-02-23,Appartement moderne Meknès,Meknès,,Appartement,Location,2102.24,63.05,,2.0,0.0,2003.0
+ANO001464,2023-01-28,Beau Terrain Rabat,Rabat,Hay Riad,Terrain,Vente,975589.83,361.79,0.0,0.0,0.0,2012.0
+ANO001497,2023-09-10,Beau Bureau Meknès,Meknès,Ville Nouvelle,Bureau,Location,6209.83,120.05,0.0,0.0,1.0,2013.0
+ANO000276,2023-10-24,Beau Villa Marrakech,Marrakech,Medina,Villa,Vente,2926692.24,376.37,3.0,1.0,0.0,2005.0
+ANO000058,2024-07-23,Terrain à location - Fès,fès,Medina,Terrain,Location,2221.03,290.75,,0.0,0.0,2005.0
+ANO001110,2024-11-20,Duplex moderne Marrakech,Marrakech,Targa,Duplex,Location,5785.75,95.39,3.0,1.0,1.0,2016.0
+ANO000079,2024-01-15,Villa moderne Fès,Fès,Ville Nouvelle,Villa,Vente,3271972.04,300.71,3.0,2.0,0.0,1969.0
+ANO000724,2023-10-12,Beau Appartement Tanger,Tanger,,Appartement,Vente,605963.0,109.68,2.0,1.0,1.0,2009.0
+ANO000034,2024-05-17,Appartement à vente - Rabat,Rabat,Ocean,Appartement,Vente,521849.54,49.62,3.0,1.0,,1993.0
+ANO000723,2024-02-12,Beau Villa Fès,Fès,Zouagha,Villa,Location,19134.85,149.39,5.0,2.0,0.0,1996.0
+ANO000932,,Villa 247m² Centre Ville,Tanger,Centre Ville,Villa,Vente,1736650.85,247.48,6.0,3.0,,2003.0
+ANO000898,2023-09-27,Terrain moderne Tanger,Tanger,Iberia,Terrain,Location,2907.1,295.28,,0.0,0.0,2008.0
+ANO001322,2024-11-20,Beau Villa Oujda,Oujda,Hay Qods,Villa,Vente,2584419.84,201.34,6.0,4.0,0.0,2012.0
+ANO001446,2024-12-11,Beau Appartement Casablanca,Casablanca,Bourgogne,,Vente,472531.35,43.47,2.0,2.0,0.0,2007.0
+ANO000652,2023-05-19,Beau Bureau Tétouan,Tétouan,M'diq,Bureau,Vente,938493.46,96.17,0.0,0.0,,2020.0
+ANO001211,2023-11-04,Terrain moderne Meknès,MEKNÈS,Hamria,Terrain,,978932.34,223.89,0.0,0.0,0.0,2008.0
+ANO000305,2024-08-10,Appartement à vente - Marrakech,Marrakech,Targa,Appartement,Vente,579926.04,124.44,1.0,1.0,2.0,2009.0
+ANO001067,,Villa 284m² Tanger,Tanger,,Villa,Location,8055.36,284.99,4.0,3.0,0.0,
+ANO001304,2024-12-20,Villa à vente - Kenitra,Kenitra,Centre,Villa,Vente,4894844.8,136.78,5.0,2.0,0.0,2011.0
+ANO000581,2023-07-13,Villa moderne Casablanca,Casablanca,Bourgogne,Villa,Vente,2147775.39,236.49,3.0,1.0,0.0,2001.0
+ANO001237,2024-05-16,Appartement 85m² Marrakech,Marrakech,,Appartement,Vente,2169626.74,85.99,,1.0,0.0,
+ANO000582,2023-07-17,Appartement moderne Marrakech,Marrakech,Hivernage,Appartement,Location,9859.01,61.82,3.0,2.0,2.0,2011.0
+ANO000191,,Beau Appartement Rabat,Rabat,Souissi,Appartement,Vente,2007367.35,126.91,3.0,1.0,2.0,2004.0
+ANO000797,2024-06-08,Beau Villa Tétouan,TÉTOUAN,M'diq,Villa,Vente,2645099.21,332.82,4.0,2.0,0.0,
+ANO001019,2023-07-27,Villa moderne Tétouan,Tétouan,,Villa,Vente,3067468.29,181.46,4.0,2.0,0.0,
+ANO000808,2024-03-13,Villa 231m² Ville Nouvelle,Fès,Ville Nouvelle,Villa,Vente,2784795.0,231.65,5.0,2.0,0.0,1999.0
+ANO000140,2024-11-20,Beau Duplex Casablanca,Casablanca,Maarif,Duplex,Vente,1869404.78,208.96,4.0,3.0,0.0,2001.0
+ANO001004,2023-01-17,Beau Bureau Marrakech,Marrakech,,Bureau,Vente,1011550.14,116.25,0.0,0.0,7.0,
+ANO000298,2023-10-31,Bureau à vente - Meknès,Meknès,,Bureau,Vente,1402909.61,162.67,,0.0,5.0,
+ANO000290,2023-04-13,Appartement moderne Tétouan,Tétouan,Centre,Appartement,Vente,590134.81,101.46,3.0,2.0,4.0,2024.0
+ANO000236,2023-04-19,Beau Villa Tétouan,Tétouan,M'diq,Villa,Vente,2503004.98,147.57,4.0,3.0,0.0,2024.0
+ANO000484,2024-10-29,Beau Appartement Agadir,Agadir,,Appartement,Location,8034.03,92.72,3.0,2.0,0.0,2023.0
+ANO000460,2023-01-27,Appartement moderne Meknès,Meknès,,Appartement,Vente,674788.56,69.86,1.0,1.0,0.0,2024.0
+ANO001273,2023-03-19,Appartement moderne Rabat,RABAT,Hay Riad,Appartement,Vente,504061.94,81.91,1.0,1.0,2.0,1994.0
+ANO001352,,Villa moderne Meknès,Meknès,,Villa,Location,25169.05,168.42,4.0,3.0,0.0,2011.0
+ANO000613,2024-02-12,Beau Appartement Kenitra,Kenitra,,Appartement,Vente,1542509.52,87.71,2.0,1.0,5.0,2009.0
+ANO000162,2023-11-15,Duplex 112m² Talborjt,Agadir,Talborjt,Duplex,Vente,1922078.18,112.18,3.0,2.0,1.0,
+ANO000527,2023-02-15,Appartement moderne Tétouan,Tétouan,Centre,Appartement,Vente,461849.01,64.74,2.0,2.0,0.0,2011.0
+ANO001085,,Appartement à vente - Agadir,Agadir,Centre,Appartement,Vente,626639.22,111.45,2.0,2.0,5.0,2012.0
+ANO000669,2023-06-16,Appartement moderne Tétouan,TÉTOUAN,Centre,Appartement,Vente,322766.24,90.33,2.0,2.0,3.0,
+ANO000595,2024-03-03,Beau Appartement Casablanca,Casablanca,,Appartement,Vente,369433.56,104.0,2.0,1.0,1.0,2001.0
+ANO000036,2023-01-03,Appartement 132m² Meknès,Meknès,,Appartement,Vente,598486.1,132.15,1.0,1.0,,2011.0
+ANO000045,2023-01-30,Appartement moderne Casablanca,Casablanca,Maarif,Appartement,Vente,422523.55,96.84,3.0,1.0,3.0,1986.0
+ANO000304,2023-11-21,Villa à vente - Fès,fès,Medina,Villa,Vente,3281627.36,225.38,6.0,3.0,0.0,2003.0
+ANO001498,2024-08-03,Appartement 70m² Fès,Fès,,Appartement,Vente,435091.73,70.27,2.0,1.0,2.0,1993.0
+ANO000016,2023-10-11,Beau Appartement Casablanca,CASABLANCA,Anfa,Appartement,Vente,1712062.32,73.48,4.0,2.0,3.0,2015.0
+ANO000475,2023-12-27,Villa moderne Fès,Fès,,Villa,Location,8070.09,182.86,3.0,2.0,0.0,1984.0
+ANO001325,2024-03-18,Appartement 87m² Hay Essalam,Kenitra,Hay Essalam,Appartement,Location,8556.1,87.17,1.0,1.0,2.0,2012.0
+ANO001114,2024-09-27,Beau Bureau Fès,Fès,Ville Nouvelle,Bureau,Vente,1918544.33,148.24,0.0,0.0,,
+ANO001469,2024-11-16,Terrain 401m² Centre Ville,Tanger,Centre Ville,Terrain,,762447.67,401.63,0.0,0.0,0.0,2009.0
+ANO000185,2023-09-12,Beau Duplex Agadir,Agadir,Centre,Duplex,Vente,2500669.24,162.72,3.0,2.0,8.0,2012.0
+ANO000252,2023-10-26,Terrain 186m² Hay Qods,Oujda,Hay Qods,Terrain,Vente,1116092.54,186.07,0.0,0.0,0.0,2024.0
+ANO000182,2024-09-26,Beau Appartement Tétouan,Tétouan,,Appartement,Vente,722988.23,2500.0,3.0,2.0,3.0,
+ANO000610,,Appartement 82m² Hay Mohammadi,Agadir,Hay Mohammadi,Appartement,Vente,719311.89,82.54,3.0,1.0,,2010.0
+ANO001408,2024-10-26,Beau Appartement Casablanca,Casablanca,Bourgogne,Appartement,Vente,651372.93,84.86,3.0,1.0,0.0,2017.0
+ANO001210,2023-06-05,Beau Bureau Kenitra,Kenitra,Centre,Bureau,Vente,1505611.91,58.29,0.0,0.0,,2004.0
+ANO001289,2024-03-07,Villa à vente - Oujda,Oujda,Hay Qods,Villa,Vente,2014071.06,191.72,5.0,2.0,0.0,
+ANO000691,2023-05-21,Terrain moderne Fès,Fès,,Terrain,Vente,1089619.25,448.34,,0.0,0.0,2001.0
+ANO000429,2023-02-05,Appartement moderne Rabat,Rabat,Ocean,Appartement,Location,1822.73,51.72,2.0,2.0,3.0,1972.0
+ANO001301,2023-04-01,Bureau à vente - Tanger,Tanger,Iberia,Bureau,Vente,977552.5,114.8,0.0,0.0,3.0,
+ANO000156,2024-02-07,Beau Appartement Tétouan,Tétouan,M'diq,Appartement,Vente,523483.65,100.35,3.0,1.0,1.0,2016.0
+ANO001389,2023-10-16,Beau Appartement Tanger,Tanger,Malabata,Appartement,Vente,498067.13,104.85,3.0,1.0,2.0,2007.0
+ANO000810,2023-12-06,Beau Terrain Tanger,Tanger,,Terrain,Location,3125.37,434.92,0.0,0.0,,2007.0
+ANO001208,2023-02-12,Beau Duplex Fès,Fès,Zouagha,Duplex,Vente,2010887.94,51.09,3.0,2.0,6.0,2000.0
+ANO001158,2024-09-26,Beau Appartement Meknès,Meknès,Hamria,Appartement,Location,2161.18,86.31,3.0,2.0,4.0,2001.0
+ANO001432,2024-01-10,Appartement à vente - Kenitra,Kenitra,,Appartement,Vente,524983.81,115.17,4.0,2.0,0.0,1997.0
+ANO001133,2023-12-08,Appartement 122m² Ocean,Rabat,Ocean,,Location,2442.68,122.23,,1.0,2.0,2024.0
+ANO000993,2024-05-22,Terrain moderne Rabat,Rabat,Ocean,Terrain,Location,4716.45,2500.0,0.0,0.0,0.0,2008.0
+ANO000255,2023-09-17,Villa à vente - Casablanca,Casablanca,Non spécifié,Villa,Vente,9840126.81,242.32,4.0,2.0,,2017.0
+ANO000238,2024-12-07,Appartement moderne Agadir,Agadir,Hay Mohammadi,Appartement,Vente,538394.43,71.38,2.0,2.0,0.0,2013.0
+ANO000748,2024-11-04,Terrain 537m² Non spécifié,Casablanca,Non spécifié,Terrain,Vente,975323.89,537.17,0.0,0.0,0.0,1976.0
+ANO001016,2023-01-14,Terrain moderne Tanger,Tanger,,Terrain,Vente,185017.62,439.09,0.0,0.0,0.0,2007.0
+ANO000686,2023-12-12,Appartement à vente - Tanger,Tanger,,Appartement,Vente,1672296.86,73.09,2.0,1.0,3.0,2016.0
+ANO000035,2024-07-25,Appartement à vente - Meknès,Meknès,,Appartement,Vente,508874.26,64.94,4.0,2.0,3.0,
+ANO000335,2024-10-26,Beau Terrain Marrakech,Marrakech,Targa,Terrain,Vente,817889.11,222.37,0.0,0.0,0.0,2015.0
+ANO000361,2023-01-24,Appartement à location - Casablanca,Casablanca,Anfa,Appartement,,7442.16,76.27,1.0,1.0,0.0,1995.0
+ANO000127,2024-04-05,Appartement 64m² Talborjt,Agadir,Talborjt,Appartement,Location,11503.68,64.79,2.0,2.0,0.0,2003.0
+ANO000822,2023-05-02,Beau Terrain Kenitra,KENITRA,Centre,Terrain,Location,1714.81,404.3,0.0,0.0,0.0,2017.0
+ANO001291,2024-11-18,Appartement à vente - Casablanca,Casablanca,Maarif,Appartement,Vente,1443911.23,88.94,3.0,2.0,5.0,1983.0
+ANO000831,2024-07-12,Villa à vente - Rabat,Rabat,,Villa,Vente,2193081.13,194.82,4.0,2.0,0.0,1992.0
+ANO001072,2023-11-03,Beau Villa Kenitra,Kenitra,Centre,Villa,,2961619.31,308.85,4.0,3.0,0.0,2024.0
+ANO000972,2023-08-28,Villa moderne Fès,Fès,Ville Nouvelle,Villa,Vente,2578960.92,304.84,4.0,3.0,0.0,2024.0
+ANO000933,2024-04-12,Beau Appartement Fès,Fès,Ville Nouvelle,Appartement,Vente,2229251.13,40.35,3.0,1.0,0.0,1994.0
+ANO000096,2023-04-26,Villa moderne Fès,Fès,,Villa,Location,4895.82,237.86,5.0,3.0,0.0,2008.0
+ANO001150,2024-08-20,Appartement moderne Fès,Fès,,Appartement,Vente,453404.02,75.31,3.0,1.0,,1993.0
+ANO000983,2024-03-05,Appartement moderne Tanger,Tanger,Malabata,Appartement,Vente,560225.13,15.0,2.0,1.0,6.0,2008.0
+ANO000360,2024-07-11,Appartement 122m² Tétouan,Tétouan,,Appartement,Vente,1828753.94,122.52,3.0,2.0,2.0,2016.0
+ANO000889,2024-04-19,Appartement moderne Oujda,Oujda,,Appartement,Vente,605584.76,50.82,2.0,1.0,0.0,2016.0
+ANO001111,2024-03-29,Appartement à vente - Casablanca,Casablanca,Hay Mohammadi,Appartement,Vente,659652.59,46.36,,2.0,0.0,2023.0
+ANO000641,2024-07-22,Duplex moderne Oujda,Oujda,,Duplex,Vente,612420.11,187.4,4.0,,3.0,2001.0
+ANO001146,2024-04-30,Beau Appartement Oujda,Oujda,Hay Qods,Appartement,Vente,2355614.85,99.34,3.0,2.0,0.0,
+ANO000690,,Appartement moderne Fès,Fès,,Appartement,Location,2135.55,120.57,2.0,1.0,4.0,
+ANO000979,2024-12-14,Terrain moderne Kenitra,Kenitra,Hay Essalam,Terrain,Vente,1062814.04,476.72,0.0,0.0,0.0,2005.0
+ANO000483,2023-09-18,Villa 296m² Agdal,Rabat,Agdal,Villa,Vente,5207074.98,296.91,5.0,2.0,,2018.0
+ANO001145,2024-02-08,Appartement 82m² Malabata,Tanger,Malabata,Appartement,Location,2450.68,82.55,2.0,1.0,0.0,
+ANO001308,2023-03-27,Villa moderne Kenitra,Kenitra,,Villa,Vente,6336352.12,222.29,6.0,4.0,0.0,1997.0
+ANO000609,2024-05-19,Villa 285m² Centre,Tétouan,Centre,Villa,Location,9137.31,285.36,5.0,2.0,0.0,2001.0
+ANO000900,2024-12-30,Bureau moderne Agadir,Agadir,Centre,Bureau,Vente,675112.32,144.88,0.0,0.0,4.0,2020.0
+ANO001413,2024-10-12,Beau Appartement Meknès,Meknès,Hamria,Appartement,Location,2888.84,76.32,3.0,1.0,7.0,2021.0
+ANO001033,2023-03-18,Beau Bureau Oujda,Oujda,,Bureau,Vente,1616689.87,143.34,0.0,0.0,0.0,2008.0
+ANO000567,2024-02-08,Terrain 321m² Tanger,Tanger,,Terrain,Location,3816.69,321.55,0.0,0.0,0.0,2012.0
+ANO000103,2023-08-28,Appartement 70m² Centre,Kenitra,Centre,Appartement,Location,2813.28,70.21,2.0,2.0,1.0,2014.0
+ANO000496,2023-07-09,Appartement à vente - Kenitra,Kenitra,,Appartement,Vente,2373036.33,49.54,1.0,1.0,0.0,1995.0
+ANO000026,2024-07-13,Appartement à vente - Tétouan,Tétouan,M'diq,Appartement,Vente,648628.3,87.18,2.0,2.0,6.0,2007.0
+ANO001495,2024-03-28,Appartement à vente - Oujda,Oujda,Centre,Appartement,Vente,448581.52,98.83,2.0,2.0,2.0,
+ANO000263,2023-12-02,Terrain moderne Marrakech,Marrakech,Gueliz,Terrain,Location,4200.71,355.1,0.0,,0.0,2009.0
+ANO001209,2024-06-05,Beau Appartement Marrakech,Marrakech,Targa,Appartement,Vente,777732.04,61.3,2.0,,2.0,2003.0
+ANO000212,2024-07-26,Beau Appartement Tétouan,Tétouan,M'diq,Appartement,Location,1995.1,12.0,2.0,1.0,2.0,1996.0
+ANO000314,2023-07-21,Villa 147m² Ocean,Rabat,Ocean,Villa,Vente,5153882.05,147.58,,1.0,0.0,2013.0
+ANO001228,2024-06-28,Beau Bureau Casablanca,Casablanca,Ain Diab,Bureau,Location,4170.35,127.15,0.0,0.0,6.0,2018.0
+ANO001105,2024-05-21,Appartement à location - Agadir,Agadir,,Appartement,,3201.3,59.63,4.0,3.0,5.0,2007.0
+ANO000526,2024-05-21,Appartement 44m² Hivernage,Marrakech,Hivernage,Appartement,Vente,545723.02,44.62,3.0,2.0,0.0,2019.0
+ANO000363,2023-05-14,Appartement moderne Oujda,Oujda,Centre,Appartement,Vente,673634.01,90.97,2.0,2.0,10.0,2007.0
+ANO000821,2024-10-17,Beau Villa Oujda,Oujda,Hay Qods,Villa,Vente,2237977.63,309.41,4.0,2.0,,2013.0
+ANO000611,2023-12-19,Appartement 90m² Tanger,Tanger,,Appartement,Vente,634985.73,90.83,2.0,2.0,1.0,2017.0
+ANO000222,2023-07-08,Bureau moderne Casablanca,CASABLANCA,Anfa,,Location,3930.52,91.49,0.0,0.0,1.0,2001.0
+ANO000108,2023-10-30,Beau Appartement Marrakech,Marrakech,Hivernage,Appartement,Location,2485.68,64.54,2.0,2.0,2.0,
+ANO000386,2023-06-30,Terrain 217m² Talborjt,Agadir,Talborjt,Terrain,Vente,1102945.13,217.42,0.0,0.0,0.0,2024.0
+ANO001485,2023-02-10,Villa moderne Rabat,Rabat,Hay Riad,Villa,Vente,2774836.01,273.73,5.0,3.0,0.0,2019.0
+ANO000225,2023-10-21,Bureau à location - Oujda,Oujda,,Bureau,Location,4251.7,3000.0,0.0,0.0,3.0,1998.0
+ANO000757,2023-02-20,Appartement 82m² Californie,Casablanca,Californie,Appartement,Vente,489498.42,82.96,1.0,,1.0,2005.0
+ANO000788,,Beau Appartement Casablanca,Casablanca,Maarif,Appartement,Vente,387679.57,46.94,2.0,1.0,10.0,2016.0
+ANO001453,2024-07-22,Appartement à vente - Fès,FÈS,Ville Nouvelle,Appartement,Vente,577244.14,76.9,3.0,1.0,0.0,2008.0
+ANO000872,2023-08-07,Appartement 99m² Meknès,Meknès,,Appartement,Location,7989.57,99.97,4.0,2.0,,2015.0
+ANO000964,2023-10-29,Appartement à vente - Oujda,Oujda,Hay Qods,Appartement,Vente,595958.68,88.53,2.0,2.0,,1992.0
+ANO001006,2023-04-29,Appartement 47m² Meknès,Meknès,,Appartement,Vente,674605.46,47.02,,1.0,0.0,1987.0
+ANO001459,2024-09-02,Appartement à location - Tanger,Tanger,Malabata,Appartement,Location,2677.33,101.15,3.0,1.0,3.0,1991.0
+ANO001367,2024-10-12,Beau Bureau Agadir,Agadir,Centre,Bureau,Vente,1147132.26,122.89,0.0,0.0,6.0,1997.0
+ANO000435,2023-08-23,Bureau à vente - Agadir,Agadir,Talborjt,Bureau,Vente,1130016.1,89.77,0.0,0.0,3.0,2014.0
+ANO000663,2023-05-25,Beau Terrain Tanger,Tanger,,Terrain,Vente,60000000.0,361.94,0.0,0.0,0.0,2004.0
+ANO000202,2023-03-21,Villa moderne Kenitra,Kenitra,Centre,Villa,Vente,8033456.79,283.07,5.0,2.0,0.0,2024.0
+ANO000865,2024-10-08,Appartement moderne Kenitra,Kenitra,Centre,Appartement,Vente,544861.19,86.45,4.0,2.0,7.0,
+ANO000367,2023-06-19,Villa moderne Casablanca,Casablanca,Anfa,,Vente,2658163.84,277.72,4.0,2.0,0.0,2014.0
+ANO000151,2023-06-11,Villa moderne Meknès,Meknès,Ville Nouvelle,Villa,Vente,5905981.35,326.41,5.0,2.0,0.0,2002.0
+ANO000515,2023-10-24,Appartement à location - Agadir,Agadir,Centre,Appartement,Location,10658.01,73.57,3.0,2.0,2.0,
+ANO000250,2023-07-17,Beau Duplex Tanger,TANGER,Iberia,Duplex,Vente,1346770.24,119.42,2.0,2.0,7.0,1998.0
+ANO001122,2023-10-02,Villa à vente - Marrakech,Marrakech,,Villa,Vente,1522276.25,193.28,,2.0,0.0,2024.0
+ANO000485,2023-11-23,Beau Appartement Tétouan,tétouan,M'diq,Appartement,Vente,2096301.27,150.04,3.0,2.0,,2014.0
+ANO000224,2024-08-28,Villa moderne Tétouan,Tétouan,,Villa,Vente,2745753.43,349.69,,2.0,0.0,1993.0
+ANO000634,2024-07-15,Beau Villa Meknès,Meknès,Hamria,Villa,Vente,2052259.84,305.76,4.0,2.0,0.0,2007.0
+ANO000857,2024-05-05,Beau Villa Rabat,Rabat,Souissi,Villa,Vente,2629225.56,231.23,6.0,4.0,0.0,2000.0
+ANO000896,2023-11-10,Appartement moderne Tétouan,Tétouan,,Appartement,Vente,587938.71,96.73,2.0,1.0,2.0,1997.0
+ANO000419,2023-12-01,Villa à vente - Meknès,Meknès,Hamria,Villa,Vente,7841503.49,153.23,6.0,4.0,,2023.0
+ANO000823,2024-11-17,Villa moderne Fès,Fès,Medina,Villa,Location,7273.43,253.04,3.0,2.0,0.0,2010.0
+ANO001257,2024-03-02,Villa 205m² Hassan,Rabat,Hassan,Villa,Vente,2532351.37,205.77,4.0,3.0,0.0,2015.0
+ANO001458,2023-09-22,Appartement à vente - Fès,Fès,Zouagha,Appartement,Vente,484474.98,57.7,3.0,2.0,5.0,2002.0
+ANO000280,2023-10-01,Appartement à location - Rabat,Rabat,Ocean,Appartement,,6402.63,109.61,2.0,1.0,1.0,1996.0
+ANO000552,2023-10-19,Beau Appartement Meknès,Meknès,Ville Nouvelle,Appartement,Location,7434.93,93.46,2.0,1.0,4.0,2007.0
+ANO000963,2023-06-18,Appartement 119m² Agadir,Agadir,,Appartement,Location,1947.4,119.71,,2.0,7.0,2006.0
+ANO000885,2023-09-08,Villa à vente - Casablanca,Casablanca,,Villa,Vente,2455396.04,332.45,4.0,2.0,0.0,1990.0
+ANO000904,2024-06-27,Beau Bureau Fès,Fès,Medina,Bureau,Vente,1825365.34,87.26,0.0,0.0,8.0,2022.0
+ANO001366,2023-09-01,Appartement 99m² M'diq,Tétouan,M'diq,Appartement,Vente,426165.37,99.89,2.0,2.0,4.0,2005.0
+ANO000749,2023-01-28,Beau Appartement Rabat,Rabat,Ocean,Appartement,Vente,744065.51,87.61,3.0,1.0,0.0,1986.0
+ANO001244,2023-06-27,Beau Terrain Tanger,Tanger,Centre Ville,Terrain,Vente,105156.84,402.96,0.0,0.0,0.0,2003.0
+ANO001238,2023-12-18,Appartement moderne Casablanca,Casablanca,Ain Diab,Appartement,Vente,1473673.67,92.03,,1.0,5.0,
+ANO001281,2023-07-29,Villa à vente - Agadir,Agadir,Centre,Villa,Vente,1892838.43,193.22,6.0,4.0,0.0,2017.0
+ANO000977,2024-05-31,Appartement 109m² Kenitra,Kenitra,,Appartement,Location,10524.99,109.64,3.0,1.0,0.0,2016.0
+ANO000398,2023-04-08,Appartement moderne Meknès,Meknès,Hamria,Appartement,Location,1559.67,69.97,,2.0,6.0,2012.0
+ANO001438,2024-04-06,Beau Appartement Marrakech,Marrakech,Gueliz,Appartement,Location,1362.06,97.37,2.0,1.0,,
+ANO001390,2023-06-06,Appartement 109m² Kenitra,Kenitra,,Appartement,Vente,520433.99,109.66,2.0,,0.0,2004.0
+ANO000370,2024-05-31,Appartement à vente - Meknès,Meknès,Ville Nouvelle,Appartement,Vente,423590.13,69.41,2.0,2.0,,2024.0
+ANO000487,2024-11-18,Appartement à location - Rabat,Rabat,,Appartement,Location,2819.08,101.83,3.0,,,1997.0
+ANO001286,2024-07-04,Appartement moderne Rabat,Rabat,Hassan,Appartement,Vente,531844.09,50.11,3.0,1.0,5.0,2008.0
+ANO000119,2023-09-16,Beau Appartement Marrakech,Marrakech,Targa,Appartement,Location,2190.87,59.94,4.0,2.0,4.0,2009.0
+ANO000966,2024-10-19,Beau Appartement Kenitra,Kenitra,,Appartement,Vente,1021148.52,32.9,2.0,2.0,0.0,
+ANO001218,2024-02-01,Terrain 353m² Hay Mohammadi,Agadir,Hay Mohammadi,Terrain,Vente,965239.27,353.37,0.0,0.0,0.0,2003.0
+ANO001360,2023-07-03,Beau Villa Kenitra,Kenitra,Hay Essalam,Villa,Vente,1196271.57,218.93,25.0,13.0,,2007.0
+ANO001118,2023-10-05,Villa à vente - Meknès,Meknès,Ville Nouvelle,Villa,Vente,5488638.18,284.27,3.0,1.0,,2010.0
+ANO000507,2024-06-01,Appartement à vente - Oujda,Oujda,Centre,Appartement,Vente,427097.58,131.35,2.0,2.0,5.0,2019.0
+ANO000548,2023-06-04,Beau Bureau Casablanca,Casablanca,,Bureau,Vente,1764888.22,116.81,0.0,0.0,7.0,2006.0
+ANO000807,2023-03-06,Appartement 51m² Centre,Oujda,Centre,Appartement,Location,2387.53,51.84,2.0,1.0,1.0,
+ANO000018,2023-09-12,Appartement 68m² Talborjt,Agadir,Talborjt,Appartement,Vente,503790.13,68.08,2.0,1.0,1.0,2014.0
+ANO000425,2023-07-20,Beau Villa Casablanca,Casablanca,Ain Diab,Villa,Location,6615.37,224.69,5.0,2.0,0.0,2018.0
+ANO000318,2023-05-27,Duplex à location - Meknès,Meknès,,Duplex,Location,8044.93,87.42,3.0,1.0,6.0,2021.0
+ANO000174,2023-09-19,Beau Duplex Kenitra,Kenitra,,Duplex,Vente,2250832.27,66.53,3.0,2.0,1.0,2014.0
+ANO000678,2023-01-24,Villa à vente - Tétouan,Tétouan,,Villa,Vente,1713226.9,288.11,4.0,2.0,0.0,2014.0
+ANO000796,2023-08-17,Appartement moderne Kenitra,Kenitra,Hay Essalam,Appartement,Vente,458980.56,79.24,,2.0,3.0,2002.0
+ANO001181,2023-09-03,Beau Appartement Meknès,Meknès,Hamria,Appartement,,589702.16,121.28,2.0,1.0,3.0,
+ANO001262,2023-01-10,Terrain à location - Meknès,MEKNÈS,,Terrain,Location,1793.32,355.72,0.0,0.0,0.0,2005.0
+ANO001284,,Appartement 71m² Medina,Fès,Medina,Appartement,Location,1512.09,71.88,2.0,2.0,0.0,2007.0
+ANO001204,2023-04-06,Appartement à vente - Tétouan,Tétouan,M'diq,Appartement,Vente,30000.0,85.85,2.0,2.0,4.0,2010.0
+ANO000394,2023-02-02,Villa moderne Marrakech,Marrakech,Medina,Villa,Location,17378.46,264.39,4.0,2.0,,
+ANO000284,2024-05-24,Bureau moderne Marrakech,Marrakech,Gueliz,Bureau,Vente,987601.22,95.07,0.0,0.0,0.0,2005.0
+ANO000535,2023-04-12,Beau Appartement Fès,Fès,Ville Nouvelle,Appartement,Vente,472484.3,65.02,2.0,,6.0,1992.0
+ANO001371,2023-08-17,Appartement moderne Tanger,Tanger,Iberia,Appartement,Vente,687523.62,65.57,3.0,2.0,3.0,2022.0
+ANO000066,2023-02-10,Beau Villa Tanger,Tanger,,Villa,Vente,2392658.69,179.29,5.0,2.0,0.0,2011.0
+ANO000758,2024-08-13,Villa à vente - Meknès,Meknès,,Villa,Vente,1956385.72,195.94,5.0,3.0,,
+ANO001235,2023-01-31,Beau Appartement Oujda,Oujda,,Appartement,Location,6533.89,64.08,3.0,1.0,3.0,
+ANO000422,2023-05-31,Villa 263m² Tétouan,Tétouan,,Villa,Location,18475.96,263.55,6.0,4.0,0.0,1998.0
+ANO000251,2024-02-08,Villa 141m² Tétouan,Tétouan,,Villa,Vente,4615150.13,141.87,4.0,2.0,0.0,
+ANO001315,2023-12-19,Bureau à location - Fès,Fès,Medina,Bureau,Location,3844.84,24.39,0.0,0.0,4.0,1993.0
+ANO000340,2023-09-24,Appartement moderne Rabat,Rabat,Hassan,Appartement,Location,1967.73,76.99,4.0,3.0,2.0,2006.0
+ANO001489,2024-02-08,Duplex moderne Casablanca,Casablanca,Non spécifié,Duplex,Vente,1451990.2,92.18,4.0,2.0,5.0,2012.0
+ANO000243,2023-02-25,Bureau 133m² Centre Ville,Tanger,Centre Ville,Bureau,Location,120.0,133.9,0.0,0.0,5.0,2005.0
+ANO000846,2024-01-08,Villa moderne Oujda,Oujda,Hay Qods,Villa,Vente,2052455.04,328.07,6.0,3.0,0.0,2017.0
+ANO000303,,Villa à vente - Marrakech,Marrakech,Hivernage,Villa,Vente,3960215.79,309.7,5.0,2.0,0.0,
+ANO000369,2023-11-11,Beau Villa Meknès,Meknès,Hamria,Villa,Vente,2754091.41,166.81,4.0,3.0,0.0,2014.0
+ANO000962,2024-02-29,Appartement à location - Casablanca,Casa,Californie,Appartement,Location,2419.69,16.31,2.0,1.0,3.0,1992.0
+ANO001119,2024-08-10,Appartement moderne Marrakech,Marrakech,Targa,Appartement,Vente,478742.63,80.86,2.0,2.0,1.0,2010.0
+ANO000024,2024-03-29,Appartement moderne Tétouan,Tétouan,,Appartement,Location,1890.34,94.03,2.0,2.0,4.0,2022.0
+ANO001170,2023-01-05,Villa 290m² Marrakech,Marrakech,,Villa,Vente,2169498.01,290.02,4.0,3.0,0.0,2005.0
+ANO001023,2024-07-08,Appartement à vente - Agadir,Agadir,Hay Mohammadi,Appartement,Vente,760591.97,85.46,1.0,1.0,0.0,2011.0
+ANO000707,2024-06-09,Appartement moderne Casablanca,Casablanca,Maarif,Appartement,Vente,242519.96,80.22,3.0,2.0,,2024.0
+ANO000820,,Beau Terrain Fès,Fès,Medina,Terrain,,871821.35,359.96,0.0,0.0,0.0,2007.0
+ANO000405,2023-06-05,Appartement moderne Meknès,Meknès,Hamria,Appartement,Location,6850.55,107.37,1.0,1.0,2.0,2007.0
+ANO000234,2024-05-12,Villa moderne Tanger,Tanger,,Villa,Vente,5722646.8,208.18,5.0,2.0,0.0,2018.0
+ANO000928,2024-08-19,Beau Duplex Fès,Fès,,Duplex,Vente,1410140.86,89.84,4.0,2.0,,1984.0
+ANO000403,2024-11-04,Appartement à location - Agadir,Agadir,Centre,Appartement,Location,1863.04,68.43,4.0,2.0,1.0,1998.0
+ANO000812,2024-01-17,Villa à vente - Kenitra,Kenitra,Centre,Villa,Vente,2112822.87,268.02,6.0,3.0,0.0,2007.0
+ANO000430,2024-12-05,Appartement moderne Rabat,Rabat,Agdal,Appartement,Vente,610958.96,57.42,3.0,2.0,,1967.0
+ANO000130,,Appartement à vente - Fès,Fès,,Appartement,Vente,775140.5,108.76,,2.0,4.0,1991.0
+ANO000639,2024-03-08,Appartement 71m² Tétouan,Tétouan,,Appartement,Location,1335.49,71.43,1.0,1.0,1.0,2003.0
+ANO000137,2024-10-27,Villa 291m² Souissi,Rabat,Souissi,Villa,Location,9040.59,291.16,4.0,3.0,0.0,2010.0
+ANO000978,2023-05-18,Villa à vente - Fès,Fès,Medina,Villa,Vente,1972230.24,178.86,5.0,2.0,0.0,2014.0
+ANO001245,2023-11-01,Villa moderne Fès,Fès,Medina,Villa,Location,4763.02,261.61,4.0,3.0,0.0,2011.0
+ANO000771,2023-09-28,Appartement 129m² Talborjt,Agadir,Talborjt,Appartement,Vente,511519.88,129.88,3.0,1.0,,2011.0
+ANO000534,2023-04-10,Appartement à vente - Tanger,Tanger,Iberia,Appartement,Vente,462639.65,80.43,2.0,1.0,7.0,2020.0
+ANO000441,2024-11-29,Beau Villa Marrakech,Marrakech,Targa,Villa,Location,24339.9,292.38,3.0,1.0,0.0,2009.0
+ANO001151,2024-05-07,Beau Appartement Kenitra,Kenitra,,Appartement,Location,1970.73,53.62,1.0,1.0,3.0,2008.0
+ANO001061,,Villa à location - Agadir,Agadir,Talborjt,Villa,Location,29870.53,291.77,3.0,1.0,0.0,2001.0
+ANO000179,2023-01-30,Beau Appartement Marrakech,Marrakech,Targa,Appartement,Vente,471779.67,86.18,3.0,1.0,8.0,2003.0
+ANO000855,2023-12-20,Beau Bureau Marrakech,Marrakech,Medina,Bureau,Location,3319.32,130.22,0.0,0.0,,2002.0
+ANO001148,2023-01-27,Beau Appartement Tanger,Tanger,Iberia,Appartement,Vente,1754350.97,88.52,4.0,3.0,4.0,2022.0
+ANO000075,2024-07-13,Terrain 106m² Medina,Fès,Medina,Terrain,Vente,1005878.06,106.47,0.0,,0.0,
+ANO001313,2024-11-09,Villa moderne Kenitra,Kenitra,Centre,Villa,Vente,30000.0,143.38,3.0,1.0,0.0,2007.0
+ANO000851,2024-10-12,Beau Bureau Marrakech,Marrakech,Medina,Bureau,Vente,565606.68,44.8,0.0,,3.0,2024.0
+ANO000399,2024-04-06,Appartement à vente - Marrakech,Marrakech,,Appartement,Vente,358840.75,96.01,2.0,1.0,2.0,
+ANO000530,2024-04-11,Villa moderne Fès,Fès,Ville Nouvelle,Villa,Vente,5449458.24,183.79,4.0,3.0,,2001.0
+ANO000194,2024-09-25,Appartement moderne Rabat,Rabat,Ocean,Appartement,Location,2749.0,93.46,3.0,2.0,4.0,1993.0
+ANO001373,2024-05-15,Appartement à vente - Tanger,Tanger,Iberia,Appartement,Vente,520876.15,37.75,2.0,2.0,3.0,2006.0
+ANO001104,2024-04-23,Appartement moderne Tétouan,Tétouan,M'diq,Appartement,Location,2199.85,55.45,2.0,2.0,5.0,2013.0
+ANO000022,2023-10-18,Appartement à location - Kenitra,Kenitra,,Appartement,Location,6086.07,105.31,2.0,1.0,9.0,2020.0
+ANO000400,2024-11-03,Appartement à location - Tanger,Tanger,,Appartement,Location,8883.98,90.6,1.0,,0.0,2020.0
+ANO000040,2023-02-22,Bureau 165m² Centre Ville,Tanger,Centre Ville,,Vente,732528.78,165.71,0.0,0.0,,2016.0
+ANO000908,2023-07-22,Villa 165m² Ville Nouvelle,Meknès,Ville Nouvelle,Villa,Vente,1947126.65,165.29,5.0,3.0,0.0,2021.0
+ANO000524,2024-01-26,Appartement à vente - Oujda,Oujda,Centre,Appartement,Vente,1788378.93,104.86,2.0,2.0,3.0,1999.0
+ANO000945,2024-01-17,Villa moderne Kenitra,Kenitra,Hay Essalam,Villa,Vente,8344333.15,8.0,4.0,,0.0,2008.0
+ANO001474,2024-08-20,Beau Appartement Meknès,Meknès,Ville Nouvelle,Appartement,Vente,283798.27,119.24,3.0,1.0,1.0,2001.0
+ANO000542,2023-02-16,Villa à vente - Agadir,Agadir,Hay Mohammadi,Villa,Vente,1865927.96,399.86,5.0,2.0,0.0,2018.0
+ANO000892,2023-05-11,Appartement à location - Rabat,Rabat,,Appartement,Location,7137.85,59.79,3.0,2.0,0.0,1970.0
+ANO000027,2023-09-24,Appartement à location - Meknès,Meknès,Ville Nouvelle,Appartement,Location,2244.05,35.31,2.0,1.0,4.0,2008.0
+ANO001213,2023-10-13,Appartement à location - Marrakech,Marrakech,Medina,Appartement,Location,7457.4,94.25,3.0,2.0,9.0,2009.0
+ANO001063,2023-05-19,Appartement moderne Marrakech,Marrakech,Targa,Appartement,Location,6085.14,107.34,3.0,2.0,2.0,2017.0
+ANO000206,2023-04-06,Villa 258m² Oujda,Oujda,,Villa,Vente,6193831.77,258.75,4.0,3.0,0.0,2015.0
+ANO001421,,Appartement à vente - Casablanca,Casablanca,Ain Diab,Appartement,Vente,669715.85,77.83,1.0,1.0,,2011.0
+ANO001456,2024-02-09,Beau Villa Tétouan,Tétouan,,Villa,Vente,3248969.67,207.95,6.0,4.0,0.0,2010.0
+ANO000446,2023-07-15,Appartement moderne Tanger,Tanger,Malabata,Appartement,Vente,509549.68,69.66,2.0,1.0,0.0,2007.0
+ANO001452,2023-08-19,Appartement à vente - Meknès,Meknès,,Appartement,Vente,349252.73,95.11,,1.0,,
+ANO001034,2023-02-03,Terrain moderne Fès,Fès,Ville Nouvelle,Terrain,Location,180.0,215.17,,0.0,0.0,2012.0
+ANO001496,2023-11-11,Beau Bureau Meknès,Meknès,Hamria,Bureau,Vente,562097.62,136.83,0.0,0.0,0.0,2005.0
+ANO000358,2024-02-24,Terrain à vente - Oujda,Oujda,,Terrain,Vente,943112.25,309.22,25.0,,0.0,1999.0
+ANO000175,2023-10-04,Appartement 99m² Centre,Tétouan,Centre,Appartement,Location,1881.94,99.26,3.0,1.0,4.0,2003.0
+ANO000104,2023-06-29,Duplex moderne Meknès,Meknès,Hamria,Duplex,Location,6714.74,139.12,3.0,1.0,,2018.0
+ANO000546,2024-02-21,Beau Bureau Kenitra,Kenitra,Hay Essalam,Bureau,Vente,1038540.61,81.8,0.0,,6.0,2013.0
+ANO001327,2023-10-04,Beau Villa Oujda,Oujda,Hay Qods,,Location,9936.21,166.03,3.0,2.0,0.0,2020.0
+ANO000920,2024-01-23,Terrain moderne Agadir,Agadir,,Terrain,Vente,30000.0,3000.0,0.0,0.0,0.0,2014.0
+ANO000078,2024-09-21,Appartement à vente - Meknès,Meknès,Hamria,Appartement,Vente,575975.03,86.14,4.0,,0.0,2004.0
+ANO000848,2024-11-03,Terrain à vente - Oujda,Oujda,Centre,Terrain,Vente,422448.53,273.96,0.0,0.0,0.0,2007.0
+ANO000745,2023-07-11,Beau Terrain Rabat,Rabat,,Terrain,Vente,208968.85,407.11,0.0,,0.0,1981.0
+ANO000302,2023-12-10,Beau Villa Meknès,Meknès,,Villa,Vente,2839225.93,265.29,4.0,2.0,,2010.0
+ANO001202,,Appartement moderne Kenitra,Kenitra,Hay Essalam,Appartement,Location,8001.09,104.55,4.0,3.0,3.0,2003.0
+ANO001419,2024-08-14,Appartement moderne Marrakech,Marrakech,,Appartement,Vente,2093539.21,110.89,1.0,1.0,,
+ANO001224,2023-04-01,Villa 332m² Californie,Casablanca,Californie,Villa,Location,9477.37,332.36,4.0,3.0,0.0,2013.0
+ANO000921,2023-11-13,Appartement 64m² Hassan,Rabat,Hassan,Appartement,Vente,625543.55,64.89,1.0,1.0,1.0,2013.0
+ANO000697,2024-09-04,Appartement moderne Fès,Fès,,Appartement,,1818700.64,121.31,2.0,1.0,1.0,2004.0
+ANO000404,2024-10-12,Appartement à vente - Fès,Fès,,Appartement,Vente,2699830.7,53.9,3.0,,1.0,1989.0
+ANO000143,2023-12-01,Beau Appartement Fès,Fès,Medina,Appartement,Vente,1614030.62,102.15,2.0,2.0,0.0,2015.0
+ANO000840,2024-05-22,Appartement moderne Marrakech,Marrakech,,Appartement,Vente,283683.96,79.26,1.0,1.0,,2003.0
+ANO000605,2024-01-25,Appartement moderne Meknès,Meknès,Hamria,,Location,10579.55,107.42,2.0,1.0,,2007.0
+ANO000220,2024-07-27,Beau Appartement Kenitra,Kenitra,Hay Essalam,Appartement,Vente,547104.99,89.95,2.0,1.0,8.0,2008.0
+ANO000426,2024-10-04,Appartement moderne Meknès,Meknès,Hamria,Appartement,Vente,567006.03,142.98,2.0,1.0,4.0,2013.0
+ANO001484,2023-03-12,Villa à location - Tanger,Tanger,,Villa,Location,11793.42,210.4,4.0,2.0,0.0,2006.0
+ANO000868,2023-02-20,Bureau 94m² Hassan,Rabat,Hassan,Bureau,Location,5791.54,94.59,0.0,0.0,3.0,1982.0
+ANO000015,2023-01-09,Appartement 77m² Kenitra,Kenitra,,Appartement,Location,2144.49,77.47,2.0,1.0,,1998.0
+ANO000163,2023-06-12,Appartement moderne Rabat,Rabat,Ocean,Appartement,Location,1889.65,57.96,3.0,1.0,1.0,2024.0
+ANO001056,,Villa 218m² Ville Nouvelle,Fès,Ville Nouvelle,Villa,Vente,3372256.79,218.81,5.0,3.0,0.0,2002.0
+ANO001397,,Appartement moderne Oujda,OUJDA,Hay Qods,Appartement,Location,2000.02,83.42,2.0,2.0,1.0,2013.0
+ANO001081,2023-11-01,Bureau 234m² Non spécifié,Casablanca,Non spécifié,Bureau,Vente,1204999.73,234.74,0.0,0.0,,1974.0
+ANO000665,2024-10-09,Villa moderne Tétouan,Tétouan,Centre,Villa,Vente,7783370.06,306.66,5.0,2.0,0.0,2012.0
+ANO001149,2023-09-04,Appartement moderne Tanger,tanger,Iberia,Appartement,Location,2533.79,56.47,3.0,1.0,0.0,2009.0
+ANO000891,2024-06-21,Villa à vente - Rabat,rabat,Ocean,Villa,Vente,1851614.09,296.56,3.0,1.0,0.0,2003.0
+ANO001297,2024-01-11,Beau Appartement Rabat,Rabat,Hassan,Appartement,Vente,567165.85,106.24,2.0,1.0,1.0,2010.0
+ANO000565,2023-10-03,Beau Appartement Tétouan,Tétouan,Centre,Appartement,Vente,654555.68,51.35,2.0,1.0,0.0,2011.0
+ANO000505,2024-02-07,Appartement à location - Marrakech,Marrakech,Gueliz,Appartement,Location,1855.93,38.34,2.0,1.0,1.0,2009.0
+ANO001042,2024-08-29,Appartement à location - Meknès,Meknès,Hamria,Appartement,Location,2028.15,81.52,3.0,2.0,0.0,2015.0
+ANO001423,2024-03-12,Appartement moderne Tétouan,Tétouan,,Appartement,,584907.65,2500.0,2.0,1.0,2.0,2001.0
+ANO000884,,Villa à vente - Agadir,Agadir,Talborjt,Villa,Vente,2651138.59,177.38,4.0,2.0,0.0,
+ANO000883,2023-01-03,Terrain à location - Meknès,Meknès,Ville Nouvelle,Terrain,Location,2755.39,12.0,0.0,0.0,0.0,
+ANO000876,2023-04-20,Villa à vente - Casablanca,Casablanca,Anfa,Villa,Vente,4708368.13,362.27,3.0,2.0,0.0,2010.0
+ANO001320,2023-09-08,Appartement à location - Tétouan,Tétouan,M'diq,Appartement,Location,2085.04,112.92,4.0,2.0,2.0,
+ANO000918,2023-05-16,Terrain moderne Oujda,Oujda,,Terrain,Vente,1271905.92,244.1,0.0,0.0,0.0,2008.0
+ANO000815,2024-09-12,Appartement 102m² Souissi,rabat,Souissi,Appartement,Location,1579.71,102.24,1.0,1.0,7.0,1992.0
+ANO000266,2024-02-06,Villa moderne Marrakech,Marrakech,,Villa,Vente,2726576.43,246.84,3.0,1.0,0.0,2015.0
+ANO001339,2023-04-10,Villa à location - Rabat,Rabat,Hassan,,Location,320000.0,203.67,4.0,3.0,0.0,1992.0
+ANO000994,2023-07-08,Beau Appartement Fès,Fès,,Appartement,Vente,573977.25,91.6,1.0,1.0,,2019.0
+ANO000514,2024-05-27,Terrain 296m² Medina,Fès,Medina,Terrain,Vente,10000.0,296.7,0.0,0.0,0.0,2024.0
+ANO000262,2023-03-30,Appartement à location - Oujda,Oujda,Hay Qods,Appartement,Location,2493.08,98.99,3.0,1.0,2.0,2018.0
+ANO000957,2023-03-19,Terrain moderne Kenitra,Kenitra,,Terrain,Location,3841.78,447.48,0.0,0.0,0.0,2004.0
+ANO000824,2024-06-27,Terrain 428m² Hay Mohammadi,Agadir,Hay Mohammadi,Terrain,Vente,737205.85,428.76,0.0,0.0,0.0,2024.0
+ANO000742,2023-03-03,Beau Appartement Oujda,Oujda,Centre,Appartement,Location,2113.01,68.77,1.0,1.0,3.0,2020.0
+ANO001153,2024-12-13,Beau Appartement Casablanca,Casablanca,Bourgogne,Appartement,,2722.61,75.59,2.0,2.0,0.0,2000.0
+ANO000844,2024-02-09,Appartement à location - Tanger,Tanger,Centre Ville,Appartement,Location,1657.17,96.84,2.0,2.0,0.0,2002.0
+ANO001256,2023-02-17,Villa moderne Marrakech,Marrakech,Hivernage,Villa,Location,24105.68,171.97,,2.0,,2020.0
+ANO001242,2023-04-14,Villa moderne Marrakech,Marrakech,Gueliz,Villa,Vente,1306812.27,200.24,3.0,1.0,0.0,2014.0
+ANO000254,2024-09-18,Beau Appartement Marrakech,Marrakech,Targa,Appartement,Vente,634037.19,70.61,2.0,1.0,2.0,
+ANO000354,2023-07-24,Terrain à location - Marrakech,Marrakech,Gueliz,Terrain,Location,2755.26,392.6,0.0,0.0,0.0,1987.0
+ANO000438,2024-07-06,Appartement moderne Rabat,Rabat,Souissi,,Vente,2327106.52,119.76,2.0,1.0,7.0,2008.0
+ANO000779,,Appartement à vente - Meknès,Meknès,Ville Nouvelle,Appartement,Vente,2356153.27,99.38,1.0,1.0,5.0,2014.0
+ANO001276,2023-02-08,Terrain 158m² Hay Essalam,Kenitra,Hay Essalam,Terrain,Vente,1151515.37,158.86,0.0,0.0,,2013.0
+ANO001409,2024-09-30,Appartement à vente - Kenitra,KENITRA,Centre,Appartement,Vente,385191.65,98.0,2.0,2.0,5.0,2024.0
+ANO000193,2024-10-24,Appartement moderne Rabat,Rabat,Hassan,Appartement,Location,2313.09,104.27,,1.0,6.0,1977.0
+ANO000453,2024-01-22,Bureau à vente - Meknès,MEKNÈS,,Bureau,Vente,981502.22,135.67,0.0,0.0,0.0,1998.0
+ANO000424,2023-10-17,Villa moderne Agadir,Agadir,Hay Mohammadi,Villa,Vente,2818046.59,337.3,5.0,3.0,0.0,2014.0
+ANO000926,2024-05-05,Beau Bureau Casablanca,Casablanca,Anfa,Bureau,Vente,1086049.8,109.75,0.0,0.0,,1996.0
+ANO001380,2023-03-16,Appartement 107m² Ville Nouvelle,FÈS,Ville Nouvelle,Appartement,Vente,590554.9,107.28,2.0,1.0,1.0,
+ANO000437,2024-09-13,Beau Bureau Oujda,Oujda,,Bureau,Location,6537.43,138.99,0.0,0.0,2.0,2009.0
+ANO001307,2023-05-31,Beau Appartement Kenitra,Kenitra,Hay Essalam,Appartement,Vente,663951.35,83.51,1.0,1.0,6.0,
+ANO001414,2024-10-06,Villa moderne Meknès,Meknès,,Villa,Vente,5882654.01,102.65,5.0,2.0,,2017.0
+ANO001011,2023-03-03,Beau Appartement Tanger,Tanger,Malabata,Appartement,Location,4018.68,68.54,4.0,2.0,1.0,2013.0
+ANO000201,2024-05-14,Beau Appartement Tanger,tanger,Centre Ville,Appartement,Vente,2302795.45,61.95,2.0,2.0,0.0,2016.0
+ANO000834,2024-07-27,Terrain à vente - Kenitra,Kenitra,,Terrain,Vente,902015.39,368.47,0.0,0.0,,2017.0
+ANO000372,2023-10-07,Appartement moderne Tétouan,Tétouan,,Appartement,Vente,609481.83,88.76,1.0,1.0,1.0,2012.0
+ANO000215,2023-07-24,Appartement à vente - Tanger,Tanger,Iberia,Appartement,Vente,518849.04,47.42,1.0,1.0,3.0,2008.0
+ANO000209,2024-11-06,Terrain à location - Rabat,Rabat,Souissi,Terrain,,5111.82,238.65,0.0,0.0,0.0,1985.0
+ANO000256,2024-10-30,Beau Appartement Fès,FÈS,Zouagha,Appartement,Vente,465618.83,84.13,2.0,1.0,,2024.0
+ANO001087,2024-04-04,Terrain 472m² Talborjt,Agadir,Talborjt,Terrain,Vente,1156020.39,472.36,0.0,,0.0,2008.0
+ANO001102,2024-03-07,Terrain 432m² Ville Nouvelle,MEKNÈS,Ville Nouvelle,Terrain,Vente,492274.19,432.1,0.0,0.0,0.0,2018.0
+ANO000392,2024-11-02,Bureau moderne Casablanca,Casablanca,Bourgogne,Bureau,Vente,1174962.75,89.84,0.0,0.0,8.0,1995.0
+ANO000914,2023-05-05,Beau Bureau Kenitra,Kenitra,Centre,Bureau,Vente,1541590.39,136.59,0.0,0.0,,2013.0
+ANO001314,2024-02-24,Beau Bureau Oujda,Oujda,,Bureau,Vente,890972.5,135.17,0.0,0.0,,2019.0
+ANO000098,2023-10-30,Duplex 120m² Medina,Fès,Medina,Duplex,Vente,1504199.44,120.53,3.0,2.0,8.0,2012.0
+ANO000703,2024-02-18,Appartement à vente - Tanger,Tanger,Iberia,Appartement,Vente,441925.51,100.96,2.0,1.0,3.0,2007.0
+ANO000409,2023-07-20,Beau Appartement Marrakech,Marrakech,Gueliz,Appartement,Vente,1925884.94,81.75,,3.0,2.0,2010.0
+ANO000612,2024-06-15,Villa 201m² Agadir,agadir,,Villa,Location,9374.25,201.01,3.0,2.0,0.0,2012.0
+ANO001382,2024-02-22,Villa moderne Kenitra,Kenitra,,Villa,Vente,6467479.28,128.49,4.0,2.0,0.0,
+ANO000054,2024-08-25,Appartement à vente - Fès,fès,Ville Nouvelle,Appartement,Vente,628786.43,60.63,2.0,2.0,,2011.0
+ANO000776,2024-07-28,Terrain 168m² Anfa,Casablanca,Anfa,Terrain,Location,4002.49,169.0,,0.0,0.0,1994.0
+ANO000699,2024-07-15,Bureau à vente - Kenitra,Kenitra,Centre,Bureau,Vente,1615644.71,116.97,0.0,0.0,0.0,2015.0
+ANO001333,2023-04-20,Appartement 76m² Malabata,Tanger,Malabata,Appartement,Vente,300662.58,76.99,3.0,1.0,2.0,2023.0
+ANO000645,2024-10-13,Beau Appartement Oujda,Oujda,Centre,Appartement,Location,1976.65,82.35,,3.0,6.0,2024.0
+ANO001032,2023-06-12,Villa 180m² Meknès,Meknès,,Villa,Vente,6629414.96,180.89,3.0,2.0,,
+ANO000603,2023-11-07,Appartement 97m² Medina,Marrakech,Medina,Appartement,Location,8427.4,97.72,4.0,3.0,0.0,
+ANO000679,2023-10-01,Appartement à vente - Casablanca,Casablanca,Californie,Appartement,Vente,677225.19,153.99,3.0,2.0,4.0,2005.0
+ANO000576,2023-04-10,Appartement à vente - Tanger,Tanger,Iberia,Appartement,Vente,2434392.85,71.6,2.0,2.0,2.0,2016.0
+ANO000814,2023-07-21,Appartement 128m² Non spécifié,Casablanca,Non spécifié,Appartement,Vente,357210.75,128.74,2.0,1.0,0.0,
+ANO001449,2023-12-16,Villa à location - Tanger,Tanger,Malabata,Villa,Location,7492.2,252.19,4.0,2.0,0.0,2009.0
+ANO000847,2023-07-08,Appartement 86m² Ville Nouvelle,Meknès,Ville Nouvelle,Appartement,Vente,400513.91,86.37,1.0,1.0,0.0,2004.0
+ANO000760,,Appartement 101m² Hay Essalam,Kenitra,Hay Essalam,Appartement,Vente,412144.72,101.66,2.0,2.0,2.0,2013.0
+ANO000701,2023-09-05,Bureau moderne Oujda,Oujda,Centre,Bureau,Vente,60000000.0,83.92,0.0,0.0,6.0,2003.0
+ANO001129,2023-05-31,Villa 204m² Ville Nouvelle,Meknès,Ville Nouvelle,Villa,Vente,2752950.21,204.88,6.0,4.0,0.0,2003.0
+ANO001058,2024-07-26,Beau Appartement Tétouan,Tétouan,M'diq,Appartement,Vente,2243298.48,52.07,20.0,10.0,2.0,2016.0
+ANO000873,2023-02-16,Villa moderne Marrakech,Marrakech,,Villa,Vente,4898739.3,256.56,4.0,3.0,0.0,
+ANO000598,2023-10-26,Beau Duplex Casablanca,CASABLANCA,Hay Mohammadi,Duplex,Vente,1869015.65,141.99,2.0,1.0,,
+ANO000210,2023-03-07,Villa 254m² Talborjt,Agadir,Talborjt,Villa,Location,23245.28,254.46,4.0,2.0,0.0,
+ANO000050,2024-11-19,Appartement moderne Agadir,Agadir,Centre,Appartement,Vente,391545.21,98.05,4.0,2.0,3.0,2012.0
+ANO000786,2024-08-26,Villa 220m² Centre,Kenitra,Centre,Villa,Vente,6391875.8,220.46,4.0,3.0,,2011.0
+ANO000377,2024-09-21,Appartement moderne Agadir,Agadir,,Appartement,Vente,542303.4,93.22,2.0,,1.0,2012.0
+ANO000414,2023-10-28,Appartement à vente - Rabat,Rabat,Hay Riad,Appartement,,745407.59,75.52,1.0,1.0,3.0,1996.0
+ANO001002,2024-06-11,Beau Appartement Agadir,Agadir,Hay Mohammadi,Appartement,Location,11020.3,98.91,4.0,2.0,1.0,
+ANO000259,2023-07-26,Appartement 45m² Talborjt,Agadir,Talborjt,Appartement,Vente,60000000.0,45.74,3.0,1.0,5.0,2004.0
+ANO000999,2023-10-08,Bureau à vente - Meknès,Meknès,,Bureau,Vente,819232.62,123.1,0.0,,,2012.0
+ANO001422,2024-06-25,Villa 245m² Iberia,TANGER,Iberia,Villa,Location,22249.45,245.21,5.0,3.0,0.0,2013.0
+ANO000996,2024-01-27,Appartement moderne Casablanca,CASABLANCA,Ain Diab,Appartement,Location,1739.18,81.93,2.0,2.0,4.0,2001.0
+ANO001093,2024-11-26,Appartement 88m² Ocean,Rabat,Ocean,Appartement,Location,9872.32,88.36,3.0,1.0,4.0,2001.0
+ANO000489,2024-02-07,Beau Appartement Agadir,Agadir,,Appartement,Vente,1767790.62,99.71,1.0,1.0,0.0,2023.0
+ANO000269,2024-12-11,Villa à vente - Tétouan,Tétouan,M'diq,Villa,Vente,5348255.66,225.27,5.0,3.0,0.0,
+ANO000401,2024-12-14,Appartement à vente - Casablanca,Casablanca,Ain Diab,Appartement,Vente,80000000.0,74.26,4.0,2.0,0.0,2001.0
+ANO000347,2023-09-12,Appartement à vente - Kenitra,Kenitra,,,Vente,576934.22,111.18,1.0,1.0,1.0,
+ANO001107,2023-06-17,Beau Appartement Meknès,Meknès,Ville Nouvelle,Appartement,Location,2738.49,143.0,4.0,2.0,1.0,2011.0
+ANO001338,,Appartement 60m² Tétouan,Tétouan,,Appartement,Vente,381332.43,60.38,2.0,2.0,3.0,
+ANO000828,2024-02-09,Villa à vente - Tétouan,Tétouan,M'diq,Villa,Vente,3059688.95,409.4,5.0,3.0,,2003.0
+ANO001219,2024-08-29,Villa à vente - Marrakech,Marrakech,Targa,Villa,Vente,2274681.74,279.13,,3.0,,2010.0
+ANO000633,2023-02-09,Terrain 491m² Centre,Kenitra,Centre,Terrain,Vente,722361.18,491.84,0.0,0.0,0.0,2014.0
+ANO000029,2023-07-23,Appartement moderne Rabat,Rabat,,Appartement,Vente,452980.77,72.46,,1.0,1.0,2013.0
+ANO000308,2024-08-27,Bureau 125m² Meknès,meknès,,Bureau,Vente,789393.88,125.32,,0.0,2.0,2004.0
+ANO000150,2024-09-20,Beau Villa Tanger,Tanger,Iberia,Villa,Location,18360.72,208.89,4.0,2.0,0.0,2001.0
+ANO000407,2024-04-23,Beau Appartement Agadir,Agadir,Hay Mohammadi,Appartement,Vente,449758.35,138.63,3.0,2.0,0.0,2000.0
+ANO000777,2024-01-03,Villa à vente - Kenitra,Kenitra,Hay Essalam,Villa,Vente,2547768.88,317.93,5.0,2.0,0.0,2007.0
+ANO000345,2024-02-02,Beau Appartement Meknès,Meknès,,Appartement,Vente,2159689.25,101.18,4.0,3.0,3.0,2006.0
+ANO000368,2024-12-23,Villa moderne Tétouan,Tétouan,,Villa,Vente,751872.31,417.07,4.0,3.0,0.0,
+ANO000319,2024-10-21,Villa 339m² Meknès,Meknès,,Villa,Vente,2158924.41,339.38,,,0.0,2012.0
+ANO000675,2024-08-03,Appartement 52m² Talborjt,Agadir,Talborjt,Appartement,Vente,713279.03,52.28,3.0,2.0,9.0,
+ANO001051,2023-01-12,Appartement à location - Casablanca,Casablanca,,Appartement,Location,2604.15,75.77,,2.0,5.0,
+ANO000135,2024-02-06,Appartement moderne Agadir,Agadir,Hay Mohammadi,Appartement,Vente,550629.24,86.17,4.0,3.0,,
+ANO000863,2024-09-25,Appartement moderne Oujda,Oujda,Centre,Appartement,Vente,391690.34,79.93,2.0,2.0,0.0,
+ANO000454,2024-07-30,Appartement à vente - Oujda,Oujda,Hay Qods,Appartement,Vente,572003.19,84.62,1.0,,3.0,2014.0
+ANO001246,2023-07-18,Appartement moderne Rabat,Rabat,,Appartement,Vente,535353.14,73.55,,1.0,3.0,1997.0
+ANO000231,2024-12-19,Beau Appartement Kenitra,Kenitra,Centre,Appartement,Vente,506684.06,113.98,3.0,1.0,4.0,2001.0
+ANO000478,2023-01-27,Terrain 403m² Marrakech,Marrakech,,Terrain,Vente,1044721.16,403.26,0.0,,0.0,2005.0
+ANO001024,2023-10-25,Beau Appartement Meknès,Meknès,Hamria,Appartement,Location,2532.51,53.27,18.0,9.0,6.0,2023.0
+ANO001222,2023-10-13,Beau Terrain Rabat,Rabat,Ocean,Terrain,Vente,893713.46,443.13,0.0,0.0,0.0,1981.0
+ANO000967,2023-02-23,Appartement 92m² Centre,Kenitra,Centre,Appartement,Vente,515506.3,92.18,2.0,1.0,1.0,2009.0
+ANO000095,2024-05-22,Bureau moderne Marrakech,Marrakech,Medina,Bureau,Vente,1834406.73,70.49,0.0,0.0,4.0,2024.0
+ANO001384,2024-12-30,Beau Appartement Casablanca,Casablanca,Californie,Appartement,Vente,579223.62,83.49,2.0,2.0,0.0,2016.0
+ANO000700,2023-10-01,Appartement à vente - Kenitra,Kenitra,Centre,Appartement,Vente,421377.13,46.16,3.0,1.0,7.0,2016.0
+ANO000455,2024-11-02,Beau Villa Agadir,Agadir,,Villa,Location,24717.48,172.15,4.0,3.0,,2019.0
+ANO000168,2024-08-08,Beau Villa Tanger,Tanger,Centre Ville,Villa,Vente,3154708.32,138.11,4.0,2.0,0.0,2014.0
+ANO000766,2023-01-31,Villa à location - Tétouan,tétouan,Centre,Villa,Location,320000.0,283.47,5.0,3.0,0.0,2021.0
+ANO000593,2024-12-04,Terrain moderne Kenitra,Kenitra,Centre,Terrain,Location,2465.88,295.56,0.0,0.0,0.0,2006.0
+ANO001466,2024-03-26,Appartement à vente - Marrakech,Marrakech,Targa,Appartement,Vente,387097.9,62.48,,1.0,4.0,2002.0
+ANO001425,2023-04-12,Appartement moderne Tanger,TANGER,Iberia,Appartement,Vente,386971.12,58.01,2.0,1.0,9.0,1993.0
+ANO000136,2023-09-26,Beau Villa Tanger,TANGER,,Villa,Vente,2511424.97,164.59,3.0,1.0,0.0,2008.0
+ANO000998,2024-06-25,Terrain moderne Tanger,Tanger,Centre Ville,Terrain,Location,3922.54,308.64,0.0,0.0,0.0,2008.0
+ANO000321,2023-05-02,Appartement moderne Meknès,Meknès,Ville Nouvelle,Appartement,Vente,627126.73,118.23,3.0,2.0,0.0,2011.0
+ANO000654,2024-07-18,Beau Villa Casablanca,Casa,Maarif,Villa,Vente,2311619.46,245.61,3.0,2.0,,2004.0
+ANO001279,2024-03-20,Villa à vente - Meknès,Meknès,,Villa,Vente,1714937.87,218.2,5.0,,0.0,2019.0
+ANO000951,2024-02-22,Beau Appartement Rabat,Rabat,,Appartement,Vente,484207.74,105.83,2.0,1.0,1.0,1983.0
+ANO000696,2024-06-14,Beau Appartement Meknès,Meknès,,Appartement,Vente,1511715.03,72.3,3.0,2.0,4.0,2008.0
+ANO000005,2024-10-20,Villa moderne Oujda,OUJDA,Centre,Villa,Vente,6362943.41,96.94,4.0,2.0,0.0,
+ANO001396,2024-03-31,Appartement moderne Tétouan,Tétouan,M'diq,Appartement,Vente,60000000.0,143.73,3.0,2.0,0.0,2004.0
+ANO001068,2023-09-01,Appartement moderne Fès,Fès,Ville Nouvelle,Appartement,Vente,601053.38,90.56,4.0,2.0,3.0,2019.0
+ANO001337,2023-11-21,Appartement moderne Agadir,Agadir,Talborjt,Appartement,Vente,1804690.46,100.83,4.0,2.0,2.0,2010.0
+ANO001460,2024-05-22,Villa 273m² Medina,marrakech,Medina,Villa,Vente,3221034.83,273.62,6.0,3.0,0.0,2003.0
+ANO001336,2023-06-20,Beau Appartement Fès,Fès,,Appartement,Vente,621108.07,17.39,4.0,3.0,2.0,1990.0
+ANO000683,,Appartement 84m² Malabata,Tanger,Malabata,Appartement,Location,2200.1,84.77,2.0,1.0,,2007.0
+ANO000902,2024-04-02,Beau Appartement Marrakech,MARRAKECH,Gueliz,Appartement,Location,2691.38,91.23,4.0,3.0,0.0,2018.0
+ANO001193,2023-12-10,Appartement moderne Tanger,TANGER,,Appartement,Vente,450165.41,69.04,3.0,,,2003.0
+ANO000949,2023-12-11,Bureau 76m² Centre Ville,Tanger,Centre Ville,,Vente,1286710.23,76.11,0.0,0.0,3.0,2005.0
+ANO000008,2024-05-12,Terrain moderne Rabat,Rabat,Ocean,Terrain,Vente,732267.11,308.1,0.0,0.0,0.0,1978.0
+ANO000301,2023-10-10,Appartement moderne Rabat,Rabat,Souissi,,Vente,2147469.32,75.17,,2.0,1.0,2000.0
+ANO000732,2024-05-21,Appartement moderne Kenitra,Kenitra,Hay Essalam,,Vente,1454730.4,89.74,2.0,2.0,,2004.0
+ANO000273,2024-05-13,Appartement moderne Meknès,Meknès,Hamria,Appartement,Vente,582046.03,107.24,3.0,1.0,2.0,2010.0
+ANO000283,2023-09-29,Duplex à vente - Marrakech,Marrakech,Targa,Duplex,Vente,1973501.19,272.77,,2.0,3.0,2004.0
+ANO001207,2024-12-19,Appartement moderne Rabat,Rabat,Agdal,Appartement,Location,2773.49,107.37,1.0,1.0,5.0,1979.0
+ANO000895,2023-02-11,Beau Bureau Meknès,Meknès,Ville Nouvelle,Bureau,Vente,1068220.89,149.27,,0.0,4.0,2012.0
+ANO001098,2023-05-04,Beau Villa Casablanca,Casablanca,Maarif,Villa,Location,3824.38,352.16,3.0,2.0,0.0,2005.0
+ANO001045,2023-08-23,Villa à location - Casablanca,Casa,Bourgogne,Villa,Location,13612.79,369.6,,1.0,0.0,2000.0
+ANO000519,2024-07-03,Appartement 94m² Tétouan,TÉTOUAN,,Appartement,Vente,522822.53,94.18,,1.0,10.0,2017.0
+ANO000936,2023-08-21,Beau Appartement Kenitra,Kenitra,Hay Essalam,Appartement,Vente,336850.44,82.99,1.0,1.0,5.0,2003.0
+ANO001329,2024-10-15,Appartement moderne Agadir,Agadir,Centre,Appartement,Vente,579145.84,32.95,3.0,2.0,3.0,2014.0
+ANO000674,2024-04-01,Beau Villa Tétouan,Tétouan,,Villa,Vente,1580370.8,254.79,5.0,2.0,,2012.0
+ANO001109,2023-11-25,Villa 288m² Hay Riad,Rabat,Hay Riad,Villa,Vente,2751938.67,288.01,4.0,2.0,0.0,1999.0
+ANO000765,2023-03-27,Terrain moderne Tétouan,Tétouan,M'diq,Terrain,Vente,825595.44,203.01,,0.0,0.0,
+ANO000125,2023-01-10,Villa 326m² Oujda,oujda,,Villa,Vente,8176715.41,326.74,4.0,2.0,0.0,2024.0
+ANO000348,2024-03-02,Terrain 429m² Agadir,Agadir,,Terrain,Vente,662334.72,429.44,0.0,0.0,0.0,
+ANO000655,2023-09-25,Appartement 101m² Hay Essalam,Kenitra,Hay Essalam,Appartement,Location,8833.8,101.13,2.0,1.0,0.0,2014.0
+ANO000190,2024-12-25,Beau Villa Fès,Fès,Medina,Villa,Location,6783.83,100.34,4.0,3.0,0.0,1994.0
+ANO000320,2024-01-27,Appartement moderne Tétouan,Tétouan,Centre,Appartement,Vente,2182701.29,99.24,2.0,,3.0,2013.0
+ANO001065,2024-10-14,Terrain à vente - Agadir,Agadir,Hay Mohammadi,Terrain,Vente,1484495.55,225.88,,0.0,0.0,
+ANO001471,2023-03-23,Beau Terrain Casablanca,Casablanca,Californie,Terrain,Vente,599496.44,292.67,0.0,0.0,0.0,1984.0
+ANO000944,2023-04-20,Appartement à vente - Tanger,Tanger,Malabata,Appartement,Vente,1853397.19,42.4,1.0,1.0,5.0,
+ANO001253,2023-05-13,Beau Appartement Rabat,Rabat,,Appartement,,30000.0,136.05,2.0,1.0,4.0,2004.0
+ANO001165,2023-08-14,Appartement à vente - Tétouan,TÉTOUAN,M'diq,Appartement,Vente,2198479.67,71.62,3.0,2.0,4.0,2014.0
+ANO000646,2024-02-16,Appartement moderne Marrakech,Marrakech,Medina,Appartement,Vente,1398811.87,91.34,4.0,3.0,1.0,2013.0
+ANO000116,2024-12-02,Appartement moderne Meknès,Meknès,Ville Nouvelle,Appartement,Vente,577845.99,48.8,2.0,2.0,7.0,1998.0
+ANO001358,2024-05-07,Villa moderne Casablanca,Casablanca,Ain Diab,Villa,Location,7390.54,126.99,4.0,2.0,0.0,1997.0
+ANO000491,2024-02-28,Beau Villa Oujda,Oujda,,Villa,Vente,7794947.23,201.22,5.0,3.0,0.0,2008.0
+ANO000188,2024-12-02,Appartement 106m² Ville Nouvelle,Fès,Ville Nouvelle,Appartement,Vente,799048.1,106.78,3.0,2.0,4.0,1995.0
+ANO000727,2023-03-19,Appartement 85m² Agadir,Agadir,,Appartement,Location,11237.77,85.17,3.0,2.0,9.0,2008.0
+ANO000818,2024-12-12,Beau Terrain Tétouan,Tétouan,Centre,Terrain,Vente,550453.34,291.94,0.0,0.0,0.0,2004.0
+ANO001137,2023-03-20,Villa moderne Agadir,agadir,Talborjt,Villa,Location,22665.15,413.75,5.0,2.0,0.0,2004.0
+ANO001272,2023-10-08,Appartement 53m² Anfa,Casablanca,Anfa,Appartement,Vente,561720.45,53.39,3.0,,1.0,1973.0
+ANO000344,2024-08-05,Terrain moderne Marrakech,Marrakech,Gueliz,Terrain,Vente,493162.23,269.11,0.0,0.0,,1996.0
+ANO001141,2023-03-12,Beau Appartement Kenitra,Kenitra,,Appartement,Vente,477117.47,83.07,4.0,3.0,5.0,
+ANO000845,2023-10-28,Bureau moderne Meknès,Meknès,,Bureau,Location,5688.82,83.25,,0.0,7.0,2006.0
+ANO001106,2024-03-18,Bureau 117m² Centre,Oujda,Centre,Bureau,Vente,1366578.42,117.84,,0.0,2.0,2002.0
+ANO001385,2024-07-31,Villa moderne Casablanca,Casablanca,,Villa,Location,8972.22,190.25,5.0,2.0,0.0,2014.0
+ANO000725,2024-09-18,Appartement à location - Tanger,Tanger,Malabata,Appartement,Location,2046.47,88.79,1.0,1.0,3.0,2003.0
+ANO000556,2023-01-11,Appartement moderne Tanger,Tanger,Centre Ville,Appartement,Vente,547255.83,60.02,4.0,,3.0,
+ANO000071,2023-06-14,Terrain à vente - Agadir,Agadir,Hay Mohammadi,Terrain,Vente,971267.15,436.27,0.0,0.0,0.0,2017.0
+ANO000488,2024-08-12,Appartement moderne Casablanca,Casablanca,Anfa,Appartement,Location,1612.34,79.77,2.0,2.0,0.0,1987.0
+ANO000037,2023-11-11,Bureau moderne Tétouan,Tétouan,,Bureau,Vente,1303020.16,117.02,0.0,0.0,,1994.0
+ANO001161,2024-07-13,Bureau 15m² Hay Riad,Rabat,Hay Riad,Bureau,Vente,1079127.77,15.87,0.0,0.0,,
+ANO000110,2023-10-21,Terrain 374m² Casablanca,Casablanca,,Terrain,Location,4150.0,374.89,0.0,0.0,0.0,2009.0
+ANO001046,2023-04-13,Appartement 108m² M'diq,Tétouan,M'diq,Appartement,Location,2412.64,108.79,2.0,2.0,3.0,2001.0
+ANO000480,2023-06-06,Beau Villa Casablanca,Casablanca,Ain Diab,Villa,Vente,8411018.36,289.28,5.0,2.0,0.0,
+ANO000589,2024-07-04,Appartement moderne Rabat,Rabat,Agdal,Appartement,Vente,520472.5,63.92,4.0,2.0,4.0,2024.0
+ANO000128,2024-12-21,Beau Duplex Agadir,Agadir,Centre,Duplex,Vente,1440364.41,43.81,2.0,2.0,0.0,2005.0
+ANO000961,2024-02-01,Terrain moderne Agadir,agadir,Hay Mohammadi,Terrain,Location,514.12,45.52,0.0,,,2005.0
+ANO000004,2023-06-17,Beau Villa Oujda,Oujda,,Villa,Vente,2471280.02,212.93,5.0,3.0,0.0,2006.0
+ANO000173,2024-05-16,Bureau 80m² Medina,Fès,Medina,Bureau,Location,5601.47,80.9,0.0,0.0,,2001.0
+ANO001395,2024-02-24,Appartement à location - Kenitra,Kenitra,Centre,Appartement,Location,1793.75,70.38,3.0,1.0,7.0,2006.0
+ANO000930,2024-04-06,Villa 213m² Tétouan,Tétouan,,Villa,Location,6207.77,213.51,3.0,2.0,0.0,
+ANO000563,2023-07-10,Appartement moderne Oujda,Oujda,Hay Qods,Appartement,Vente,494245.92,90.03,3.0,1.0,0.0,2012.0
+ANO000572,2023-09-16,Terrain moderne Meknès,Meknès,Ville Nouvelle,Terrain,Vente,1054226.5,235.76,0.0,,0.0,2009.0
+ANO000937,2024-05-12,Villa à location - Tanger,Tanger,,Villa,Location,29492.34,206.04,6.0,4.0,0.0,2009.0
+ANO001374,2023-08-25,Appartement 69m² Centre,Tétouan,Centre,Appartement,Location,6336.31,69.81,3.0,1.0,2.0,
+ANO000465,2023-06-03,Appartement 88m² Casablanca,Casablanca,,Appartement,Location,3166.43,88.41,1.0,1.0,6.0,1994.0
+ANO001285,2024-04-15,Appartement 57m² Fès,Fès,,Appartement,Vente,705527.57,57.32,3.0,2.0,4.0,1994.0
+ANO000529,2023-08-18,Beau Villa Tétouan,Tétouan,,Villa,Location,9657.63,305.45,5.0,3.0,0.0,2011.0
+ANO001351,2023-12-26,Villa 264m² Hamria,Meknès,Hamria,Villa,Location,7323.89,264.5,4.0,2.0,0.0,2013.0
+ANO000440,2024-03-25,Appartement 69m² Targa,Marrakech,Targa,Appartement,Location,7511.64,69.76,1.0,1.0,6.0,2008.0
+ANO000154,2024-12-04,Beau Terrain Tanger,Tanger,Malabata,Terrain,Vente,440636.63,535.77,0.0,0.0,,2010.0
+ANO000661,2024-01-30,Terrain moderne Meknès,Meknès,Hamria,Terrain,Vente,508502.98,134.45,0.0,0.0,,2004.0
+ANO001283,2023-09-04,Duplex 126m² Kenitra,Kenitra,,Duplex,Vente,2454517.0,126.85,4.0,2.0,6.0,2008.0
+ANO000751,2024-07-22,Bureau 180m² Kenitra,Kenitra,,Bureau,Location,4595.92,180.45,0.0,0.0,8.0,1998.0
+ANO001043,2023-02-27,Appartement 117m² Souissi,rabat,Souissi,Appartement,Vente,320877.27,117.96,4.0,3.0,3.0,
+ANO000084,2024-10-28,Beau Villa Tanger,Tanger,,Villa,Vente,6607472.57,149.13,4.0,3.0,0.0,2017.0
+ANO001463,2024-09-17,Duplex moderne Marrakech,Marrakech,,Duplex,Location,5552.93,78.37,2.0,2.0,2.0,2011.0
+ANO001199,2023-05-22,Beau Appartement Rabat,RABAT,Hay Riad,Appartement,Location,180.0,113.66,2.0,1.0,1.0,1985.0
+ANO000756,2023-04-28,Beau Appartement Kenitra,Kenitra,Hay Essalam,Appartement,Vente,2477003.0,40.54,2.0,1.0,0.0,
+ANO000089,2024-09-23,Villa moderne Agadir,Agadir,,Villa,Vente,5621147.77,150.18,6.0,3.0,,2023.0
+ANO000326,2024-05-31,Appartement 73m² Centre,Agadir,Centre,Appartement,Vente,323255.11,73.69,2.0,1.0,3.0,1990.0
+ANO000517,2023-05-13,Appartement à vente - Agadir,Agadir,Talborjt,Appartement,Vente,641929.63,115.67,3.0,1.0,7.0,2009.0
+ANO001179,2023-03-16,Villa à location - Casablanca,Casablanca,Ain Diab,Villa,Location,36575.06,377.56,5.0,2.0,0.0,2010.0
+ANO001370,2023-10-02,Beau Appartement Casablanca,Casablanca,Hay Mohammadi,Appartement,,2542633.35,79.99,,,1.0,2003.0
+ANO000706,2024-04-26,Beau Appartement Meknès,Meknès,Hamria,Appartement,Location,1953.66,79.29,2.0,,4.0,2002.0
+ANO000258,2024-05-23,Appartement 100m² Hay Essalam,Kenitra,Hay Essalam,Appartement,Vente,482503.99,100.81,1.0,1.0,4.0,
+ANO000767,2023-12-21,Appartement moderne Marrakech,Marrakech,Gueliz,,Vente,628054.01,47.42,2.0,1.0,1.0,2018.0
+ANO001175,2024-11-10,Appartement moderne Casablanca,Casa,Anfa,Appartement,,1613734.08,125.73,4.0,3.0,0.0,1991.0
+ANO000716,2023-06-01,Beau Bureau Kenitra,Kenitra,Centre,Bureau,Vente,1795945.38,55.96,0.0,0.0,8.0,2003.0
+ANO001054,2024-03-09,Beau Villa Rabat,Rabat,Souissi,Villa,Location,25879.11,201.48,3.0,1.0,,2006.0
+ANO000990,2024-06-30,Appartement 39m² M'diq,TÉTOUAN,M'diq,Appartement,Vente,481557.84,39.48,1.0,1.0,0.0,2012.0
+ANO000919,2024-12-16,Villa 213m² Talborjt,Agadir,Talborjt,Villa,Vente,2163026.22,213.87,5.0,3.0,,2011.0
+ANO001402,2023-04-06,Bureau 124m² Talborjt,Agadir,Talborjt,Bureau,Location,3248.41,124.42,0.0,0.0,3.0,2004.0
+ANO000559,2023-10-01,Appartement moderne Rabat,Rabat,Agdal,Appartement,Vente,743845.08,76.94,20.0,11.0,,2018.0
+ANO000448,2023-06-19,Beau Villa Oujda,Oujda,Hay Qods,Villa,Vente,6004569.03,12.0,25.0,13.0,,2019.0
+ANO001401,2023-11-14,Terrain à location - Tétouan,Tétouan,Centre,Terrain,Location,3492.39,169.17,0.0,0.0,0.0,
+ANO000594,2023-06-25,Beau Appartement Marrakech,Marrakech,Hivernage,Appartement,Vente,466909.48,49.84,3.0,2.0,2.0,2009.0
+ANO001287,2023-09-08,Beau Villa Meknès,Meknès,Ville Nouvelle,Villa,Vente,4914014.5,234.37,4.0,3.0,0.0,2006.0
+ANO000021,2024-03-06,Villa moderne Meknès,Meknès,Hamria,Villa,Vente,60000000.0,235.15,5.0,3.0,0.0,2001.0
+ANO001490,2023-03-03,Appartement 87m² Ville Nouvelle,Meknès,Ville Nouvelle,Appartement,Vente,600121.69,87.69,,1.0,5.0,2013.0
+ANO000408,2024-05-08,Beau Bureau Casablanca,Casablanca,,Bureau,Location,5295.71,145.35,0.0,0.0,2.0,2006.0
+ANO000481,2023-03-26,Bureau 166m² Marrakech,Marrakech,,Bureau,Vente,1465152.51,166.94,0.0,0.0,4.0,
+ANO001094,2024-02-13,Appartement moderne Tanger,Tanger,Malabata,Appartement,Vente,616486.93,63.46,3.0,1.0,1.0,2010.0
+ANO000583,2023-06-13,Appartement à vente - Tanger,Tanger,Malabata,Appartement,Vente,667023.72,97.53,3.0,2.0,7.0,
+ANO000587,2023-06-24,Villa à vente - Fès,Fès,Zouagha,Villa,Vente,8418417.39,355.19,4.0,3.0,0.0,2024.0
+ANO000554,2023-05-21,Beau Villa Kenitra,Kenitra,Hay Essalam,Villa,Vente,2769939.28,355.37,4.0,3.0,0.0,2009.0
+ANO001316,2024-03-14,Beau Terrain Oujda,Oujda,Centre,Terrain,Vente,1074042.12,364.52,0.0,0.0,0.0,2013.0
+ANO000980,2024-03-16,Appartement à vente - Rabat,Rabat,Hay Riad,Appartement,Vente,522454.16,44.01,2.0,,,1994.0
+ANO000752,2023-01-21,Terrain 149m² Tanger,Tanger,,Terrain,Vente,796373.32,149.71,0.0,0.0,0.0,2012.0
+ANO000780,2023-11-26,Bureau à vente - Casablanca,Casablanca,Bourgogne,Bureau,Vente,1219909.47,120.28,,0.0,2.0,1990.0
+ANO000042,2023-11-02,Appartement 99m² Tétouan,Tétouan,,Appartement,Vente,381777.87,99.67,,2.0,5.0,2024.0
+ANO000500,2023-02-12,Beau Terrain Tétouan,Tétouan,M'diq,Terrain,Vente,1162509.87,422.89,0.0,0.0,0.0,2014.0
+ANO000062,2023-10-24,Appartement à location - Rabat,Rabat,Hay Riad,Appartement,Location,2431.59,79.41,2.0,2.0,3.0,
+ANO001462,2023-07-05,Beau Villa Meknès,Meknès,Ville Nouvelle,Villa,Vente,6296875.0,201.4,4.0,3.0,0.0,
+ANO000087,2024-07-03,Appartement à vente - Casablanca,Casablanca,,Appartement,Vente,603258.33,104.37,1.0,1.0,3.0,1986.0
+ANO001321,2024-09-05,Beau Appartement Marrakech,Marrakech,Medina,Appartement,Location,6829.39,132.26,3.0,1.0,5.0,2010.0
+ANO001461,2024-04-02,Appartement moderne Agadir,Agadir,Centre,Appartement,Vente,568855.35,89.4,,2.0,0.0,2004.0
+ANO001306,2023-10-01,Villa 243m² Hay Essalam,Kenitra,Hay Essalam,Villa,Vente,2154077.62,243.01,5.0,3.0,0.0,
+ANO001017,2023-06-09,Villa à vente - Fès,Fès,Ville Nouvelle,Villa,Vente,2412744.97,345.78,4.0,3.0,0.0,
+ANO000528,2024-04-26,Appartement moderne Agadir,Agadir,Hay Mohammadi,Appartement,Vente,687836.48,59.6,2.0,2.0,,
+ANO000200,2023-10-25,Appartement 73m² Marrakech,Marrakech,,Appartement,Vente,432548.35,73.89,4.0,2.0,2.0,
+ANO001171,2024-01-13,Appartement moderne Oujda,Oujda,Hay Qods,Appartement,Vente,696498.56,63.08,3.0,1.0,3.0,2023.0
+ANO000161,2023-10-20,Beau Appartement Kenitra,Kenitra,Hay Essalam,Appartement,Vente,534649.89,61.11,2.0,2.0,0.0,1997.0
+ANO000682,2024-08-12,Villa moderne Casablanca,Casablanca,Bourgogne,Villa,Vente,6228532.31,184.21,5.0,3.0,0.0,2016.0
+ANO000512,2023-04-28,Appartement 73m² Ain Diab,Casablanca,Ain Diab,Appartement,Vente,532287.69,73.35,1.0,1.0,9.0,1976.0
+ANO000039,2023-04-18,Appartement à location - Marrakech,Marrakech,Targa,Appartement,Location,7692.22,92.54,2.0,2.0,5.0,2009.0
+ANO001037,2023-03-04,Villa 100m² Marrakech,Marrakech,,Villa,Location,9701.21,100.41,5.0,3.0,,2000.0
+ANO000197,2024-01-01,Beau Appartement Marrakech,Marrakech,Hivernage,Appartement,Vente,2332134.33,63.6,3.0,1.0,3.0,2010.0
+ANO000121,2023-10-30,Appartement moderne Meknès,Meknès,Hamria,Appartement,Location,2449.29,123.32,2.0,2.0,0.0,2009.0
+ANO000132,2024-03-15,Appartement moderne Rabat,Rabat,Agdal,Appartement,Vente,769775.05,114.49,1.0,1.0,,1992.0
+ANO000463,2023-10-04,Terrain 487m² Ocean,rabat,Ocean,Terrain,Vente,1190522.39,487.38,0.0,0.0,,2000.0
+ANO001398,2023-10-23,Appartement à vente - Rabat,Rabat,,Appartement,Vente,581626.1,117.1,2.0,2.0,,1963.0
+ANO000113,2024-02-03,Appartement moderne Kenitra,Kenitra,,Appartement,Location,6679.2,76.97,1.0,1.0,1.0,2013.0
+ANO000097,2023-09-25,Beau Duplex Meknès,Meknès,Ville Nouvelle,Duplex,Vente,1968595.12,2500.0,3.0,1.0,7.0,2008.0
+ANO000309,,Appartement 46m² Centre,Oujda,Centre,Appartement,Vente,693405.6,46.92,3.0,1.0,2.0,2005.0
+ANO000312,2024-01-17,Appartement à vente - Oujda,Oujda,Centre,Appartement,,286143.29,96.0,3.0,1.0,,2005.0
+ANO000286,2024-02-04,Appartement à location - Rabat,Rabat,Hay Riad,Appartement,Location,1926.04,64.19,1.0,1.0,2.0,
+ANO001318,2024-10-16,Appartement à vente - Marrakech,Marrakech,Medina,Appartement,Vente,1666287.28,139.6,3.0,,,2014.0
+ANO000470,2023-03-08,Appartement à location - Fès,Fès,,Appartement,Location,2920.64,76.93,4.0,2.0,1.0,1996.0
+ANO001229,2024-02-10,Appartement 63m² Fès,Fès,,Appartement,Vente,2241237.87,63.74,3.0,1.0,0.0,2024.0
+ANO001347,2024-01-27,Appartement moderne Casablanca,Casablanca,,Appartement,Location,7964.32,67.78,2.0,2.0,,2003.0
+ANO000636,2023-01-25,Villa 124m² Hay Qods,Oujda,Hay Qods,Villa,Vente,6671575.39,124.33,5.0,2.0,0.0,2000.0
+ANO000120,2023-06-20,Villa moderne Tétouan,Tétouan,,Villa,Location,8222.68,275.82,3.0,1.0,0.0,2003.0
+ANO000248,2023-05-29,Appartement moderne Tétouan,Tétouan,M'diq,Appartement,Vente,1488169.21,69.38,1.0,1.0,6.0,2010.0
+ANO000635,2024-06-16,Beau Bureau Rabat,Rabat,Hay Riad,Bureau,Vente,1669249.86,134.79,0.0,0.0,3.0,
+ANO001070,2024-10-18,Appartement 107m² Talborjt,Agadir,Talborjt,Appartement,Vente,649623.02,107.51,,1.0,6.0,
+ANO001335,2024-11-16,Appartement à vente - Meknès,Meknès,,Appartement,Vente,552162.02,96.82,3.0,2.0,,1999.0
+ANO000588,2023-05-03,Beau Villa Tanger,Tanger,,Villa,Vente,2571063.75,256.03,5.0,,0.0,1997.0
+ANO000658,2023-07-22,Villa moderne Agadir,Agadir,Hay Mohammadi,Villa,Location,2919.22,302.47,6.0,4.0,0.0,2011.0
+ANO001311,2023-09-09,Villa 372m² Kenitra,Kenitra,,Villa,Vente,2535765.59,372.24,5.0,3.0,0.0,2017.0
+ANO000553,2024-08-29,Bureau à vente - Tétouan,Tétouan,,Bureau,Vente,1267384.39,172.7,0.0,,,2001.0
+ANO000824,2024-06-27,Terrain 428m² Hay Mohammadi,Agadir,Hay Mohammadi,Terrain,Vente,737205.85,428.76,0.0,0.0,0.0,2024.0
+ANO001029,2023-01-11,Villa moderne Oujda,Oujda,Hay Qods,Villa,Vente,5721231.37,274.8,6.0,4.0,0.0,2009.0
+ANO000564,2023-01-23,Villa moderne Oujda,Oujda,Hay Qods,Villa,Vente,5611642.54,296.94,5.0,3.0,0.0,2006.0
+ANO000773,2024-08-09,Beau Appartement Meknès,Meknès,,Appartement,Vente,650672.86,69.57,3.0,2.0,,2005.0
+ANO000764,2024-12-29,Villa moderne Tétouan,Tétouan,M'diq,Villa,Location,11644.74,389.11,4.0,2.0,0.0,2017.0
+ANO000031,2023-01-30,Appartement moderne Oujda,Oujda,Centre,Appartement,Vente,561649.31,109.22,3.0,1.0,0.0,
+ANO000695,2023-05-21,Appartement 27m² Oujda,Oujda,,Appartement,Vente,376737.42,27.6,2.0,2.0,3.0,2005.0
+ANO000879,2024-04-19,Villa moderne Tétouan,Tétouan,M'diq,Villa,Vente,3049978.69,335.72,5.0,2.0,0.0,2011.0
+ANO000627,2023-04-18,Villa moderne Tétouan,Tétouan,M'diq,Villa,Vente,1358280.9,185.53,,3.0,0.0,2017.0
+ANO000423,2023-08-19,Bureau à location - Casablanca,Casablanca,Bourgogne,Bureau,Location,4622.04,83.84,0.0,0.0,2.0,1988.0
+ANO000307,2024-07-28,Villa 265m² Souissi,Rabat,Souissi,Villa,Vente,1976783.19,265.53,5.0,3.0,0.0,2016.0
+ANO000055,2024-02-16,Villa moderne Meknès,Meknès,Ville Nouvelle,Villa,Vente,7737893.37,184.35,3.0,2.0,0.0,2017.0
+ANO001439,2023-04-27,Appartement à vente - Oujda,Oujda,Centre,Appartement,Vente,1836276.61,110.15,3.0,1.0,4.0,2000.0
+ANO001356,2023-02-03,Appartement à location - Meknès,Meknès,Ville Nouvelle,Appartement,Location,1896.22,89.73,4.0,2.0,,2012.0
+ANO000679,2023-10-01,Appartement à vente - Casablanca,Casablanca,Californie,Appartement,Vente,677225.19,153.99,3.0,2.0,4.0,2005.0
+ANO001172,2023-03-19,Beau Appartement Tanger,tanger,Centre Ville,Appartement,Vente,340283.62,95.87,1.0,,1.0,2013.0
+ANO000044,2023-03-24,Duplex 72m² Fès,Fès,,Duplex,Vente,1497914.61,72.47,3.0,1.0,4.0,2001.0
+ANO001303,2024-02-21,Appartement à vente - Tétouan,Tétouan,,Appartement,Vente,709051.85,49.83,4.0,2.0,,2014.0
+ANO001195,2024-07-02,Terrain 153m² Hay Mohammadi,Agadir,Hay Mohammadi,Terrain,Vente,1376110.25,153.25,0.0,0.0,,2010.0
+ANO000744,2024-08-03,Appartement à vente - Rabat,Rabat,Hay Riad,,Vente,2403005.48,67.88,2.0,1.0,3.0,2011.0
+ANO000502,2024-07-28,Appartement moderne Marrakech,Marrakech,Medina,Appartement,Location,2198.38,80.75,1.0,1.0,5.0,2006.0
+ANO000784,,Beau Bureau Tanger,Tanger,Malabata,Bureau,Vente,1043194.94,162.4,,0.0,2.0,2014.0
+ANO000733,2023-04-30,Beau Duplex Tétouan,tétouan,,Duplex,Location,8222.13,150.96,2.0,2.0,3.0,2004.0
+ANO000451,2024-03-28,Villa à location - Tanger,Tanger,Centre Ville,Villa,Location,16979.32,105.84,5.0,3.0,0.0,2014.0
+ANO000541,2024-05-10,Appartement moderne Oujda,Oujda,,Appartement,Vente,563592.45,49.04,1.0,1.0,3.0,2017.0
+ANO000267,2024-04-21,Appartement à location - Oujda,Oujda,Centre,Appartement,Location,2213.59,85.74,4.0,3.0,2.0,2017.0
+ANO001142,2024-10-04,Appartement à vente - Oujda,Oujda,,Appartement,Vente,45000.0,40.6,1.0,1.0,3.0,2018.0
+ANO000294,2023-07-02,Villa à vente - Meknès,Meknès,Ville Nouvelle,Villa,Vente,7782589.91,452.15,5.0,2.0,0.0,2005.0
+ANO000227,2024-05-18,Appartement à vente - Tanger,Tanger,Centre Ville,Appartement,Vente,662281.41,116.79,3.0,1.0,0.0,2015.0
+ANO001159,2024-12-17,Villa 147m² Meknès,Meknès,,Villa,Vente,1841491.93,147.23,5.0,3.0,0.0,2017.0
+ANO001215,2023-10-16,Beau Villa Marrakech,Marrakech,Targa,Villa,,4515063.31,247.2,,1.0,0.0,2003.0
+ANO001346,2024-05-08,Beau Appartement Tétouan,Tétouan,Centre,Appartement,Location,2659.22,97.92,1.0,1.0,0.0,2008.0
+ANO001457,2024-09-22,Appartement à vente - Meknès,Meknès,Hamria,Appartement,Vente,469301.73,90.58,,1.0,1.0,1996.0
+ANO000660,2023-11-23,Appartement moderne Oujda,Oujda,Hay Qods,Appartement,Vente,663703.18,65.68,2.0,2.0,2.0,2013.0
+ANO001214,2024-05-01,Villa 210m² Rabat,Rabat,,Villa,,2428902.8,210.25,3.0,2.0,0.0,1997.0
+ANO000277,2023-09-21,Bureau moderne Casablanca,Casablanca,Bourgogne,Bureau,Location,4127.7,108.73,0.0,0.0,3.0,1979.0
+ANO000452,2023-10-16,Terrain moderne Casablanca,Casablanca,Bourgogne,Terrain,Vente,1027746.55,230.82,0.0,0.0,0.0,1961.0
+ANO000233,2024-01-08,Beau Appartement Tétouan,Tétouan,,Appartement,Location,8521.81,53.72,3.0,2.0,1.0,2017.0
+ANO000471,2023-08-05,Beau Appartement Casablanca,Casablanca,,Appartement,Vente,709383.3,98.91,2.0,2.0,2.0,2006.0
+ANO000387,2024-03-20,Beau Appartement Rabat,RABAT,Hassan,Appartement,Vente,667811.86,76.88,2.0,1.0,5.0,1962.0
+ANO000176,2023-08-29,Terrain à vente - Casablanca,CASABLANCA,Ain Diab,Terrain,Vente,258535.37,104.69,0.0,0.0,,2000.0
+ANO000632,2024-08-04,Duplex 145m² Centre,Tétouan,Centre,Duplex,Vente,1734234.12,145.58,2.0,1.0,5.0,
+ANO000241,2024-02-13,Terrain 94m² Agadir,Agadir,,Terrain,Vente,892340.53,94.78,0.0,0.0,0.0,1999.0
+ANO000388,2024-05-15,Beau Terrain Tanger,Tanger,,Terrain,Vente,1487282.77,133.25,0.0,0.0,0.0,1996.0
+ANO000722,2024-11-18,Beau Bureau Kenitra,Kenitra,Hay Essalam,Bureau,Vente,1656059.62,183.22,0.0,0.0,3.0,2001.0
+ANO000100,,Villa moderne Meknès,Meknès,Hamria,Villa,Vente,2353649.76,315.03,6.0,3.0,0.0,2015.0
+ANO000693,2023-08-19,Bureau moderne Marrakech,Marrakech,,Bureau,Vente,1446308.46,168.16,,0.0,4.0,2008.0
+ANO000806,2023-09-24,Appartement 98m² Zouagha,Fès,Zouagha,Appartement,Vente,2108598.12,98.79,3.0,2.0,,2005.0
+ANO000285,2024-12-06,Appartement moderne Oujda,Oujda,Hay Qods,Appartement,Vente,473513.54,114.73,2.0,2.0,0.0,2021.0
+ANO000467,2024-05-25,Bureau moderne Rabat,Rabat,Hassan,Bureau,Vente,1680165.56,93.72,0.0,0.0,,1984.0
+ANO000833,2023-09-23,Appartement à vente - Kenitra,kenitra,Hay Essalam,Appartement,Vente,1888414.83,78.01,1.0,1.0,4.0,2016.0
+ANO000513,2023-07-16,Duplex 123m² Rabat,Rabat,,Duplex,Vente,2108160.06,123.36,2.0,1.0,5.0,1982.0
+ANO001282,2023-02-16,Beau Bureau Marrakech,Marrakech,Medina,Bureau,Location,2605.21,184.35,0.0,0.0,2.0,2016.0
+ANO000882,2023-03-02,Appartement 57m² Rabat,Rabat,,Appartement,Vente,1739164.44,57.76,2.0,1.0,4.0,1988.0
+ANO000479,2024-10-13,Beau Appartement Meknès,Meknès,Hamria,Appartement,Vente,529945.39,92.06,1.0,,,2008.0
+ANO001363,2023-10-02,Appartement à vente - Kenitra,Kenitra,,Appartement,Vente,653150.18,87.0,,2.0,3.0,2019.0
+ANO000501,2024-09-30,Appartement moderne Kenitra,Kenitra,Hay Essalam,Appartement,Vente,643403.33,71.22,3.0,2.0,1.0,2003.0
+ANO001343,2024-02-05,Beau Appartement Oujda,Oujda,Hay Qods,Appartement,,456261.23,78.5,3.0,1.0,4.0,2022.0
+ANO000129,2024-11-23,Beau Villa Meknès,Meknès,,Villa,Vente,1820433.67,262.03,5.0,3.0,,2012.0
+ANO001014,2024-07-03,Beau Appartement Casablanca,Casablanca,,Appartement,Location,2100.83,100.26,,1.0,,2002.0
+ANO000184,2024-03-19,Terrain à location - Tétouan,Tétouan,,Terrain,Location,2475.22,310.39,0.0,0.0,0.0,2008.0
+ANO000586,2023-11-09,Beau Appartement Oujda,Oujda,,,Location,2859.36,81.56,2.0,1.0,5.0,2017.0
+ANO000620,2023-09-02,Terrain moderne Fès,Fès,,Terrain,Location,2899.94,334.64,0.0,0.0,0.0,2003.0
+ANO000968,2023-05-02,Appartement 70m² Fès,Fès,,Appartement,Vente,1830305.47,70.75,2.0,1.0,0.0,2004.0
+ANO000260,2024-10-04,Beau Bureau Oujda,Oujda,,Bureau,Vente,1100992.55,117.02,,0.0,8.0,2014.0
+ANO000051,2023-04-10,Appartement moderne Tanger,Tanger,Centre Ville,Appartement,Vente,2100197.14,93.66,2.0,2.0,3.0,2004.0
+ANO001184,2024-06-28,Beau Villa Agadir,Agadir,Hay Mohammadi,Villa,Location,8728.35,8.0,4.0,2.0,0.0,1997.0
+ANO000028,2023-07-24,Appartement 121m² Californie,Casablanca,Californie,Appartement,Vente,592853.51,121.95,3.0,1.0,4.0,1992.0
+ANO000506,2023-02-24,Appartement 122m² Tanger,Tanger,,,Location,2141.56,122.84,3.0,2.0,3.0,2015.0
+ANO000068,2024-06-23,Villa 336m² Souissi,Rabat,Souissi,Villa,Vente,2480392.26,336.64,5.0,2.0,0.0,
+ANO000232,2024-08-03,Beau Villa Marrakech,Marrakech,Medina,Villa,Vente,6923903.41,297.45,3.0,2.0,0.0,2007.0
+ANO000300,2024-05-28,Villa 346m² Hay Essalam,Kenitra,Hay Essalam,Villa,Vente,2273356.84,346.52,5.0,2.0,0.0,
+ANO000750,2024-10-04,Appartement 2500m² Agadir,Agadir,,Appartement,Vente,1467874.55,2500.0,1.0,1.0,0.0,2017.0
+ANO000067,2023-06-03,Beau Bureau Fès,Fès,Medina,Bureau,Vente,1223283.49,74.28,0.0,0.0,1.0,2005.0
+ANO000171,2023-01-05,Villa moderne Oujda,Oujda,Centre,Villa,Vente,6405685.24,245.98,4.0,,0.0,2008.0
+ANO001236,2023-01-25,Beau Appartement Agadir,Agadir,Talborjt,Appartement,Location,2347.65,71.89,2.0,,2.0,2020.0
+ANO000052,2024-01-07,Villa à location - Rabat,Rabat,Hay Riad,Villa,Location,9264.51,273.45,,2.0,0.0,1989.0
+ANO001143,2024-05-06,Villa 360m² Hamria,Meknès,Hamria,Villa,Vente,2326284.42,360.76,4.0,2.0,0.0,2013.0
+ANO000897,2023-12-18,Villa moderne Kenitra,Kenitra,Hay Essalam,Villa,Vente,2578394.34,299.0,3.0,1.0,0.0,2001.0
+ANO001433,2024-10-31,Appartement 88m² Centre,Agadir,Centre,Appartement,Location,1693.56,88.16,1.0,1.0,2.0,2002.0
+ANO000557,2024-04-27,Appartement 98m² M'diq,Tétouan,M'diq,Appartement,Location,2603.5,98.67,2.0,,4.0,
+ANO000311,2023-02-19,Beau Villa Agadir,Agadir,Talborjt,Villa,Location,7689.6,400.49,4.0,3.0,,1998.0
+ANO000090,2024-06-20,Appartement 73m² M'diq,Tétouan,M'diq,Appartement,Vente,378383.03,74.0,1.0,1.0,,2011.0
+ANO000657,2023-04-04,Appartement 113m² Hassan,Rabat,Hassan,Appartement,Location,2106.44,113.34,3.0,2.0,3.0,
+ANO000853,2023-09-06,Appartement à vente - Agadir,Agadir,Hay Mohammadi,Appartement,Vente,945700.9,85.08,2.0,2.0,1.0,
+ANO000183,2024-09-17,Appartement moderne Tanger,Tanger,,Appartement,Location,2476.99,79.92,1.0,,4.0,2012.0
+ANO000216,2023-07-07,Terrain à vente - Kenitra,Kenitra,Centre,Terrain,Vente,718182.93,15.0,0.0,0.0,0.0,2009.0
+ANO000164,,Beau Villa Casablanca,Casablanca,Non spécifié,Villa,Vente,7322459.64,249.36,3.0,1.0,0.0,2022.0
+ANO000059,2023-12-26,Villa moderne Casablanca,Casablanca,Bourgogne,Villa,Vente,2338345.4,316.17,5.0,3.0,,
+ANO000235,2024-01-13,Villa moderne Casablanca,Casablanca,Anfa,Villa,Location,19773.94,137.32,4.0,2.0,0.0,1976.0
+ANO000877,2024-12-04,Appartement à vente - Marrakech,Marrakech,Gueliz,Appartement,Vente,1822782.39,73.01,2.0,1.0,10.0,2012.0
+ANO001258,2024-02-01,Beau Bureau Tétouan,Tétouan,M'diq,Bureau,Vente,1000971.66,88.72,0.0,0.0,0.0,2003.0
+ANO000607,2023-04-23,Appartement 60m² Medina,MARRAKECH,Medina,Appartement,Vente,1915547.9,60.32,1.0,1.0,0.0,
+ANO000817,2023-12-01,Appartement à vente - Marrakech,Marrakech,Medina,Appartement,,1686493.73,67.74,4.0,3.0,5.0,2002.0
+ANO000741,2024-06-15,Bureau moderne Agadir,Agadir,Hay Mohammadi,Bureau,Vente,1056663.94,94.1,,0.0,,2015.0
+ANO000134,2024-01-29,Beau Terrain Fès,Fès,Zouagha,Terrain,Vente,1171344.89,108.67,0.0,0.0,0.0,1991.0
+ANO000474,2023-07-12,Villa à vente - Meknès,Meknès,Hamria,Villa,Vente,2453917.88,293.06,6.0,4.0,0.0,2018.0
+ANO001036,2023-07-09,Appartement 52m² Hamria,Meknès,Hamria,,Vente,593370.08,52.67,2.0,2.0,2.0,2014.0
+ANO001288,2023-12-29,Terrain moderne Tanger,Tanger,,Terrain,Location,2252.79,299.15,,0.0,,2008.0
+ANO001499,2024-10-29,Appartement 126m² Centre,Oujda,Centre,Appartement,Vente,652804.3,126.93,4.0,3.0,0.0,
+ANO000791,2024-12-12,Bureau à vente - Oujda,OUJDA,Centre,Bureau,Vente,1137640.73,98.07,,0.0,2.0,2011.0
+ANO000970,2023-12-01,Beau Appartement Tanger,Tanger,Centre Ville,Appartement,Location,1657.57,73.75,1.0,1.0,0.0,2020.0
+ANO000494,2024-07-17,Appartement 103m² Hassan,Rabat,Hassan,Appartement,Vente,497505.0,103.06,1.0,1.0,0.0,1994.0
+ANO001187,2024-04-20,Bureau moderne Kenitra,Kenitra,Centre,Bureau,Vente,1154748.78,68.03,0.0,0.0,3.0,2011.0
+ANO000688,2023-06-30,Appartement 94m² Hamria,MEKNÈS,Hamria,Appartement,Vente,1945051.28,94.76,3.0,1.0,0.0,
+ANO000391,,Beau Appartement Rabat,RABAT,Ocean,Appartement,Vente,641071.43,92.03,3.0,1.0,10.0,2001.0
+ANO001362,2024-07-09,Villa à vente - Tanger,Tanger,Iberia,Villa,Vente,3132539.17,354.89,4.0,3.0,,2008.0
+ANO000811,2023-04-11,Villa moderne Marrakech,Marrakech,Targa,Villa,Location,9929.21,168.43,3.0,2.0,0.0,2009.0
+ANO000523,2024-08-28,Beau Villa Tanger,Tanger,Iberia,Villa,Vente,6100486.08,291.28,5.0,3.0,0.0,1997.0
+ANO001031,2024-06-21,Beau Appartement Tétouan,Tétouan,M'diq,Appartement,Vente,331842.49,103.99,2.0,1.0,1.0,2009.0
+ANO000462,2023-04-05,Villa moderne Kenitra,Kenitra,Centre,Villa,Vente,1897142.54,309.37,6.0,,0.0,2012.0
+ANO000935,2024-02-28,Villa à location - Agadir,Agadir,,Villa,Location,26098.8,169.68,4.0,3.0,0.0,2009.0
+ANO000976,2024-09-24,Terrain moderne Tétouan,Tétouan,Centre,Terrain,Vente,875672.12,286.05,0.0,0.0,0.0,2011.0
+ANO000242,,Appartement moderne Rabat,rabat,Souissi,Appartement,Vente,639191.69,89.27,2.0,2.0,3.0,
+ANO001319,2024-06-02,Appartement moderne Casablanca,Casablanca,Californie,Appartement,Vente,480322.2,69.72,2.0,2.0,4.0,
+ANO000599,2024-02-25,Terrain moderne Meknès,Meknès,Ville Nouvelle,Terrain,Location,3455.84,209.76,0.0,0.0,0.0,2007.0
+ANO000790,2024-09-11,Duplex à vente - Tanger,Tanger,,Duplex,Vente,775585.23,94.17,2.0,2.0,8.0,2019.0
+ANO000616,2024-02-16,Bureau à vente - Rabat,Rabat,Ocean,Bureau,Vente,788929.94,170.63,0.0,0.0,0.0,1987.0
+ANO000566,2024-04-16,Bureau 79m² Californie,Casablanca,Californie,Bureau,Vente,1975571.6,79.99,,0.0,,1989.0
+ANO000007,2023-04-19,Beau Appartement Agadir,Agadir,Hay Mohammadi,Appartement,Location,1764.15,49.69,,1.0,0.0,
+ANO001426,2024-02-19,Villa 202m² Hivernage,Marrakech,Hivernage,Villa,Vente,2149359.64,202.12,3.0,,,2002.0
+ANO001201,2024-02-09,Appartement à vente - Oujda,Oujda,,Appartement,Vente,451127.74,67.02,3.0,2.0,1.0,2024.0
+ANO000670,2024-06-07,Beau Appartement Casablanca,Casablanca,Bourgogne,Appartement,Location,1807.8,101.48,3.0,,8.0,2014.0
+ANO000195,2024-07-12,Appartement à location - Agadir,Agadir,Hay Mohammadi,Appartement,Location,9012.45,141.77,4.0,2.0,0.0,2011.0
+ANO000987,2024-03-05,Appartement à vente - Casablanca,Casablanca,Bourgogne,Appartement,Vente,2454248.06,57.34,,1.0,,
+ANO000903,2024-03-01,Bureau 120m² Hay Riad,Rabat,Hay Riad,Bureau,Vente,1257955.13,120.96,,0.0,7.0,1994.0
+ANO000915,2024-05-02,Villa à location - Casablanca,Casablanca,Anfa,Villa,Location,24261.09,294.65,4.0,,0.0,
+ANO000813,2023-04-23,Beau Bureau Oujda,OUJDA,Centre,Bureau,Vente,1147410.96,153.04,0.0,0.0,2.0,
+ANO000638,2023-07-31,Appartement moderne Tétouan,Tétouan,Centre,Appartement,Vente,2892520.06,100.95,,3.0,9.0,2014.0
+ANO001231,2023-12-19,Appartement moderne Marrakech,Marrakech,Hivernage,,Vente,614003.11,105.99,1.0,1.0,0.0,2019.0
+ANO001345,2023-03-28,Appartement à vente - Oujda,Oujda,Hay Qods,Appartement,Vente,411861.55,15.0,2.0,1.0,6.0,2003.0
+ANO001194,2024-04-09,Villa moderne Fès,Fès,Medina,Villa,Vente,4400647.6,419.98,5.0,3.0,,2019.0
+ANO000618,2024-05-13,Appartement à location - Agadir,Agadir,Talborjt,Appartement,Location,10840.5,55.16,3.0,2.0,2.0,2017.0
+ANO000829,2023-09-30,Beau Terrain Tanger,Tanger,Centre Ville,Terrain,Vente,635132.86,403.15,0.0,,0.0,2006.0
+ANO000379,2023-12-09,Appartement moderne Agadir,Agadir,,Appartement,Vente,520701.2,109.1,,3.0,4.0,
+ANO001166,2024-05-08,Villa moderne Tanger,Tanger,Iberia,Villa,Vente,3167577.02,315.24,4.0,2.0,,
+ANO001021,2024-09-08,Beau Appartement Meknès,Meknès,Ville Nouvelle,Appartement,Vente,588094.39,76.68,2.0,,,2009.0
+ANO001465,2024-12-19,Duplex à location - Tanger,Tanger,Malabata,Duplex,Location,7978.42,123.36,3.0,2.0,3.0,2016.0
+ANO000960,2023-04-19,Appartement moderne Kenitra,Kenitra,Centre,Appartement,Location,1879.47,8.0,2.0,2.0,4.0,2008.0
+ANO000649,2023-02-06,Beau Appartement Rabat,Rabat,Agdal,Appartement,Location,8994.52,75.76,4.0,2.0,7.0,2005.0
+ANO000597,2024-10-16,Beau Appartement Fès,Fès,Zouagha,Appartement,Vente,588300.94,118.51,4.0,2.0,5.0,1971.0
+ANO000166,2023-12-24,Appartement à vente - Oujda,Oujda,Hay Qods,Appartement,Vente,614669.21,2500.0,2.0,2.0,1.0,2008.0
+ANO001391,2023-04-15,Beau Villa Marrakech,Marrakech,Medina,Villa,Location,14743.18,237.15,5.0,2.0,0.0,2006.0
+ANO000322,2023-06-10,Beau Villa Kenitra,kenitra,Hay Essalam,Villa,Vente,7063505.64,242.82,3.0,1.0,,2021.0
+ANO001388,2023-12-17,Villa moderne Agadir,Agadir,Talborjt,Villa,Location,9759.65,228.51,5.0,3.0,0.0,
+ANO000427,2024-06-05,Appartement à location - Tanger,Tanger,,Appartement,Location,8307.28,77.27,3.0,1.0,0.0,2011.0
+ANO000428,2024-06-26,Villa à location - Oujda,Oujda,,Villa,Location,8495.06,306.65,5.0,2.0,0.0,2017.0
+ANO000841,2024-07-05,Appartement moderne Tétouan,Tétouan,,Appartement,Vente,80000000.0,159.63,2.0,1.0,2.0,2012.0
+ANO001124,2023-12-29,Beau Appartement Meknès,Meknès,Ville Nouvelle,Appartement,Vente,2052426.07,83.06,3.0,2.0,,2000.0
+ANO000952,2023-08-20,Villa moderne Tétouan,Tétouan,,Villa,Vente,6330812.14,347.44,5.0,2.0,0.0,2005.0
+ANO001278,2023-04-09,Appartement moderne Oujda,Oujda,Centre,Appartement,Vente,486604.35,110.9,2.0,2.0,0.0,1998.0
+ANO000570,2023-01-12,Appartement moderne Oujda,Oujda,,Appartement,Location,3111.94,81.68,3.0,2.0,2.0,2002.0
+ANO000375,2024-12-27,Terrain moderne Fès,Fès,Zouagha,Terrain,Vente,991619.07,162.84,0.0,0.0,0.0,2024.0
+ANO001241,2024-12-06,Beau Appartement Oujda,Oujda,Hay Qods,Appartement,Vente,2398232.61,127.58,2.0,1.0,5.0,1996.0
+ANO001417,2024-04-11,Duplex moderne Tétouan,Tétouan,M'diq,Duplex,Location,8383.17,147.12,3.0,1.0,4.0,2018.0
+ANO000685,2024-07-05,Villa moderne Rabat,Rabat,Ocean,Villa,Vente,5012825.27,225.7,3.0,1.0,,1979.0
+ANO000081,2023-05-05,Terrain 286m² Centre Ville,Tanger,Centre Ville,Terrain,Vente,562243.78,286.23,0.0,0.0,0.0,2014.0
+ANO001264,2024-03-12,Villa à vente - Oujda,Oujda,,Villa,Vente,2851639.02,296.89,6.0,3.0,,2006.0
+ANO001176,2023-03-02,Appartement 80m² Talborjt,Agadir,Talborjt,Appartement,Vente,409134.4,80.05,3.0,1.0,0.0,2024.0
+ANO000740,2024-02-09,Duplex 254m² Medina,Marrakech,Medina,Duplex,Vente,1760320.43,254.99,4.0,2.0,5.0,2008.0
+ANO001249,2023-02-22,Beau Appartement Casablanca,Casablanca,Bourgogne,Appartement,Location,1722.33,80.46,2.0,1.0,4.0,
+ANO000336,2023-08-18,Bureau moderne Casablanca,Casablanca,Californie,Bureau,Location,5429.58,155.81,0.0,0.0,,2009.0
+ANO000644,2023-03-01,Bureau moderne Meknès,Meknès,Hamria,Bureau,Location,7933.36,70.82,0.0,0.0,7.0,2013.0
+ANO000547,2024-05-03,Appartement moderne Tétouan,tétouan,M'diq,Appartement,Vente,797502.99,58.31,,2.0,0.0,2010.0
+ANO000954,2024-12-12,Appartement 71m² Ocean,Rabat,Ocean,Appartement,Location,2293.17,71.72,3.0,1.0,10.0,2007.0
+ANO001116,2023-06-17,Duplex moderne Marrakech,Marrakech,,Duplex,Location,11108.32,135.78,,1.0,5.0,2022.0
+ANO000115,2023-07-11,Beau Villa Meknès,Meknès,,Villa,Vente,2322483.29,209.44,5.0,2.0,0.0,2006.0
+ANO001280,2023-09-24,Terrain moderne Oujda,oujda,Hay Qods,Terrain,Vente,913930.29,2500.0,0.0,0.0,0.0,2007.0
+ANO000117,2023-12-04,Beau Duplex Oujda,Oujda,,Duplex,Vente,1368933.47,139.33,2.0,2.0,5.0,2012.0
+ANO000406,2024-11-11,Villa 3000m² Centre Ville,Tanger,Centre Ville,Villa,Vente,2823871.04,3000.0,3.0,1.0,0.0,2012.0
+ANO000486,2024-03-15,Appartement à vente - Marrakech,Marrakech,Gueliz,Appartement,Vente,338708.47,8.0,3.0,2.0,6.0,2013.0
+ANO000775,2023-01-24,Villa 383m² Hay Essalam,Kenitra,Hay Essalam,Villa,Vente,2428886.43,383.96,3.0,1.0,0.0,2009.0
+ANO000331,2023-06-29,Beau Appartement Tanger,Tanger,,Appartement,Location,2300.02,33.96,1.0,1.0,,2008.0
+ANO000493,,Appartement 95m² M'diq,Tétouan,M'diq,Appartement,Vente,535486.22,95.49,3.0,1.0,4.0,
+ANO000017,2024-01-02,Appartement 40m² Malabata,Tanger,Malabata,,Vente,2137447.32,40.92,4.0,2.0,8.0,2012.0
+ANO000856,2024-10-28,Appartement 60m² Ville Nouvelle,Fès,Ville Nouvelle,Appartement,Vente,501027.9,60.1,3.0,2.0,9.0,2009.0
+ANO001115,2024-07-15,Beau Terrain Tétouan,Tétouan,,,Vente,492089.24,447.6,0.0,0.0,0.0,2002.0
+ANO000292,2023-04-26,Appartement à vente - Marrakech,Marrakech,Targa,Appartement,Vente,1707627.98,84.17,2.0,2.0,0.0,2024.0
+ANO000112,2023-02-13,Appartement 109m² Tanger,Tanger,,Appartement,Location,1874.96,109.38,3.0,2.0,0.0,2008.0
+ANO001340,2024-04-21,Appartement moderne Meknès,Meknès,Ville Nouvelle,Appartement,Vente,633540.16,72.06,2.0,1.0,,2009.0
+ANO000671,2024-12-12,Terrain 208m² Gueliz,Marrakech,Gueliz,Terrain,Vente,317732.04,208.47,0.0,0.0,0.0,
+ANO000473,2023-11-21,Bureau à vente - Casablanca,Casablanca,Non spécifié,Bureau,Vente,1222805.25,130.74,0.0,0.0,4.0,
+ANO001434,2023-12-30,Beau Bureau Tétouan,tétouan,Centre,Bureau,Location,3531.96,103.06,0.0,0.0,3.0,1999.0
+ANO000647,2024-09-25,Appartement 87m² Fès,Fès,,Appartement,Vente,680294.36,87.45,2.0,2.0,0.0,
+ANO001468,2023-06-25,Appartement 63m² Hay Essalam,Kenitra,Hay Essalam,Appartement,Vente,2428771.95,63.02,2.0,,0.0,2012.0
+ANO000458,2023-12-08,Appartement 50m² Hivernage,Marrakech,Hivernage,Appartement,,755405.02,50.7,2.0,,2.0,1997.0
+ANO000341,2024-03-26,Appartement moderne Casablanca,Casablanca,Maarif,Appartement,Vente,612740.26,70.66,4.0,2.0,2.0,1999.0
+ANO001252,2024-10-14,Appartement moderne Meknès,Meknès,Hamria,Appartement,Vente,496213.05,67.69,2.0,2.0,,
+ANO000181,2024-08-09,Appartement 56m² Hay Qods,oujda,Hay Qods,Appartement,Location,320000.0,56.76,18.0,10.0,6.0,2014.0
+ANO000739,2024-09-23,Villa à vente - Rabat,Rabat,Hay Riad,Villa,Vente,5294936.78,271.27,4.0,2.0,,
+ANO000237,2023-11-28,Appartement à location - Tétouan,Tétouan,,Appartement,Location,4668.91,127.41,2.0,1.0,9.0,
+ANO000160,2023-03-31,Appartement 161m² Meknès,Meknès,,Appartement,Vente,587350.02,161.97,3.0,2.0,0.0,
+ANO000032,2023-08-15,Beau Villa Meknès,Meknès,Ville Nouvelle,Villa,Vente,2036168.93,218.63,4.0,3.0,0.0,1998.0
+ANO000415,2024-04-29,Beau Appartement Fès,Fès,Zouagha,,Location,7069.31,59.63,3.0,1.0,8.0,
+ANO000012,2023-03-02,Beau Appartement Marrakech,Marrakech,Targa,Appartement,Location,1692.3,105.56,,3.0,,2000.0
+ANO000219,2024-10-07,Terrain 307m² Hay Essalam,Kenitra,Hay Essalam,Terrain,Vente,1572007.94,307.11,0.0,0.0,0.0,2010.0
+ANO000941,2024-11-29,Villa 317m² Oujda,Oujda,,Villa,Vente,2060558.3,317.61,5.0,3.0,0.0,2009.0
+ANO001121,2024-06-08,Appartement moderne Tétouan,Tétouan,M'diq,Appartement,Location,6154.67,42.82,2.0,1.0,,1995.0
+ANO001247,2024-04-23,Bureau à vente - Tétouan,tétouan,Centre,Bureau,Vente,1051766.9,66.08,0.0,0.0,1.0,2004.0
+ANO000906,,Appartement à vente - Fès,Fès,Medina,Appartement,Vente,1159989.4,100.64,3.0,1.0,,2013.0
+ANO000214,2024-02-27,Villa moderne Fès,Fès,Ville Nouvelle,Villa,Vente,1552460.61,223.14,4.0,2.0,0.0,2024.0
+ANO001026,2024-10-16,Appartement moderne Casablanca,Casablanca,Non spécifié,Appartement,Location,3072.67,104.38,,2.0,4.0,
+ANO000864,2024-06-25,Appartement 115m² Centre,Oujda,Centre,Appartement,Vente,542377.05,115.94,1.0,1.0,0.0,2006.0
+ANO001059,2024-08-27,Terrain moderne Tétouan,TÉTOUAN,,Terrain,Vente,499334.89,209.71,0.0,0.0,0.0,1998.0
+ANO001125,2023-09-14,Duplex 240m² Hay Mohammadi,AGADIR,Hay Mohammadi,Duplex,Vente,2670556.53,240.36,2.0,1.0,7.0,1996.0
+ANO000476,2023-04-12,Appartement à vente - Rabat,Rabat,Agdal,Appartement,Vente,1213457.36,136.41,3.0,2.0,,1983.0
+ANO001440,2023-01-15,Beau Villa Meknès,Meknès,Ville Nouvelle,Villa,Vente,2763954.5,262.36,4.0,2.0,0.0,2007.0
+ANO001060,2023-10-10,Villa moderne Tanger,Tanger,,Villa,Vente,5247896.78,328.02,4.0,3.0,0.0,2014.0
+ANO001147,2024-07-16,Appartement 92m² Hamria,Meknès,Hamria,Appartement,Vente,395403.09,92.32,3.0,2.0,,2011.0
+ANO000995,2024-03-06,Bureau à vente - Fès,Fès,Medina,Bureau,Vente,1492996.84,131.55,0.0,0.0,8.0,1975.0
+ANO000713,2023-05-28,Appartement 123m² Hivernage,Marrakech,Hivernage,Appartement,Vente,562222.76,123.73,4.0,2.0,2.0,
+ANO000997,2024-01-24,Appartement moderne Casablanca,Casablanca,Anfa,Appartement,Vente,414375.55,145.29,2.0,,3.0,2022.0
+ANO001312,2024-10-16,Villa moderne Casablanca,Casablanca,Hay Mohammadi,Villa,Vente,7141269.98,254.81,4.0,3.0,0.0,2005.0
+ANO000916,2024-01-20,Appartement 91m² Tétouan,Tétouan,,Appartement,Vente,514407.1,91.03,1.0,1.0,0.0,2000.0
+ANO000738,2024-02-22,Villa 320m² Anfa,Casablanca,Anfa,Villa,Location,27627.09,320.59,4.0,3.0,0.0,1993.0
+ANO001192,2023-06-13,Appartement moderne Kenitra,Kenitra,,Appartement,Vente,573286.23,53.25,,1.0,3.0,2012.0
+ANO000080,2024-05-17,Beau Appartement Tanger,TANGER,,Appartement,Location,8298.33,68.46,4.0,2.0,3.0,2016.0
+ANO000374,2024-02-07,Appartement à vente - Kenitra,Kenitra,,Appartement,Vente,2420261.76,112.64,,2.0,2.0,2019.0
+ANO000704,2024-03-10,Appartement moderne Rabat,Rabat,Hay Riad,Appartement,Vente,2241274.97,71.4,3.0,1.0,5.0,
+ANO000637,2024-07-01,Appartement à location - Casablanca,casablanca,,Appartement,Location,1626.92,88.57,3.0,1.0,,2024.0
+ANO001205,2023-10-20,Appartement à vente - Agadir,Agadir,Talborjt,Appartement,Vente,528508.81,94.9,2.0,2.0,,
+ANO000230,2024-03-20,Appartement moderne Fès,fès,Ville Nouvelle,Appartement,Vente,1850071.68,102.77,3.0,1.0,,2006.0
+ANO001196,2023-12-28,Beau Appartement Marrakech,Marrakech,Targa,Appartement,Vente,1482596.95,67.61,2.0,2.0,0.0,2002.0
+ANO000247,2024-06-17,Appartement 110m² Tétouan,Tétouan,,Appartement,Vente,749856.93,110.36,2.0,1.0,3.0,1995.0
+ANO000894,2023-05-03,Appartement à vente - Casablanca,Casablanca,Anfa,Appartement,Vente,518386.21,101.98,2.0,2.0,0.0,1995.0
+ANO001168,2023-03-16,Appartement à vente - Tétouan,Tétouan,Centre,Appartement,Vente,1749074.62,86.13,3.0,2.0,6.0,2010.0
+ANO001012,,Terrain 307m² Targa,Marrakech,Targa,Terrain,Vente,505311.79,307.08,0.0,0.0,,2013.0
+ANO000170,2024-01-26,Bureau 121m² Centre,Kenitra,Centre,Bureau,Vente,854403.69,121.94,0.0,0.0,7.0,2003.0
+ANO000953,2023-04-08,Beau Terrain Casablanca,Casablanca,Hay Mohammadi,Terrain,Vente,584624.33,272.34,0.0,0.0,,2017.0
+ANO000293,2024-08-29,Villa moderne Tétouan,Tétouan,Centre,Villa,Location,7764.78,267.9,,2.0,0.0,2009.0
+ANO001441,2023-11-28,Appartement 82m² Ville Nouvelle,Fès,Ville Nouvelle,Appartement,Vente,1992050.55,82.32,2.0,2.0,6.0,2018.0
+ANO000562,2023-06-24,Beau Appartement Casablanca,Casablanca,,Appartement,Vente,2129743.71,55.52,3.0,,,2017.0
+ANO001226,2024-02-11,Appartement moderne Marrakech,Marrakech,Targa,Appartement,Vente,558744.89,86.83,3.0,1.0,2.0,2008.0
+ANO001392,2024-05-14,Beau Appartement Kenitra,Kenitra,Hay Essalam,Appartement,Vente,434050.44,80.62,1.0,1.0,3.0,2013.0
+ANO000835,2023-04-26,Bureau 95m² Fès,Fès,,Bureau,Vente,1067476.65,95.51,0.0,0.0,8.0,1983.0
+ANO001269,2024-03-04,Bureau moderne Meknès,Meknès,Hamria,Bureau,Vente,842884.99,140.54,0.0,0.0,0.0,2010.0
+ANO000444,2024-10-21,Appartement moderne Casablanca,Casablanca,Anfa,Appartement,Location,8959.89,123.27,25.0,13.0,1.0,
+ANO001275,2023-01-03,Beau Villa Meknès,Meknès,Hamria,Villa,Vente,2177553.48,264.6,4.0,2.0,0.0,2004.0
+ANO001404,2024-10-25,Appartement 78m² Hay Qods,Oujda,Hay Qods,Appartement,Vente,414873.52,78.59,2.0,1.0,6.0,2005.0
+ANO000573,2023-03-28,Villa à vente - Kenitra,Kenitra,Centre,Villa,Vente,2365990.17,265.24,4.0,3.0,0.0,2015.0
+ANO000420,2024-01-26,Terrain 215m² Hay Essalam,Kenitra,Hay Essalam,Terrain,Vente,925705.7,215.4,0.0,0.0,0.0,
+ANO000366,2024-09-12,Villa moderne Marrakech,Marrakech,,Villa,Location,23515.7,256.29,3.0,2.0,0.0,1994.0
+ANO001427,2024-06-28,Appartement moderne Tétouan,TÉTOUAN,Centre,Appartement,Location,7891.0,94.1,1.0,1.0,0.0,2024.0
+ANO000931,2024-11-09,Appartement 71m² Hay Qods,Oujda,Hay Qods,Appartement,Vente,2238011.79,71.06,1.0,1.0,7.0,2006.0
+ANO001173,,Villa à vente - Oujda,Oujda,,Villa,Vente,1802221.47,283.95,5.0,2.0,0.0,2020.0
+ANO000413,2023-06-24,Appartement 71m² Hivernage,Marrakech,Hivernage,Appartement,Vente,2671080.33,71.16,2.0,1.0,5.0,2014.0
+ANO000316,2024-03-26,Duplex 73m² Hay Riad,Rabat,Hay Riad,Duplex,Vente,1157949.14,73.72,3.0,2.0,1.0,1989.0
+ANO001062,2023-10-25,Appartement moderne Tanger,Tanger,,Appartement,Location,2041.22,65.5,2.0,1.0,0.0,2020.0
+ANO001233,2023-02-20,Beau Terrain Meknès,Meknès,Ville Nouvelle,Terrain,Vente,628476.19,339.91,0.0,0.0,0.0,2017.0
+ANO000643,2023-01-26,Villa 227m² Oujda,OUJDA,,Villa,Vente,934856.24,227.12,5.0,2.0,,
+ANO001135,,Terrain moderne Kenitra,Kenitra,,Terrain,Location,3434.58,288.14,0.0,0.0,0.0,2013.0
+ANO000490,2024-07-04,Appartement 55m² Maarif,Casablanca,Maarif,Appartement,Location,2389.44,55.1,2.0,2.0,1.0,2006.0
+ANO000672,,Villa à vente - Marrakech,Marrakech,Hivernage,Villa,Vente,4590145.35,316.36,5.0,,0.0,2008.0
+ANO000867,,Appartement 72m² Centre,Agadir,Centre,Appartement,Vente,2480031.58,72.7,2.0,2.0,,1994.0
+ANO001473,2023-09-18,Appartement moderne Casablanca,Casablanca,Bourgogne,Appartement,Vente,2104826.72,36.26,3.0,2.0,6.0,
+ANO000449,,Bureau à vente - Marrakech,Marrakech,Medina,Bureau,Vente,1579821.65,60.6,0.0,0.0,3.0,1989.0
+ANO001025,2023-05-06,Appartement 125m² Zouagha,Fès,Zouagha,Appartement,Location,8323.73,125.8,4.0,3.0,5.0,1989.0
+ANO000728,2023-07-01,Villa 235m² Centre,Kenitra,Centre,Villa,Vente,5463831.87,235.57,3.0,2.0,0.0,
+ANO000069,2023-12-11,Beau Appartement Tétouan,tétouan,Centre,Appartement,Location,5795.73,61.55,2.0,1.0,8.0,2014.0
+ANO001189,,Beau Appartement Tétouan,Tétouan,M'diq,Appartement,Vente,2383354.33,86.29,2.0,2.0,,2011.0
+ANO001053,2024-04-17,Appartement 87m² Hay Qods,Oujda,Hay Qods,Appartement,Vente,1505029.34,87.74,,1.0,2.0,2020.0
+ANO000056,2024-10-28,Beau Appartement Kenitra,Kenitra,Centre,Appartement,Location,2398.13,105.55,3.0,2.0,3.0,2024.0
+ANO000880,2023-05-02,Bureau à location - Casablanca,Casablanca,Bourgogne,Bureau,Location,6306.1,78.7,0.0,0.0,4.0,2005.0
+ANO001328,2024-09-04,Beau Bureau Agadir,Agadir,Centre,Bureau,Vente,1856245.83,246.08,0.0,0.0,8.0,2001.0
+ANO000328,2023-09-02,Terrain à vente - Rabat,RABAT,Hassan,Terrain,Vente,927637.27,183.96,0.0,0.0,0.0,1999.0
+ANO000048,2023-05-21,Appartement 44m² Rabat,Rabat,,Appartement,Location,2827.43,44.81,4.0,3.0,0.0,2002.0
+ANO001030,2024-09-13,Terrain 65m² Maarif,Casablanca,Maarif,Terrain,Vente,1165691.24,65.87,0.0,0.0,0.0,
+ANO001096,2024-05-12,Beau Bureau Meknès,Meknès,Hamria,,Vente,1801367.93,106.8,,0.0,,2008.0
+ANO000158,2024-08-26,Terrain 118m² Tanger,Tanger,,Terrain,Vente,109423.65,118.18,0.0,0.0,0.0,2020.0
+ANO001050,2023-07-07,Appartement à location - Fès,Fès,,Appartement,Location,1858.16,82.23,2.0,1.0,3.0,1986.0
+ANO000383,2023-01-09,Beau Appartement Kenitra,Kenitra,,Appartement,Vente,1561489.97,49.0,2.0,1.0,4.0,2022.0
+ANO000357,2023-12-09,Beau Duplex Marrakech,MARRAKECH,Targa,Duplex,Location,320000.0,167.33,3.0,2.0,,2009.0
+ANO001198,2024-01-28,Appartement 142m² Centre,Kenitra,Centre,Appartement,Vente,2241648.36,142.59,3.0,1.0,3.0,1998.0
+ANO000571,,Bureau moderne Rabat,Rabat,Hay Riad,Bureau,Location,6571.33,115.18,0.0,0.0,7.0,1967.0
+ANO000461,2023-12-12,Appartement moderne Oujda,Oujda,,Appartement,Vente,631351.1,72.8,2.0,2.0,5.0,2024.0
+ANO001478,2024-04-16,Beau Appartement Rabat,Rabat,Souissi,Appartement,Vente,282343.84,90.67,3.0,2.0,1.0,1991.0
+ANO000025,2023-05-22,Villa moderne Marrakech,Marrakech,Hivernage,Villa,Vente,2182086.98,375.17,4.0,2.0,0.0,1989.0
+ANO000038,2024-11-21,Duplex 153m² Centre,Tétouan,Centre,Duplex,Vente,1784091.67,153.01,3.0,2.0,4.0,2024.0
+ANO000801,2024-11-16,Beau Villa Agadir,Agadir,Centre,Villa,Vente,1839131.22,264.15,5.0,2.0,0.0,2005.0
+ANO001415,2024-12-20,Terrain moderne Fès,Fès,Ville Nouvelle,Terrain,Location,2492.13,383.84,0.0,0.0,,2000.0
+ANO001131,2023-11-18,Duplex à location - Fès,Fès,Ville Nouvelle,Duplex,Location,3415.21,109.86,,1.0,7.0,1998.0
+ANO001022,2023-11-02,Appartement 47m² Gueliz,Marrakech,Gueliz,Appartement,Vente,486480.15,47.14,3.0,2.0,6.0,2012.0
+ANO000397,2024-08-05,Appartement 60m² Oujda,Oujda,,Appartement,Vente,616006.25,60.79,3.0,2.0,3.0,2010.0
+ANO000939,2024-02-02,Appartement moderne Agadir,Agadir,,Appartement,Vente,2733022.82,105.35,2.0,2.0,3.0,2013.0
+ANO000849,2023-03-03,Beau Appartement Casablanca,Casablanca,Maarif,Appartement,,2970686.59,95.82,2.0,1.0,0.0,1979.0
+ANO000498,2024-07-12,Appartement à vente - Agadir,Agadir,Centre,Appartement,Vente,856983.91,70.89,3.0,2.0,,2011.0
+ANO000714,2024-05-09,Bureau moderne Rabat,Rabat,Hassan,Bureau,Vente,612989.89,126.59,0.0,0.0,5.0,2000.0
+ANO000984,2024-10-03,Villa à location - Casablanca,Casablanca,Bourgogne,Villa,Location,5539.05,346.48,4.0,3.0,0.0,2011.0
+ANO001265,2023-02-27,Villa à location - Tanger,Tanger,Centre Ville,Villa,Location,9314.4,230.75,4.0,2.0,,2010.0
+ANO000226,2024-01-23,Villa moderne Tanger,Tanger,,Villa,Vente,4833274.97,161.15,4.0,3.0,0.0,2024.0
+ANO000288,2023-01-15,Terrain à vente - Marrakech,Marrakech,Medina,Terrain,Vente,345276.77,485.7,,0.0,0.0,2024.0
+ANO000804,2023-05-13,Bureau à vente - Fès,Fès,Medina,Bureau,Vente,740694.68,152.75,0.0,0.0,2.0,
+ANO001132,2024-12-30,Appartement 134m² Meknès,Meknès,,Appartement,Vente,540920.13,134.31,3.0,2.0,2.0,
+ANO000975,2024-10-15,Terrain moderne Casablanca,Casablanca,Hay Mohammadi,Terrain,Location,2966.36,292.3,0.0,,0.0,2001.0
+ANO000431,2024-03-11,Villa moderne Marrakech,Marrakech,Gueliz,Villa,Vente,6582867.91,449.44,4.0,2.0,0.0,2009.0
+ANO000640,2024-11-09,Beau Appartement Tanger,TANGER,Malabata,Appartement,Location,1901.99,80.8,3.0,2.0,1.0,2006.0
+ANO000859,,Appartement à vente - Casablanca,Casa,,Appartement,Vente,864495.17,57.2,2.0,2.0,4.0,2021.0
+ANO000687,2024-10-31,Villa 265m² Ain Diab,Casablanca,Ain Diab,Villa,Vente,6393841.99,265.49,4.0,2.0,0.0,2012.0
+ANO000805,2023-11-09,Appartement moderne Tétouan,tétouan,,Appartement,Vente,415294.62,62.06,3.0,1.0,2.0,2018.0
+ANO001448,2023-02-24,Villa 405m² Meknès,Meknès,,Villa,Vente,6287846.6,405.87,4.0,2.0,,
+ANO000901,2023-05-10,Beau Appartement Rabat,Rabat,Hay Riad,Appartement,Vente,2154723.41,112.27,4.0,3.0,2.0,2024.0
+ANO001435,2024-03-15,Beau Appartement Fès,Fès,Zouagha,Appartement,Location,6441.41,102.59,,3.0,2.0,
+ANO001324,2024-11-20,Villa à vente - Tanger,Tanger,Iberia,Villa,Vente,2845322.23,218.22,4.0,3.0,0.0,2001.0
+ANO000198,2023-10-11,Bureau à vente - Fès,Fès,Zouagha,Bureau,Vente,1008937.02,139.16,0.0,0.0,2.0,
+ANO001174,2024-02-16,Bureau moderne Tanger,Tanger,Iberia,Bureau,Location,1253.09,140.11,0.0,0.0,2.0,1990.0
+ANO000385,2023-01-07,Villa 144m² Ville Nouvelle,fès,Ville Nouvelle,Villa,Vente,1880519.13,144.15,4.0,2.0,0.0,2024.0
+ANO000070,2023-07-18,Appartement à vente - Fès,Fès,,Appartement,Vente,611654.31,97.88,3.0,1.0,5.0,2024.0
+ANO000459,2023-04-23,Terrain moderne Casablanca,Casablanca,Hay Mohammadi,Terrain,Location,4965.4,274.88,0.0,0.0,0.0,1989.0
+ANO000139,2024-08-10,Appartement moderne Rabat,Rabat,Ocean,Appartement,Location,2359.51,66.29,4.0,2.0,3.0,
+ANO001471,2023-03-23,Beau Terrain Casablanca,Casablanca,Californie,Terrain,Vente,599496.44,292.67,0.0,0.0,0.0,1984.0
+ANO000141,2023-07-20,Appartement moderne Kenitra,Kenitra,Centre,Appartement,Location,3189.16,128.88,20.0,10.0,4.0,
+ANO000533,2024-02-23,Appartement à vente - Oujda,Oujda,Hay Qods,Appartement,Vente,624298.51,136.44,4.0,2.0,0.0,2010.0
+ANO001144,2024-03-10,Villa moderne Fès,Fès,Ville Nouvelle,Villa,Vente,2750661.48,287.32,5.0,3.0,,2020.0
+ANO000730,2024-09-21,Terrain à vente - Agadir,Agadir,Centre,Terrain,Vente,720004.3,248.49,0.0,0.0,0.0,2014.0
+ANO001164,2024-10-07,Villa moderne Agadir,agadir,Centre,Villa,Vente,3603601.25,223.84,,3.0,0.0,2008.0
+ANO001007,2023-03-30,Beau Appartement Casablanca,Casa,Bourgogne,Appartement,,1983.44,98.79,1.0,1.0,3.0,2018.0
+ANO000676,2023-04-20,Bureau à location - Casablanca,Casablanca,Maarif,Bureau,Location,5094.16,192.02,0.0,0.0,,2018.0
+ANO000337,2024-04-09,Beau Appartement Oujda,Oujda,Centre,Appartement,Location,9679.28,71.62,1.0,,10.0,2020.0
+ANO000574,2023-03-22,Appartement 97m² Zouagha,Fès,Zouagha,Appartement,Vente,1825805.45,97.83,3.0,2.0,8.0,
+ANO001263,2023-07-02,Villa moderne Meknès,Meknès,Ville Nouvelle,Villa,Vente,6474537.48,179.18,5.0,2.0,0.0,2011.0
+ANO001162,2024-12-08,Bureau 79m² Gueliz,Marrakech,Gueliz,Bureau,Vente,1174326.34,79.58,0.0,0.0,0.0,2005.0
+ANO000395,2024-07-20,Beau Appartement Marrakech,Marrakech,,Appartement,Vente,660197.99,45.74,2.0,1.0,,2002.0
+ANO001436,2024-03-29,Appartement 69m² Souissi,Rabat,Souissi,Appartement,Vente,1360851.15,69.25,2.0,1.0,2.0,2010.0
+ANO001186,2023-03-26,Villa moderne Fès,Fès,Medina,Villa,Vente,2183859.69,301.24,4.0,2.0,,
+ANO001086,2023-08-20,Appartement 62m² Meknès,Meknès,,Appartement,Vente,567770.73,62.97,2.0,1.0,2.0,2004.0
+ANO000769,2024-03-14,Appartement à vente - Meknès,Meknès,,Appartement,Vente,789480.1,162.75,1.0,1.0,5.0,
+ANO000938,2023-03-17,Appartement 128m² Hay Qods,Oujda,Hay Qods,Appartement,Vente,473733.06,128.47,1.0,1.0,4.0,2007.0
+ANO001353,2024-10-31,Appartement moderne Tanger,Tanger,,Appartement,Vente,725463.51,96.22,3.0,1.0,0.0,2017.0
+ANO000516,2024-03-07,Appartement à vente - Agadir,Agadir,Talborjt,Appartement,Vente,2187509.7,60.04,3.0,1.0,5.0,2012.0
+ANO000888,2024-10-24,Appartement à location - Tétouan,Tétouan,Centre,Appartement,Location,1770.37,99.93,20.0,10.0,2.0,2002.0
+ANO000065,2024-01-29,Bureau 70m² Oujda,Oujda,,Bureau,Vente,1285637.5,70.17,0.0,0.0,,2011.0
+ANO000282,2024-12-13,Beau Villa Marrakech,Marrakech,Targa,Villa,Vente,2391204.87,263.32,5.0,3.0,,2013.0
+ANO000207,2024-08-12,Appartement à vente - Rabat,Rabat,Hay Riad,Appartement,Vente,2192403.69,90.6,2.0,1.0,,1988.0
+ANO000167,2024-10-29,Bureau à location - Agadir,Agadir,Hay Mohammadi,Bureau,Location,3399.01,64.69,0.0,0.0,,2017.0
+ANO000091,2023-08-01,Appartement 49m² Kenitra,Kenitra,,Appartement,Vente,2576509.32,49.1,2.0,2.0,3.0,2019.0
+ANO000734,2024-12-13,Beau Appartement Agadir,Agadir,Hay Mohammadi,Appartement,Location,8780.6,130.11,2.0,2.0,0.0,2008.0
+ANO000165,2023-07-31,Bureau à location - Agadir,Agadir,Talborjt,Bureau,Location,4923.79,85.55,0.0,0.0,2.0,2022.0
+ANO000667,2024-05-11,Terrain à vente - Fès,Fès,Medina,Terrain,Vente,751079.91,210.61,0.0,0.0,0.0,1989.0
+ANO000959,2024-07-11,Beau Appartement Marrakech,Marrakech,Medina,Appartement,Vente,546272.93,62.26,2.0,1.0,1.0,2002.0
+ANO000626,2024-12-24,Appartement 70m² Zouagha,Fès,Zouagha,Appartement,Vente,2558273.52,70.95,1.0,1.0,5.0,1996.0
+ANO001451,,Bureau 121m² Maarif,Casablanca,Maarif,Bureau,Vente,80000000.0,121.9,0.0,0.0,5.0,1996.0
+ANO000711,2024-07-18,Appartement 85m² Centre,oujda,Centre,Appartement,Vente,2175390.3,85.49,1.0,1.0,0.0,2015.0
+ANO000832,2024-06-04,Duplex 87m² Ain Diab,Casablanca,Ain Diab,Duplex,Location,10664.72,87.17,2.0,,5.0,2012.0
+ANO000718,2023-12-11,Appartement à vente - Marrakech,Marrakech,,Appartement,Vente,749376.42,3000.0,2.0,1.0,10.0,2011.0
+ANO000536,2024-07-06,Beau Appartement Kenitra,Kenitra,Centre,Appartement,Location,1742.4,88.07,2.0,1.0,5.0,
+ANO000002,2023-06-13,Appartement à location - Meknès,Meknès,Hamria,Appartement,Location,2931.05,79.15,2.0,1.0,4.0,2008.0
+ANO000911,2024-07-25,Villa moderne Kenitra,Kenitra,Centre,Villa,Location,11261.75,384.8,6.0,4.0,0.0,2014.0
+ANO000217,2024-12-06,Beau Villa Casablanca,CASABLANCA,,Villa,Vente,5653598.2,305.7,4.0,3.0,0.0,2024.0
+ANO001372,2023-06-22,Villa à vente - Marrakech,Marrakech,Hivernage,Villa,Vente,3704307.89,12.0,3.0,1.0,0.0,2007.0
+ANO000782,2023-02-18,Appartement 31m² Marrakech,Marrakech,,Appartement,Location,1947.5,31.17,2.0,1.0,1.0,2018.0
+ANO000886,,Bureau moderne Kenitra,Kenitra,,Bureau,Vente,1541810.09,76.32,0.0,0.0,2.0,2017.0
+ANO001018,2024-04-28,Villa à vente - Marrakech,Marrakech,Targa,Villa,Vente,1845279.5,226.92,5.0,3.0,0.0,2003.0
+ANO001480,2024-06-26,Beau Appartement Kenitra,Kenitra,Centre,Appartement,Vente,1890982.11,76.49,1.0,1.0,2.0,2014.0
+ANO000060,2023-06-11,Appartement moderne Tétouan,TÉTOUAN,M'diq,Appartement,Vente,724424.09,78.38,2.0,,1.0,2024.0
+ANO001117,2023-05-12,Beau Appartement Tanger,Tanger,,Appartement,Vente,2271572.52,81.58,1.0,1.0,4.0,2005.0
+ANO000543,2024-06-15,Duplex moderne Tanger,Tanger,Centre Ville,Duplex,Location,6126.43,214.05,,,5.0,
+ANO001140,2024-11-16,Beau Appartement Marrakech,Marrakech,Hivernage,Appartement,Vente,574936.3,52.68,1.0,1.0,3.0,2005.0
+ANO001217,2024-04-24,Appartement moderne Fès,Fès,Medina,Appartement,Vente,643944.85,74.22,1.0,1.0,3.0,2006.0
+ANO001361,2023-03-11,Appartement 67m² Anfa,Casablanca,Anfa,Appartement,Vente,626039.32,67.55,,1.0,1.0,2024.0
+ANO000124,2023-03-28,Appartement 85m² Hivernage,Marrakech,Hivernage,Appartement,Vente,457238.83,85.61,1.0,1.0,,2013.0
+ANO000615,2023-11-16,Appartement 87m² Malabata,Tanger,Malabata,Appartement,Vente,484153.01,87.32,3.0,1.0,2.0,2011.0
+ANO000861,2023-01-18,Bureau moderne Oujda,Oujda,Hay Qods,Bureau,Vente,1348842.19,135.57,,0.0,6.0,2009.0
+ANO000929,2024-07-17,Bureau 105m² Zouagha,FÈS,Zouagha,Bureau,Vente,1005118.83,105.92,0.0,0.0,,1988.0
+ANO000208,2024-08-22,Beau Villa Agadir,Agadir,,Villa,Vente,6707202.54,400.56,4.0,2.0,0.0,2020.0
+ANO000555,2023-10-12,Beau Appartement Marrakech,Marrakech,,Appartement,Vente,295377.41,69.8,3.0,2.0,5.0,2020.0
+ANO000274,2023-08-31,Villa 208m² Kenitra,Kenitra,,Villa,Vente,2732740.19,208.62,4.0,2.0,0.0,2021.0
+ANO000504,2024-12-30,Beau Appartement Fès,Fès,,Appartement,Location,2909.21,56.46,3.0,1.0,3.0,
+ANO000046,2023-01-10,Beau Villa Oujda,Oujda,,Villa,Vente,8324901.61,187.34,6.0,4.0,0.0,2007.0
+ANO000625,2023-08-18,Appartement 104m² Centre Ville,Tanger,Centre Ville,Appartement,Location,2052.14,104.49,3.0,2.0,2.0,2020.0
+ANO000772,2024-12-08,Beau Villa Casablanca,Casablanca,Maarif,Villa,Location,9795.49,303.27,4.0,3.0,0.0,2006.0
+ANO001267,2023-05-05,Villa moderne Kenitra,Kenitra,,Villa,Vente,1703320.65,168.73,4.0,3.0,0.0,1998.0
+ANO001251,,Appartement 93m² Hay Riad,Rabat,Hay Riad,Appartement,Vente,479688.68,93.23,2.0,2.0,4.0,2018.0
+ANO000221,2024-10-08,Appartement moderne Marrakech,Marrakech,Medina,Appartement,Vente,481160.56,71.33,2.0,2.0,4.0,2009.0
+ANO000792,2024-04-17,Appartement 112m² Hay Qods,Oujda,Hay Qods,Appartement,Vente,610213.93,112.93,3.0,1.0,,2021.0
+ANO001049,2023-06-26,Appartement à vente - Casablanca,Casablanca,Anfa,Appartement,Vente,601871.55,96.75,2.0,2.0,,
+ANO000342,2023-06-22,Bureau moderne Kenitra,Kenitra,,Bureau,Vente,2056908.14,189.1,0.0,0.0,2.0,2013.0
+ANO001429,2024-07-15,Beau Appartement Tanger,tanger,Iberia,Appartement,Location,1826.04,90.08,,2.0,0.0,2006.0
+ANO001074,2024-01-26,Beau Duplex Marrakech,Marrakech,Medina,Duplex,Vente,2232887.59,97.49,2.0,2.0,2.0,2016.0
+ANO000380,2023-05-11,Appartement moderne Casablanca,Casablanca,Non spécifié,Appartement,Vente,402687.06,99.94,,1.0,0.0,2010.0
+ANO000907,2024-05-10,Appartement 88m² Gueliz,Marrakech,Gueliz,Appartement,Vente,478917.29,88.09,1.0,1.0,4.0,2024.0
+ANO001048,2024-09-24,Villa 242m² Non spécifié,Casablanca,Non spécifié,Villa,Vente,2809158.87,242.07,4.0,3.0,0.0,1990.0
+ANO000622,2023-06-14,Beau Villa Tanger,Tanger,Iberia,Villa,Location,13508.81,354.35,3.0,1.0,0.0,1996.0
+ANO001064,2024-08-09,Terrain moderne Meknès,Meknès,,,Vente,1348886.06,250.84,0.0,0.0,0.0,2015.0
+ANO000761,2023-04-17,Appartement à location - Agadir,Agadir,Centre,Appartement,Location,5238.71,68.06,2.0,2.0,4.0,2019.0
+ANO000047,2023-10-30,Appartement 54m² Casablanca,Casablanca,,Appartement,Vente,647622.07,54.23,3.0,2.0,4.0,2003.0
+ANO000327,2024-03-20,Villa à vente - Tétouan,Tétouan,Centre,Villa,Vente,1408048.59,310.83,4.0,3.0,0.0,2016.0
+ANO001057,2023-06-22,Terrain à location - Tanger,Tanger,,Terrain,Location,3084.05,250.08,0.0,0.0,0.0,2002.0
+ANO000785,2023-02-24,Terrain moderne Tanger,Tanger,Iberia,Terrain,Vente,1005070.8,136.09,,0.0,,2019.0
+ANO001250,,Appartement à vente - Casablanca,Casablanca,Californie,Appartement,Vente,571417.2,120.72,2.0,1.0,,1977.0
+ANO000325,2023-10-22,Beau Terrain Agadir,Agadir,,Terrain,Vente,1052193.06,221.69,0.0,0.0,,2006.0
+ANO000203,2023-05-02,Villa 150m² Iberia,Tanger,Iberia,Villa,Vente,1813105.4,150.43,,2.0,,1995.0
+ANO001230,2024-10-16,Appartement moderne Oujda,Oujda,,Appartement,Vente,581773.04,116.88,3.0,1.0,0.0,2008.0
+ANO000868,2023-02-20,Bureau 94m² Hassan,Rabat,Hassan,Bureau,Location,5791.54,94.59,0.0,0.0,3.0,1982.0
+ANO001405,2024-09-28,Villa moderne Marrakech,Marrakech,Targa,Villa,Vente,2598921.89,101.25,4.0,2.0,0.0,
+ANO001095,2023-02-28,Beau Terrain Kenitra,Kenitra,,Terrain,Location,617.14,405.17,0.0,0.0,0.0,1997.0
+ANO000006,2024-01-26,Appartement moderne Tétouan,Tétouan,,,Vente,1775084.99,59.68,3.0,2.0,0.0,2012.0
+ANO000296,2023-06-02,Duplex moderne Tétouan,Tétouan,M'diq,Duplex,Vente,2908024.4,179.2,2.0,2.0,1.0,2007.0
+ANO001103,2023-11-20,Villa à vente - Meknès,Meknès,Ville Nouvelle,Villa,Vente,2466003.1,278.93,4.0,3.0,0.0,2024.0
+ANO001331,2024-01-28,Appartement 73m² Oujda,Oujda,,Appartement,Vente,347298.04,73.22,2.0,1.0,2.0,1994.0
+ANO001472,2024-04-08,Appartement 90m² Centre,Oujda,Centre,Appartement,Vente,250232.68,90.01,2.0,2.0,1.0,2014.0
+ANO001066,2023-03-13,Bureau à vente - Meknès,Meknès,,Bureau,Vente,447995.99,148.51,0.0,0.0,2.0,1994.0
+ANO000472,2024-03-05,Terrain à location - Oujda,Oujda,,Terrain,Location,5798.0,222.78,0.0,0.0,,2017.0
+ANO001364,2023-12-28,Duplex 95m² Hivernage,Marrakech,Hivernage,Duplex,Vente,60000000.0,95.07,4.0,3.0,8.0,2021.0
+ANO000762,2023-01-24,Beau Appartement Rabat,Rabat,Hay Riad,Appartement,Vente,432260.14,73.39,2.0,1.0,4.0,2006.0
+ANO000692,,Villa moderne Oujda,Oujda,Centre,Villa,Vente,6295973.56,200.59,4.0,2.0,0.0,2007.0
+ANO000287,2023-12-14,Appartement à vente - Casablanca,Casablanca,Maarif,Appartement,,483733.23,100.82,3.0,1.0,6.0,2003.0
+ANO000211,2024-09-05,Beau Villa Kenitra,Kenitra,Centre,Villa,Vente,1353767.69,372.36,,2.0,0.0,2008.0
+ANO000199,2023-03-19,Beau Terrain Casablanca,Casablanca,Maarif,Terrain,Vente,1111261.98,238.8,0.0,0.0,0.0,1995.0
+ANO001069,2024-06-08,Terrain à vente - Agadir,Agadir,Hay Mohammadi,Terrain,Vente,514305.09,218.76,0.0,0.0,0.0,2003.0
+ANO001220,2023-10-14,Bureau 126m² Tanger,Tanger,,Bureau,Vente,365408.94,126.42,0.0,0.0,3.0,2024.0
+ANO000261,2023-12-29,Terrain moderne Rabat,Rabat,Hay Riad,Terrain,Vente,853310.3,139.76,0.0,0.0,0.0,2005.0
+ANO000798,2023-06-27,Terrain moderne Fès,Fès,Medina,Terrain,,521146.74,120.42,0.0,0.0,,1990.0
+ANO001008,2023-09-22,Duplex à vente - Agadir,Agadir,Talborjt,Duplex,Vente,1522103.18,129.43,3.0,2.0,6.0,2019.0
+ANO000169,2023-12-10,Villa à vente - Rabat,Rabat,Hassan,Villa,Vente,5024036.15,211.03,,3.0,0.0,1991.0
+ANO001183,2024-08-24,Beau Villa Kenitra,kenitra,Centre,Villa,Vente,2543532.9,367.32,3.0,2.0,0.0,2001.0
+ANO000334,,Appartement 119m² Marrakech,Marrakech,,Appartement,Vente,2229033.11,119.98,3.0,1.0,3.0,2017.0
+ANO000614,2024-09-25,Villa moderne Tanger,Tanger,Centre Ville,Villa,Location,8383.77,239.72,6.0,,0.0,1994.0
+ANO000650,2023-10-24,Bureau moderne Agadir,Agadir,Hay Mohammadi,Bureau,Vente,1188294.87,165.04,0.0,0.0,2.0,2009.0
+ANO001088,2023-03-20,Beau Appartement Tétouan,tétouan,,Appartement,Location,2222.08,62.38,2.0,1.0,,2019.0
+ANO000986,2024-04-26,Duplex 196m² Hay Qods,Oujda,Hay Qods,Duplex,Vente,2848417.92,196.61,3.0,2.0,1.0,2008.0
+ANO001492,2024-04-24,Terrain 401m² Ville Nouvelle,Fès,Ville Nouvelle,Terrain,Vente,963266.11,401.5,0.0,0.0,0.0,2007.0
+ANO001416,2024-02-04,Appartement à location - Tanger,Tanger,Malabata,Appartement,Location,5531.01,89.11,1.0,1.0,0.0,2024.0
+ANO000339,2024-11-17,Beau Appartement Tétouan,Tétouan,Centre,Appartement,Vente,758315.66,89.95,1.0,1.0,3.0,2004.0
+ANO000114,2024-01-20,Villa moderne Meknès,Meknès,,Villa,,5154413.17,184.22,3.0,1.0,0.0,2011.0
+ANO000550,2024-11-23,Villa moderne Agadir,Agadir,Centre,Villa,Vente,2692865.0,344.99,6.0,4.0,,2024.0
+ANO001454,2024-10-25,Beau Villa Oujda,Oujda,,Villa,Location,28081.32,274.59,4.0,3.0,0.0,2003.0
+ANO001268,2023-12-12,Villa 152m² M'diq,Tétouan,M'diq,Villa,Vente,3599593.34,152.62,5.0,2.0,0.0,2011.0
+ANO000819,2023-03-18,Appartement à vente - Marrakech,marrakech,Gueliz,Appartement,Vente,631846.25,122.18,1.0,1.0,2.0,2005.0
+ANO000677,2023-01-23,Appartement moderne Agadir,Agadir,Talborjt,Appartement,Vente,2083863.77,72.71,2.0,1.0,6.0,2016.0
+ANO000809,2024-05-19,Appartement moderne Tanger,Tanger,,Appartement,Location,1465.07,97.86,,1.0,0.0,2014.0
+ANO001188,2023-05-05,Appartement 30m² Malabata,Tanger,Malabata,Appartement,Location,180.0,30.25,1.0,1.0,,2019.0
+ANO000503,2024-11-26,Villa 326m² Medina,Fès,Medina,Villa,Vente,2548193.72,326.42,3.0,2.0,0.0,2001.0
+ANO000899,2023-07-27,Appartement moderne Casablanca,Casablanca,Californie,Appartement,Location,2360.25,120.78,1.0,1.0,1.0,2016.0
+ANO000871,2023-02-03,Beau Appartement Oujda,oujda,,Appartement,Vente,2260608.8,56.56,4.0,3.0,3.0,2008.0
+ANO000240,2024-10-09,Appartement à vente - Meknès,Meknès,Hamria,Appartement,Vente,568036.21,75.91,3.0,2.0,4.0,
+ANO000189,2024-06-10,Appartement à vente - Rabat,Rabat,Souissi,Appartement,Vente,694145.67,3000.0,3.0,1.0,6.0,
+ANO001169,2024-08-28,Appartement à vente - Rabat,Rabat,Ocean,Appartement,Vente,1799286.32,50.69,,1.0,5.0,2004.0
+ANO001400,2024-10-13,Appartement à vente - Tétouan,Tétouan,,Appartement,Vente,45000.0,15.0,1.0,1.0,4.0,2014.0
+ANO000146,2024-08-10,Appartement 125m² Ville Nouvelle,Meknès,Ville Nouvelle,Appartement,Vente,558891.37,125.72,2.0,1.0,0.0,1998.0
+ANO000601,2023-06-05,Appartement 83m² Zouagha,Fès,Zouagha,Appartement,Location,11041.91,83.48,2.0,2.0,0.0,1989.0
+ANO000539,2024-06-12,Villa moderne Tanger,TANGER,,Villa,Vente,2109760.04,505.45,4.0,3.0,0.0,2012.0
+ANO001357,,Duplex moderne Meknès,Meknès,Ville Nouvelle,Duplex,Vente,1086460.52,202.7,4.0,3.0,,2014.0
+ANO000794,2024-01-19,Beau Appartement Agadir,Agadir,,Appartement,Vente,581233.66,60.91,2.0,1.0,4.0,2002.0
+ANO001483,2023-09-16,Bureau à vente - Rabat,Rabat,Hassan,Bureau,Vente,848694.7,124.0,0.0,0.0,1.0,2007.0
+ANO000433,2024-05-16,Beau Villa Rabat,Rabat,,Villa,Vente,2659538.24,226.78,4.0,2.0,0.0,2004.0
+ANO000770,2023-06-07,Appartement à vente - Oujda,Oujda,Centre,Appartement,Vente,528016.41,98.36,3.0,1.0,2.0,2017.0
+ANO000323,,Beau Appartement Meknès,Meknès,,Appartement,Vente,468832.92,130.02,3.0,1.0,,2009.0
+ANO000991,2023-03-13,Duplex 146m² M'diq,Tétouan,M'diq,Duplex,Vente,80000000.0,146.57,,2.0,3.0,
+ANO001386,2023-09-12,Beau Villa Rabat,Rabat,,Villa,Vente,30000.0,292.12,4.0,3.0,0.0,1992.0
+ANO001430,,Appartement 122m² Hivernage,MARRAKECH,Hivernage,Appartement,Vente,2074275.43,122.73,2.0,1.0,,2014.0
+ANO001493,2023-04-28,Duplex moderne Tétouan,Tétouan,Centre,Duplex,Location,6093.19,187.83,3.0,1.0,8.0,
+ANO001005,2023-09-26,Beau Appartement Fès,Fès,,Appartement,Location,1582.16,50.07,4.0,3.0,0.0,
+ANO000925,2023-02-18,Appartement 46m² M'diq,Tétouan,M'diq,,Location,7717.16,46.28,3.0,2.0,0.0,
+ANO001476,2023-10-09,Villa à vente - Casablanca,Casablanca,Maarif,Villa,Vente,1633607.52,278.03,3.0,1.0,0.0,1987.0
+ANO000492,2023-03-18,Beau Appartement Oujda,OUJDA,,Appartement,Location,2207.05,65.38,2.0,2.0,4.0,2015.0
+ANO000082,2024-08-11,Appartement à vente - Rabat,rabat,,Appartement,Vente,653890.62,54.99,2.0,1.0,2.0,1994.0
+ANO001437,2023-07-13,Appartement moderne Meknès,Meknès,,Appartement,Location,2105.48,73.39,2.0,1.0,6.0,2010.0
+ANO000538,2024-12-23,Villa 12m² Kenitra,Kenitra,,Villa,Location,5673.62,12.0,4.0,2.0,0.0,2009.0
+ANO001216,,Villa moderne Rabat,Rabat,,Villa,Vente,4328930.32,270.69,3.0,1.0,0.0,2003.0
+ANO000149,2023-11-22,Beau Villa Fès,Fès,Ville Nouvelle,Villa,Vente,1547765.25,303.57,5.0,,0.0,2005.0
+ANO000787,2024-07-10,Appartement à location - Fès,Fès,Zouagha,Appartement,Location,5158.02,95.22,2.0,2.0,2.0,1984.0
+ANO001185,2024-04-14,Appartement 147m² Talborjt,Agadir,Talborjt,Appartement,Location,2366.42,147.79,2.0,1.0,10.0,1995.0
+ANO001206,2024-10-16,Appartement moderne Casablanca,casablanca,Hay Mohammadi,Appartement,Vente,638156.51,60.35,1.0,1.0,0.0,1995.0
+ANO000860,2023-08-29,Villa 272m² Hay Essalam,Kenitra,Hay Essalam,Villa,Vente,2698429.39,272.45,4.0,2.0,,
+ANO001015,2024-06-24,Appartement moderne Meknès,MEKNÈS,Ville Nouvelle,Appartement,Location,1918.46,90.61,1.0,1.0,0.0,
+ANO001271,2023-06-22,Beau Appartement Agadir,Agadir,Centre,Appartement,Location,1722.95,95.5,3.0,2.0,,2003.0
+ANO000934,2024-05-14,Appartement 89m² Hivernage,Marrakech,Hivernage,Appartement,Location,8481.77,89.6,,1.0,0.0,2024.0
+ANO000866,2023-05-22,Appartement moderne Oujda,Oujda,,Appartement,Vente,280373.28,69.83,1.0,1.0,,
+ANO000468,2024-08-05,Appartement moderne Oujda,oujda,Hay Qods,Appartement,Vente,614398.33,114.64,3.0,1.0,4.0,2015.0
+ANO001221,2023-01-14,Beau Villa Rabat,Rabat,Agdal,Villa,Vente,2019980.37,191.75,4.0,2.0,0.0,2005.0
+ANO001341,2024-11-18,Beau Villa Marrakech,Marrakech,Medina,Villa,Location,13139.87,136.11,4.0,2.0,0.0,1995.0
+ANO000244,2024-12-12,Beau Appartement Casablanca,Casablanca,Maarif,Appartement,Vente,456603.43,89.9,2.0,1.0,2.0,1985.0
+ANO000390,2024-08-20,Appartement à vente - Casablanca,Casablanca,Hay Mohammadi,Appartement,Vente,617669.09,99.87,2.0,1.0,1.0,2012.0
+ANO000762,2023-01-24,Beau Appartement Rabat,Rabat,Hay Riad,Appartement,Vente,432260.14,73.39,2.0,1.0,4.0,2006.0
+ANO001428,2024-01-12,Villa moderne Fès,Fès,Zouagha,Villa,Vente,3732174.87,342.75,4.0,3.0,0.0,2014.0
+ANO000107,,Appartement moderne Kenitra,Kenitra,Hay Essalam,Appartement,Vente,588899.96,81.75,,1.0,1.0,2010.0
+ANO000659,2024-11-30,Appartement à vente - Agadir,Agadir,Hay Mohammadi,Appartement,Vente,547754.95,75.29,3.0,2.0,0.0,2018.0
+ANO000590,2023-05-16,Appartement à vente - Kenitra,Kenitra,Centre,Appartement,Vente,528893.7,88.08,3.0,1.0,0.0,
+ANO000591,2024-03-16,Terrain à vente - Rabat,Rabat,Souissi,Terrain,Vente,813080.73,503.41,0.0,0.0,0.0,1990.0
+ANO000192,2024-10-29,Bureau 153m² Malabata,Tanger,Malabata,Bureau,Vente,1112359.79,153.18,18.0,0.0,3.0,1992.0
+ANO001399,2023-03-25,Villa à vente - Casablanca,Casablanca,,Villa,Vente,2419605.19,210.33,3.0,1.0,0.0,2016.0
+ANO000118,2024-01-09,Beau Villa Rabat,Rabat,Hassan,Villa,Vente,8213034.33,318.61,4.0,3.0,,1997.0
+ANO001073,2024-01-30,Appartement 71m² Souissi,Rabat,Souissi,Appartement,Vente,351205.22,71.89,2.0,1.0,3.0,1988.0
+ANO001259,2023-12-19,Duplex moderne Tétouan,Tétouan,,Duplex,Location,2949.44,173.58,2.0,,0.0,1995.0
+ANO000412,2024-08-23,Appartement 64m² Talborjt,Agadir,Talborjt,,Vente,3031883.74,64.91,2.0,2.0,0.0,2023.0
+ANO000800,2024-02-16,Villa moderne Marrakech,Marrakech,Medina,Villa,Location,17976.26,266.58,5.0,3.0,0.0,2010.0
+ANO000353,2023-12-14,Villa moderne Tétouan,Tétouan,,Villa,Vente,2187222.96,343.82,5.0,3.0,0.0,2014.0
+ANO000981,2023-09-03,Appartement à vente - Oujda,Oujda,Hay Qods,Appartement,Vente,669588.46,73.34,2.0,1.0,,
+ANO001084,2024-07-12,Appartement moderne Casablanca,Casablanca,Hay Mohammadi,Appartement,Vente,327051.83,100.08,25.0,13.0,2.0,2004.0
+ANO000510,2023-05-24,Beau Bureau Agadir,Agadir,Centre,Bureau,Vente,1817297.41,100.45,0.0,0.0,2.0,
+ANO000774,2023-10-29,Beau Villa Casablanca,Casablanca,Anfa,Villa,Location,17399.07,285.16,3.0,1.0,,2011.0
+ANO000180,2024-10-18,Beau Appartement Meknès,Meknès,,Appartement,Vente,503853.33,110.16,3.0,2.0,1.0,2005.0
+ANO000351,2024-08-22,Appartement moderne Tanger,Tanger,,Appartement,Vente,474932.48,94.9,3.0,2.0,0.0,2013.0
+ANO001443,2023-02-08,Appartement à location - Meknès,Meknès,Ville Nouvelle,Appartement,Location,7047.14,107.51,1.0,1.0,1.0,2023.0
+ANO000803,2024-07-22,Appartement 105m² Medina,Marrakech,Medina,Appartement,Location,1576.2,105.74,4.0,3.0,8.0,2016.0
+ANO000131,2024-03-14,Beau Bureau Tanger,Tanger,Centre Ville,Bureau,Vente,840634.13,139.68,,0.0,5.0,1999.0
+ANO000698,2024-07-17,Beau Villa Tétouan,Tétouan,,Villa,Vente,2350237.18,299.78,4.0,,0.0,2000.0
+ANO000905,2024-06-01,Villa moderne Oujda,Oujda,,Villa,Vente,2449932.06,138.06,3.0,1.0,0.0,2012.0
+ANO000365,2023-05-26,Bureau à vente - Tétouan,Tétouan,M'diq,Bureau,Vente,1491051.82,122.08,0.0,0.0,5.0,2015.0
+ANO000313,2024-09-03,Appartement 102m² Hay Essalam,Kenitra,Hay Essalam,Appartement,Vente,1591506.87,102.71,3.0,,0.0,2011.0
+ANO000747,2023-02-07,Beau Appartement Agadir,Agadir,,Appartement,Vente,501155.64,102.16,2.0,,0.0,2010.0
+ANO000086,2023-06-13,Appartement 116m² Zouagha,Fès,Zouagha,Appartement,Vente,1806306.37,116.67,2.0,2.0,2.0,1989.0
+ANO000359,,Beau Duplex Marrakech,Marrakech,Gueliz,Duplex,Location,9591.04,125.31,4.0,3.0,5.0,1997.0
+ANO000030,2024-01-06,Appartement 71m² Hay Qods,Oujda,Hay Qods,Appartement,Vente,589450.13,71.76,3.0,2.0,1.0,2014.0
+ANO000838,2024-05-06,Appartement 98m² Marrakech,Marrakech,,Appartement,Vente,615671.78,98.72,2.0,1.0,3.0,2007.0
+ANO000754,2023-07-02,Beau Appartement Casablanca,Casablanca,Californie,Appartement,Location,2295.5,95.92,2.0,,,
+ANO000839,2023-04-21,Bureau à vente - Tanger,Tanger,,Bureau,Vente,1149818.3,133.12,0.0,0.0,8.0,2010.0
+ANO000466,2023-12-16,Appartement moderne Oujda,Oujda,Hay Qods,,Vente,2073872.12,51.32,3.0,1.0,7.0,2002.0
+ANO000875,2023-05-22,Appartement 120m² Centre,kenitra,Centre,Appartement,Vente,560059.2,120.26,3.0,2.0,8.0,2013.0
+ANO001010,2024-02-01,Duplex moderne Fès,Fès,,Duplex,Location,8278.12,124.51,4.0,3.0,,2000.0
+ANO000569,2023-10-19,Appartement à location - Agadir,Agadir,,Appartement,Location,2396.71,78.97,3.0,1.0,1.0,2015.0
+ANO001009,2023-11-13,Appartement 75m² Hay Qods,Oujda,Hay Qods,Appartement,Vente,325631.0,75.29,2.0,,4.0,2011.0
+ANO000278,2024-05-22,Villa à location - Meknès,Meknès,Hamria,Villa,Location,6962.7,169.67,3.0,1.0,0.0,2003.0
+ANO000673,2024-01-12,Appartement 34m² Centre,Kenitra,Centre,Appartement,Vente,518258.22,34.9,2.0,2.0,0.0,2015.0
+ANO000218,2024-08-08,Terrain 267m² Hivernage,Marrakech,Hivernage,Terrain,Location,4551.88,267.73,0.0,0.0,0.0,2001.0
+ANO000442,2024-03-20,Appartement 86m² Hay Qods,Oujda,Hay Qods,Appartement,Vente,608380.2,86.61,2.0,2.0,10.0,1994.0
+ANO001494,2024-12-12,Appartement 55m² Tanger,Tanger,,Appartement,Vente,676466.99,55.14,3.0,2.0,0.0,2012.0
+ANO000109,2023-02-04,Appartement moderne Rabat,Rabat,,,Vente,429277.91,54.65,2.0,,1.0,2017.0
+ANO000447,2024-04-04,Appartement à vente - Rabat,Rabat,Agdal,Appartement,Vente,1844729.27,89.26,2.0,2.0,0.0,2002.0
+ANO000092,2024-12-07,Beau Villa Oujda,Oujda,Hay Qods,Villa,Location,24061.4,171.48,4.0,3.0,0.0,2013.0
+ANO001323,2023-03-26,Beau Villa Tétouan,Tétouan,Centre,Villa,Vente,2355555.0,98.83,5.0,2.0,0.0,2024.0
+ANO000874,2023-10-07,Appartement 102m² Kenitra,Kenitra,,Appartement,Vente,724698.68,102.61,3.0,1.0,3.0,2016.0
+ANO000393,2023-08-03,Appartement moderne Oujda,Oujda,,Appartement,Vente,1322817.27,82.54,2.0,2.0,1.0,2002.0
+ANO001326,2023-04-23,Appartement moderne Rabat,Rabat,,Appartement,Vente,572989.29,97.66,2.0,2.0,4.0,2021.0
+ANO000332,2024-09-12,Villa 169m² Maarif,Casablanca,Maarif,Villa,Location,7436.03,169.87,6.0,3.0,0.0,
+ANO001080,2024-03-20,Appartement 89m² Californie,Casablanca,Californie,Appartement,Vente,399409.28,89.62,3.0,,,
+ANO000101,2024-01-27,Appartement 70m² Hay Qods,Oujda,Hay Qods,Appartement,Vente,450520.6,71.0,2.0,2.0,2.0,2015.0
+ANO001445,2024-07-26,Appartement moderne Marrakech,Marrakech,,Appartement,Vente,2301893.32,89.99,,2.0,2.0,2013.0
+ANO001091,2023-02-10,Beau Villa Tanger,Tanger,,Villa,Vente,5676498.54,180.16,4.0,3.0,0.0,2017.0
+ANO000631,2023-09-24,Duplex à vente - Meknès,Meknès,Ville Nouvelle,Duplex,,2127770.55,150.32,3.0,,8.0,2006.0
+ANO000549,2023-04-18,Appartement moderne Meknès,Meknès,Ville Nouvelle,Appartement,Vente,422512.78,95.71,,2.0,2.0,2008.0
+ANO001406,2023-08-23,Beau Appartement Fès,Fès,Medina,Appartement,Location,2468.0,131.42,3.0,1.0,7.0,
+ANO000295,,Beau Duplex Tétouan,Tétouan,,Duplex,Location,6025.35,202.21,3.0,2.0,7.0,2015.0
+ANO001359,2023-09-15,Appartement 87m² Marrakech,Marrakech,,Appartement,Vente,496486.75,87.83,,,2.0,2007.0
+ANO001387,2023-04-12,Appartement 87m² Meknès,Meknès,,Appartement,Vente,472020.77,87.1,2.0,1.0,5.0,2010.0
+ANO001082,2024-08-11,Beau Terrain Oujda,Oujda,,Terrain,Vente,1117618.56,279.26,0.0,0.0,,2016.0
+ANO001365,2023-03-21,Beau Villa Meknès,Meknès,,Villa,Vente,5829779.03,267.72,4.0,3.0,0.0,2019.0
+ANO001475,2023-07-02,Appartement 108m² Tétouan,Tétouan,,Appartement,Vente,700648.43,108.65,2.0,2.0,6.0,2002.0
+ANO001261,2024-05-03,Beau Villa Agadir,Agadir,,Villa,Vente,2124839.77,223.86,3.0,2.0,,2001.0
+ANO000974,2023-01-15,Bureau moderne Fès,Fès,Zouagha,Bureau,Vente,1718348.71,91.25,0.0,0.0,,2011.0
+ANO001342,2024-08-05,Villa à vente - Casablanca,Casablanca,Non spécifié,Villa,Vente,2591794.83,195.71,5.0,2.0,0.0,1995.0
+ANO000204,2023-07-04,Duplex moderne Kenitra,Kenitra,,Duplex,Vente,2697626.59,182.72,4.0,2.0,7.0,2009.0
+ANO000743,2024-05-06,Beau Appartement Tanger,Tanger,Centre Ville,Appartement,Vente,720352.36,69.99,2.0,1.0,1.0,
+ANO000989,2024-07-25,Duplex 137m² Hay Qods,Oujda,Hay Qods,,Location,10135.4,137.06,2.0,2.0,4.0,
+ANO001041,2023-03-02,Appartement 69m² Rabat,Rabat,,Appartement,Vente,491972.62,69.7,2.0,2.0,4.0,2007.0
+ANO000577,2023-06-24,Beau Villa Meknès,Meknès,Hamria,Villa,Vente,2383643.66,397.05,,2.0,0.0,2008.0
+ANO001052,2023-08-26,Villa à vente - Tétouan,Tétouan,Centre,Villa,Vente,5437766.92,166.92,3.0,1.0,,1996.0
+ANO001424,,Beau Appartement Rabat,Rabat,,Appartement,Vente,661529.2,81.7,18.0,10.0,0.0,1992.0
+ANO000585,,Beau Appartement Oujda,Oujda,Hay Qods,Appartement,Vente,471510.92,39.23,2.0,1.0,0.0,2014.0
+ANO000956,2023-05-27,Duplex moderne Tétouan,Tétouan,,Duplex,Vente,1615314.92,108.07,3.0,1.0,8.0,2002.0
+ANO000411,2024-11-28,Villa 140m² Marrakech,Marrakech,,Villa,Vente,1921254.11,140.42,5.0,2.0,0.0,2009.0
+ANO000778,2023-11-18,Appartement à vente - Tétouan,Tétouan,Centre,Appartement,Vente,541408.09,47.05,3.0,,3.0,2007.0
+ANO001039,2023-01-01,Appartement à vente - Kenitra,Kenitra,Hay Essalam,Appartement,Vente,2155591.49,91.29,,1.0,,2008.0
+ANO000726,,Beau Bureau Tanger,Tanger,Iberia,Bureau,Location,8143.26,55.69,0.0,0.0,,
+ANO000187,2023-10-01,Appartement moderne Marrakech,Marrakech,Medina,Appartement,Vente,2157780.86,74.48,2.0,1.0,4.0,2012.0
+ANO000011,2023-04-22,Appartement à vente - Tanger,Tanger,,Appartement,Vente,477795.21,131.31,3.0,1.0,0.0,2009.0
+ANO000600,2023-03-10,Terrain moderne Rabat,Rabat,Ocean,Terrain,Vente,561192.24,429.12,0.0,0.0,0.0,2000.0
+ANO001197,2023-11-18,Appartement à vente - Meknès,Meknès,Ville Nouvelle,Appartement,Vente,698750.08,75.09,3.0,2.0,5.0,2018.0
+ANO001020,2024-07-16,Bureau 71m² Fès,Fès,,Bureau,Vente,60000000.0,71.91,0.0,0.0,,1994.0
+ANO000781,,Beau Bureau Casablanca,Casablanca,Non spécifié,Bureau,Location,5918.13,136.84,0.0,0.0,2.0,2007.0
+ANO000719,2024-11-13,Appartement moderne Tétouan,TÉTOUAN,M'diq,Appartement,Vente,398780.23,69.59,3.0,1.0,6.0,
+ANO001127,2024-06-10,Beau Appartement Agadir,agadir,Hay Mohammadi,Appartement,Location,2442.86,66.79,3.0,2.0,4.0,2024.0
+ANO000346,2024-01-13,Appartement à vente - Tétouan,Tétouan,,Appartement,Vente,738878.41,54.36,3.0,2.0,,1998.0
+ANO000737,2024-01-05,Appartement à location - Meknès,Meknès,Ville Nouvelle,Appartement,Location,7499.11,84.98,2.0,1.0,3.0,1999.0
+ANO000736,2024-12-08,Beau Villa Kenitra,Kenitra,,Villa,Vente,2436203.14,368.73,5.0,,0.0,
+ANO000575,2024-08-10,Appartement moderne Oujda,Oujda,Hay Qods,Appartement,Vente,638657.26,100.38,2.0,2.0,1.0,2002.0
+ANO000384,2023-12-10,Appartement 60m² M'diq,Tétouan,M'diq,Appartement,Vente,1661215.46,60.22,1.0,1.0,2.0,1992.0
+ANO000324,2023-01-23,Beau Appartement Fès,Fès,,Appartement,Vente,378306.99,88.2,2.0,2.0,0.0,1989.0
+ANO000093,2023-09-20,Appartement à vente - Oujda,Oujda,,Appartement,Vente,573887.16,69.99,2.0,1.0,3.0,2010.0
+ANO000362,2024-10-04,Appartement 94m² Centre,Kenitra,Centre,Appartement,Vente,2830699.19,94.55,3.0,1.0,,
+ANO000373,2023-11-22,Appartement à vente - Fès,Fès,,,,838409.87,83.56,2.0,1.0,3.0,2003.0
+ANO000910,2024-07-18,Villa à location - Oujda,OUJDA,Hay Qods,Villa,Location,11482.95,190.6,5.0,2.0,0.0,2006.0
+ANO000580,2024-02-18,Beau Terrain Oujda,Oujda,Hay Qods,Terrain,Vente,479659.12,414.04,0.0,0.0,0.0,2023.0
+ANO000988,2024-12-07,Beau Appartement Oujda,Oujda,,Appartement,Vente,476969.23,71.78,3.0,1.0,3.0,2001.0
+ANO000497,2023-01-10,Villa 351m² M'diq,Tétouan,M'diq,Villa,Vente,1437171.84,351.01,4.0,2.0,0.0,2005.0
+ANO000355,2023-12-12,Villa à vente - Meknès,MEKNÈS,Hamria,Villa,Vente,7723148.55,110.82,5.0,2.0,,
+ANO000074,2024-06-03,Bureau à vente - Kenitra,Kenitra,Hay Essalam,Bureau,Vente,1232749.66,212.59,0.0,0.0,5.0,
+ANO000072,2023-04-12,Appartement 77m² Medina,Fès,Medina,Appartement,Location,2512.67,77.12,2.0,1.0,0.0,2011.0
+ANO001232,2023-05-23,Beau Appartement Agadir,Agadir,,Appartement,Vente,2422947.32,106.8,3.0,1.0,5.0,2007.0
+ANO001379,2023-08-25,Beau Duplex Marrakech,Marrakech,Hivernage,Duplex,Vente,80000000.0,130.59,3.0,1.0,,2009.0
+ANO001376,2023-02-26,Beau Appartement Tanger,Tanger,Malabata,Appartement,Vente,418537.67,62.98,1.0,1.0,1.0,2024.0
+ANO001381,,Villa 381m² Agadir,Agadir,,Villa,Location,27713.32,381.07,4.0,2.0,0.0,2013.0
+ANO000858,2023-09-01,Duplex à location - Tétouan,Tétouan,Centre,Duplex,Location,3723.38,135.02,3.0,,,2009.0
+ANO000257,2024-07-17,Beau Appartement Rabat,Rabat,Hassan,Appartement,Location,1899.06,130.31,2.0,1.0,2.0,2010.0
+ANO000014,2023-09-02,Appartement 103m² Centre,Agadir,Centre,Appartement,Location,120.0,103.46,2.0,2.0,6.0,2011.0
+ANO000289,2024-11-25,Beau Villa Meknès,Meknès,,Villa,Vente,5080816.96,218.98,4.0,2.0,0.0,
+ANO001407,2023-10-31,Terrain à vente - Fès,Fès,Ville Nouvelle,Terrain,Vente,897337.58,83.54,0.0,0.0,0.0,1964.0
+ANO000434,2023-09-23,Villa moderne Casablanca,Casablanca,Bourgogne,Villa,Vente,2360848.9,196.55,5.0,2.0,0.0,2014.0
+ANO000630,2024-05-21,Bureau 101m² Agdal,Rabat,Agdal,Bureau,Vente,1369624.42,101.05,0.0,0.0,7.0,
+ANO001348,2023-11-14,Villa 120m² Fès,Fès,,Villa,Vente,2582939.14,120.73,5.0,2.0,0.0,2004.0
+ANO001450,2024-10-13,Beau Appartement Rabat,Rabat,Ocean,Appartement,,360138.79,61.49,2.0,2.0,3.0,1991.0
+ANO000617,2024-07-08,Bureau moderne Tétouan,Tétouan,Centre,Bureau,Location,6351.13,137.09,0.0,0.0,0.0,2004.0
+ANO000389,2023-10-02,Villa 445m² Tétouan,Tétouan,,Villa,Vente,7533855.65,445.18,4.0,3.0,0.0,2021.0
+ANO000837,2023-05-26,Beau Villa Marrakech,Marrakech,Medina,Villa,Vente,3973388.45,144.2,3.0,1.0,,2013.0
+ANO000443,2023-07-13,Appartement moderne Tétouan,Tétouan,Centre,Appartement,Vente,437279.75,81.4,2.0,1.0,5.0,2000.0
+ANO000281,2023-10-18,Villa à vente - Agadir,Agadir,Talborjt,Villa,Vente,2175268.15,303.99,4.0,2.0,0.0,2001.0
+ANO001038,2023-12-23,Beau Appartement Casablanca,Casablanca,,Appartement,Location,7546.98,77.48,3.0,1.0,3.0,1981.0
+ANO000689,2024-06-21,Appartement 70m² Ville Nouvelle,Fès,Ville Nouvelle,Appartement,Vente,581843.48,70.43,1.0,1.0,2.0,1963.0
+ANO001243,2023-12-11,Bureau 162m² Souissi,Rabat,Souissi,Bureau,Vente,1398749.44,162.79,0.0,0.0,8.0,
+ANO001113,2024-02-18,Beau Appartement Agadir,Agadir,Talborjt,Appartement,Vente,386101.1,81.28,1.0,1.0,4.0,2014.0
+ANO000306,2023-03-27,Villa moderne Kenitra,Kenitra,,Villa,Vente,2339510.76,298.63,5.0,3.0,0.0,2011.0
+ANO000126,2024-07-16,Terrain moderne Kenitra,KENITRA,Hay Essalam,Terrain,Location,2279.18,404.68,0.0,0.0,0.0,2011.0
+ANO001035,2024-02-12,Appartement 111m² Talborjt,Agadir,Talborjt,Appartement,Vente,2659792.36,111.77,3.0,1.0,2.0,2004.0
+ANO000268,2024-06-04,Terrain moderne Rabat,Rabat,,Terrain,Vente,645186.58,311.53,0.0,0.0,,1993.0
+ANO000537,2023-05-21,Duplex moderne Agadir,Agadir,Talborjt,Duplex,Location,7975.39,137.38,2.0,2.0,4.0,2007.0
+ANO000229,2024-11-12,Beau Bureau Tanger,Tanger,Iberia,Bureau,Vente,711148.88,148.52,,0.0,1.0,2008.0
+ANO001274,2024-07-04,Terrain à vente - Meknès,meknès,Hamria,Terrain,Vente,444790.83,252.01,0.0,0.0,0.0,2012.0
+ANO000402,2024-11-11,Appartement 86m² Gueliz,Marrakech,Gueliz,Appartement,,615195.76,86.22,2.0,,0.0,2010.0
+ANO000364,,Beau Appartement Kenitra,KENITRA,Hay Essalam,Appartement,Location,7685.84,83.21,3.0,1.0,1.0,2009.0
+ANO001001,2024-08-18,Villa moderne Kenitra,Kenitra,,Villa,Location,12553.15,181.17,,2.0,0.0,2006.0
+ANO000148,2023-10-15,Villa 84m² Non spécifié,Casablanca,Non spécifié,Villa,Location,23803.83,84.6,5.0,2.0,0.0,1998.0
+ANO000664,2023-05-12,Appartement moderne Fès,Fès,,Appartement,Vente,601830.71,105.01,2.0,2.0,,2011.0
+ANO000417,2023-11-30,Beau Appartement Oujda,Oujda,Hay Qods,Appartement,Vente,578054.31,46.1,4.0,2.0,4.0,
+ANO000196,2023-08-05,Appartement moderne Meknès,Meknès,,Appartement,Vente,579786.47,73.52,3.0,1.0,5.0,2003.0
+ANO001500,2023-04-27,Beau Terrain Rabat,Rabat,,Terrain,Location,4492.22,39.64,0.0,0.0,,1982.0
+ANO001368,2024-10-25,Terrain 462m² Maarif,Casablanca,Maarif,Terrain,Vente,566348.89,462.13,,,,2013.0
+ANO001075,,Appartement moderne Oujda,Oujda,Centre,Appartement,Location,2857.86,102.38,3.0,2.0,3.0,2012.0
+ANO001076,2023-02-13,Appartement moderne Fès,Fès,,Appartement,Location,1725.82,63.83,3.0,1.0,8.0,2018.0
+ANO000923,2023-03-22,Villa 286m² Zouagha,Fès,Zouagha,Villa,Vente,2183193.72,286.38,6.0,4.0,0.0,1992.0
+ANO000924,2024-08-26,Beau Terrain Tanger,Tanger,Centre Ville,Terrain,Location,2964.24,275.3,0.0,0.0,0.0,2004.0
+ANO000013,2024-06-27,Bureau à vente - Marrakech,Marrakech,Gueliz,Bureau,Vente,1283545.44,41.61,0.0,0.0,3.0,1999.0
+ANO000009,2024-01-18,Appartement à vente - Oujda,Oujda,Hay Qods,Appartement,Vente,484674.07,87.77,2.0,1.0,,2000.0
+ANO000469,2024-07-28,Appartement moderne Casablanca,Casablanca,Ain Diab,Appartement,Vente,669525.72,66.08,2.0,2.0,2.0,1978.0
+ANO001292,2023-03-30,Appartement à location - Kenitra,kenitra,,Appartement,Location,5636.92,66.52,2.0,,2.0,2019.0
+ANO000279,2024-12-23,Villa à vente - Meknès,Meknès,Hamria,Villa,Vente,2182657.56,268.74,4.0,2.0,0.0,2022.0
+ANO001047,2023-09-18,Villa 228m² Ville Nouvelle,Fès,Ville Nouvelle,Villa,Location,26840.83,228.59,4.0,3.0,0.0,
+ANO000642,2023-07-13,Villa moderne Tanger,Tanger,Malabata,Villa,Location,9278.49,415.93,4.0,2.0,0.0,2002.0
+ANO000922,2024-03-27,Villa 270m² Ocean,Rabat,Ocean,Villa,Vente,5052633.41,270.25,5.0,2.0,0.0,2012.0
+ANO001191,2023-12-28,Beau Bureau Tanger,Tanger,Malabata,Bureau,Vente,1081007.12,172.48,0.0,0.0,,2012.0
+ANO000041,2024-10-25,Villa à vente - Marrakech,Marrakech,Medina,Villa,Vente,7186547.92,177.25,4.0,2.0,0.0,2021.0
+ANO000122,2023-06-18,Appartement 102m² Centre Ville,Tanger,Centre Ville,Appartement,,598205.41,102.25,2.0,2.0,0.0,2006.0
+ANO000329,2023-02-13,Beau Bureau Oujda,Oujda,Centre,Bureau,Vente,1198558.98,73.67,0.0,0.0,6.0,2022.0
+ANO001295,,Appartement 62m² Centre,Oujda,Centre,Appartement,Vente,328744.77,62.74,2.0,2.0,5.0,2009.0
+ANO000076,2023-11-14,Beau Appartement Kenitra,Kenitra,,Appartement,Vente,680674.07,86.61,1.0,1.0,0.0,2001.0
+ANO000887,2023-05-25,Beau Appartement Oujda,Oujda,,Appartement,Vente,2068735.74,98.83,,1.0,0.0,2000.0
+ANO000869,2023-10-14,Appartement à vente - Casablanca,casablanca,Bourgogne,Appartement,Vente,475078.55,80.39,1.0,1.0,,1990.0
+ANO000111,2023-09-07,Villa 178m² Malabata,Tanger,Malabata,Villa,Location,23926.52,178.22,4.0,2.0,0.0,2010.0
+ANO000271,2024-11-26,Villa à location - Agadir,Agadir,,Villa,Location,22878.77,214.82,4.0,3.0,0.0,2021.0
+ANO000349,2024-02-09,Appartement moderne Rabat,Rabat,Souissi,Appartement,Vente,529284.72,107.09,2.0,2.0,4.0,2009.0
+ANO000376,2024-08-05,Appartement 92m² Kenitra,Kenitra,,Appartement,Location,1649.75,92.57,2.0,,1.0,2003.0
+ANO000057,2024-01-17,Beau Duplex Marrakech,Marrakech,,Duplex,Vente,1652767.13,112.31,4.0,3.0,0.0,
+ANO000083,2024-06-15,Beau Appartement Agadir,Agadir,Centre,Appartement,Location,1972.03,68.67,,,0.0,2024.0
+ANO000133,2023-11-03,Villa 358m² Hivernage,Marrakech,Hivernage,Villa,Vente,1343432.74,358.31,3.0,1.0,,2009.0
+ANO000971,2024-08-25,Appartement à vente - Rabat,Rabat,Hassan,Appartement,Vente,485759.79,93.96,3.0,2.0,0.0,1989.0
+ANO000795,2023-04-16,Appartement 83m² Zouagha,Fès,Zouagha,Appartement,Vente,591254.55,83.78,4.0,3.0,2.0,2000.0
+ANO000731,2024-06-18,Appartement moderne Kenitra,Kenitra,,Appartement,Vente,358225.08,96.55,2.0,1.0,0.0,2024.0
+ANO000623,2024-01-27,Beau Appartement Tanger,Tanger,,Appartement,Location,9652.07,113.17,2.0,2.0,,2001.0
+ANO000049,2024-05-08,Terrain moderne Agadir,Agadir,Centre,Terrain,Vente,877964.84,393.82,0.0,,0.0,2000.0
+ANO000010,2024-08-07,Terrain moderne Tétouan,Tétouan,M'diq,Terrain,Vente,912709.41,227.92,0.0,,0.0,2007.0
+ANO000579,2023-06-12,Terrain à vente - Meknès,Meknès,Ville Nouvelle,Terrain,Vente,1039982.57,106.04,0.0,0.0,0.0,2001.0
+ANO000338,2024-04-06,Beau Appartement Tanger,Tanger,,Appartement,Vente,2079039.84,136.88,2.0,2.0,4.0,2004.0
+ANO000495,2023-04-24,Beau Appartement Tanger,TANGER,Iberia,Appartement,Vente,757235.66,75.01,2.0,1.0,4.0,
+ANO000310,2024-03-22,Beau Duplex Agadir,Agadir,,Duplex,Location,8105.31,228.28,,1.0,2.0,2009.0
+ANO001126,2024-03-23,Duplex à vente - Oujda,Oujda,Hay Qods,Duplex,Vente,1185582.85,136.01,3.0,1.0,3.0,2002.0
+ANO001155,2023-11-11,Beau Appartement Tanger,Tanger,Malabata,Appartement,Vente,568803.25,110.59,1.0,1.0,4.0,2011.0
+ANO001255,2024-05-27,Beau Appartement Meknès,Meknès,Ville Nouvelle,Appartement,Vente,452438.28,105.58,2.0,1.0,7.0,2011.0
+ANO000705,2023-03-23,Appartement à vente - Kenitra,Kenitra,Hay Essalam,Appartement,Vente,554910.3,59.95,2.0,1.0,1.0,2015.0
+ANO000628,2024-05-03,Duplex moderne Marrakech,marrakech,Gueliz,Duplex,Vente,2769349.69,88.28,2.0,2.0,2.0,2005.0
+ANO001200,2024-11-02,Appartement 93m² Californie,Casablanca,Californie,Appartement,Vente,670856.0,93.4,,1.0,4.0,1996.0
+ANO000246,2023-12-30,Terrain à vente - Agadir,Agadir,Centre,Terrain,Vente,941779.24,330.72,0.0,0.0,,2017.0
+ANO000272,2023-02-01,Beau Villa Tanger,Tanger,,Villa,Location,9193.11,332.55,3.0,2.0,,
+ANO000061,2023-05-21,Appartement à location - Agadir,Agadir,Talborjt,Appartement,Location,2500.32,63.57,2.0,2.0,0.0,2001.0
+ANO001079,2024-09-07,Terrain moderne Marrakech,Marrakech,,Terrain,Location,1663.45,322.74,0.0,0.0,0.0,2018.0
+ANO001047,2023-09-18,Villa 228m² Ville Nouvelle,Fès,Ville Nouvelle,Villa,Location,26840.83,228.59,4.0,3.0,0.0,
+ANO000825,2023-07-29,Appartement moderne Rabat,Rabat,Hay Riad,Appartement,Vente,1685605.59,50.47,3.0,,6.0,2004.0
+ANO000073,2023-02-18,Beau Appartement Tanger,Tanger,,Appartement,Location,1829.04,79.08,2.0,2.0,,2006.0
+ANO001266,2023-12-17,Appartement moderne Rabat,Rabat,Hay Riad,Appartement,Vente,1869755.58,80.89,1.0,1.0,5.0,2003.0
+ANO000033,,Beau Villa Tanger,Tanger,Iberia,Villa,Location,9392.24,270.88,3.0,1.0,0.0,2010.0
+ANO001482,2023-06-27,Appartement 36m² M'diq,Tétouan,M'diq,Appartement,Vente,2272092.08,36.58,,,1.0,2003.0
+ANO000662,2023-06-03,Appartement 108m² Talborjt,Agadir,Talborjt,Appartement,Vente,2344957.39,108.83,2.0,2.0,2.0,2014.0
+ANO001090,2024-08-24,Villa 268m² Malabata,Tanger,Malabata,Villa,Vente,2010996.05,268.52,6.0,3.0,0.0,2015.0
+ANO001112,2024-03-20,Villa à vente - Oujda,Oujda,Hay Qods,Villa,Vente,2487035.61,361.97,5.0,2.0,0.0,1999.0
+ANO000985,2023-05-07,Appartement à location - Oujda,Oujda,Centre,Appartement,Location,8746.67,123.03,3.0,2.0,4.0,2002.0
+ANO000248,2023-05-29,Appartement moderne Tétouan,Tétouan,M'diq,Appartement,Vente,1488169.21,69.38,1.0,1.0,6.0,2010.0
+ANO000157,2024-10-19,Beau Bureau Kenitra,Kenitra,Hay Essalam,Bureau,Vente,987799.54,96.97,0.0,0.0,3.0,2007.0
+ANO001332,2024-03-10,Appartement à vente - Oujda,Oujda,Centre,Appartement,Vente,640131.93,33.37,3.0,2.0,0.0,2010.0
+ANO000249,2023-07-12,Villa 191m² Ocean,RABAT,Ocean,Villa,Vente,6776488.53,191.94,3.0,2.0,0.0,2002.0
+ANO000942,2023-01-18,Villa à vente - Meknès,meknès,Ville Nouvelle,Villa,Vente,3892215.23,245.81,5.0,3.0,0.0,2023.0
+ANO001394,2023-09-12,Appartement 91m² M'diq,Tétouan,M'diq,Appartement,Vente,1862848.46,91.96,2.0,1.0,5.0,2005.0
+ANO000064,,Appartement moderne Tétouan,Tétouan,,Appartement,Vente,368218.33,73.84,2.0,1.0,,2016.0
+ANO000558,2023-04-10,Villa à location - Kenitra,Kenitra,Centre,Villa,Location,8066.35,218.66,5.0,,0.0,2002.0
+ANO000746,2023-09-04,Appartement à vente - Kenitra,Kenitra,Centre,Appartement,Vente,637691.69,85.36,2.0,1.0,2.0,2002.0
+ANO001223,2024-10-20,Beau Appartement Casablanca,Casablanca,Ain Diab,Appartement,Vente,637765.63,99.76,4.0,3.0,4.0,1997.0
+ANO000830,2023-06-19,Appartement 85m² Meknès,Meknès,,Appartement,Vente,544550.65,85.63,3.0,2.0,0.0,1994.0
+ANO000606,2023-07-01,Appartement moderne Tétouan,Tétouan,Centre,Appartement,Vente,443056.93,31.2,3.0,2.0,5.0,2004.0
+ANO000604,2023-06-29,Villa 211m² Kenitra,Kenitra,,Villa,Vente,2647519.16,211.36,4.0,3.0,0.0,
+ANO001442,2024-02-25,Appartement 65m² Californie,CASABLANCA,Californie,Appartement,Vente,420798.5,65.94,4.0,,,2015.0
+ANO000955,2023-12-29,Appartement à vente - Tétouan,Tétouan,Centre,Appartement,Vente,417724.94,102.03,2.0,2.0,3.0,2013.0
+ANO001270,2023-05-16,Appartement 101m² Medina,Marrakech,Medina,Appartement,,1212598.31,101.37,3.0,1.0,0.0,2016.0
+ANO000561,2024-01-24,Beau Villa Agadir,Agadir,Hay Mohammadi,Villa,Vente,6605595.14,248.06,6.0,4.0,0.0,2002.0
+ANO001003,2024-10-13,Beau Appartement Agadir,Agadir,Talborjt,Appartement,Vente,2194414.52,46.32,,,,2018.0
+ANO001293,2024-02-26,Villa à vente - Meknès,Meknès,Ville Nouvelle,Villa,Vente,7425023.74,269.44,4.0,3.0,0.0,1997.0
+ANO000063,2024-06-06,Appartement à location - Tanger,Tanger,Iberia,Appartement,Location,2427.15,83.18,2.0,1.0,4.0,2003.0
+ANO000177,2023-02-10,Beau Appartement Agadir,Agadir,Centre,Appartement,Vente,2103889.0,12.0,3.0,2.0,6.0,2015.0
+ANO001013,2024-11-17,Beau Villa Tétouan,Tétouan,Centre,Villa,Vente,2028725.4,263.64,4.0,3.0,0.0,2002.0
+ANO001083,2023-12-04,Appartement à vente - Tétouan,Tétouan,,Appartement,Vente,602956.86,66.67,4.0,3.0,3.0,2011.0
+ANO001040,2023-11-03,Appartement 111m² Iberia,Tanger,Iberia,Appartement,Vente,459305.02,111.22,2.0,1.0,0.0,2023.0
+ANO000596,2023-08-09,Appartement moderne Tétouan,Tétouan,M'diq,Appartement,Vente,375093.82,77.27,2.0,1.0,4.0,
+ANO001027,2024-05-27,Terrain à vente - Oujda,oujda,Hay Qods,Terrain,Vente,870207.34,270.18,0.0,,0.0,2019.0
+ANO000264,2023-12-08,Beau Villa Oujda,Oujda,Centre,Villa,Vente,1369519.53,284.37,5.0,2.0,0.0,
+ANO001467,2024-07-06,Beau Appartement Casablanca,Casablanca,,Appartement,Vente,679606.73,108.57,2.0,2.0,2.0,2007.0
+ANO001248,2023-03-19,Beau Appartement Fès,Fès,,Appartement,Vente,2208511.96,93.04,3.0,2.0,,2002.0
+ANO000721,2023-12-01,Beau Villa Tanger,Tanger,Centre Ville,Villa,Vente,1644271.02,269.72,6.0,3.0,,2013.0
+ANO001375,2024-05-07,Beau Villa Tanger,Tanger,Centre Ville,Villa,Location,10715.58,266.61,4.0,2.0,0.0,2012.0
+ANO000656,2023-03-19,Beau Bureau Casablanca,Casablanca,Hay Mohammadi,Bureau,Vente,1235832.27,112.11,0.0,0.0,7.0,
+ANO000624,2024-11-10,Villa à vente - Meknès,Meknès,Hamria,Villa,Vente,1994592.86,161.54,6.0,4.0,0.0,
+ANO000763,2024-09-16,Beau Appartement Casablanca,Casablanca,Hay Mohammadi,Appartement,Vente,644006.86,78.71,4.0,3.0,0.0,
+ANO000958,2023-10-27,Appartement à vente - Tétouan,Tétouan,M'diq,Appartement,Vente,605006.4,32.82,18.0,9.0,5.0,
+ANO000653,2024-03-03,Beau Appartement Marrakech,Marrakech,Medina,Appartement,Vente,293719.09,163.44,4.0,2.0,4.0,
+ANO001182,2023-11-02,Appartement à vente - Fès,Fès,,Appartement,Vente,420714.87,119.41,2.0,2.0,2.0,
+ANO000152,2024-08-04,Beau Bureau Casablanca,Casablanca,Hay Mohammadi,Bureau,Location,5606.47,98.79,0.0,0.0,,1988.0
+ANO001431,2024-08-08,Villa 215m² M'diq,Tétouan,M'diq,Villa,Location,9817.22,215.58,6.0,3.0,0.0,1998.0
+ANO000545,2024-07-08,Beau Villa Tétouan,Tétouan,Centre,Villa,Location,7512.9,332.4,4.0,2.0,0.0,
+ANO000352,,Villa moderne Casablanca,Casablanca,Hay Mohammadi,Villa,Vente,6391010.65,205.98,5.0,3.0,0.0,1989.0
+ANO001167,2023-10-17,Villa 221m² Tétouan,Tétouan,,Villa,Vente,2108424.76,221.47,6.0,3.0,0.0,2019.0
+ANO001108,2023-03-08,Terrain moderne Meknès,Meknès,Hamria,Terrain,Vente,528779.51,114.12,0.0,,0.0,2012.0
+ANO000893,2023-04-09,Terrain à vente - Tétouan,Tétouan,Centre,Terrain,Vente,904895.01,112.22,0.0,0.0,0.0,2010.0
+ANO000142,2023-05-26,Villa à vente - Agadir,AGADIR,,Villa,Vente,7457356.43,301.63,3.0,1.0,0.0,2020.0
+ANO001486,2024-06-09,Appartement moderne Marrakech,MARRAKECH,Hivernage,Appartement,Location,8461.96,56.07,4.0,3.0,,1999.0
+ANO001470,2023-05-10,Appartement à vente - Oujda,Oujda,,Appartement,Vente,503806.85,98.52,2.0,2.0,4.0,2017.0
+ANO000578,2024-03-17,Terrain 297m² Hamria,Meknès,Hamria,Terrain,Vente,695204.96,297.67,0.0,0.0,,2007.0
+ANO000245,,Bureau à vente - Kenitra,Kenitra,Centre,Bureau,Vente,1363301.1,51.9,0.0,0.0,,2018.0
+ANO000263,2023-12-02,Terrain moderne Marrakech,Marrakech,Gueliz,Terrain,Location,4200.71,355.1,0.0,,0.0,2009.0
+ANO001310,2024-08-26,Beau Bureau Agadir,Agadir,,Bureau,Vente,1384993.45,72.83,0.0,0.0,3.0,2011.0
+ANO001101,2023-06-10,Appartement moderne Marrakech,Marrakech,Medina,Appartement,Vente,590626.35,61.55,1.0,1.0,0.0,2011.0
+ANO000881,2024-09-23,Appartement moderne Marrakech,Marrakech,Medina,Appartement,Location,10894.89,79.55,1.0,1.0,0.0,2003.0
+ANO000088,2023-04-10,Villa moderne Meknès,Meknès,Ville Nouvelle,Villa,Vente,2170237.32,15.0,3.0,2.0,0.0,2001.0
+ANO001299,2023-08-09,Villa 330m² Centre,Kenitra,Centre,Villa,Vente,5410420.86,330.13,5.0,2.0,0.0,2021.0
+ANO000826,2024-05-01,Appartement moderne Casablanca,casablanca,,Appartement,,2288625.0,79.23,1.0,1.0,3.0,2021.0
+ANO000551,2024-04-30,Appartement moderne Casablanca,Casablanca,Bourgogne,Appartement,Vente,2231853.27,93.14,3.0,2.0,,2002.0
+ANO000106,2024-11-18,Bureau moderne Kenitra,Kenitra,Centre,Bureau,Vente,1208401.54,147.28,0.0,0.0,1.0,2007.0
+ANO000410,2023-07-18,Appartement à location - Meknès,Meknès,,Appartement,Location,2129.44,109.1,,1.0,,2024.0
+ANO000768,2023-08-09,Appartement moderne Tétouan,Tétouan,Centre,Appartement,Vente,430232.72,75.4,,3.0,0.0,2012.0
+ANO000816,,Beau Terrain Marrakech,Marrakech,Medina,Terrain,Vente,879046.16,335.31,0.0,0.0,0.0,2008.0
+ANO000077,2024-01-12,Beau Villa Kenitra,Kenitra,Centre,Villa,Vente,4927044.44,304.37,4.0,3.0,0.0,2004.0
+ANO001100,2023-10-20,Beau Villa Kenitra,Kenitra,Hay Essalam,Villa,Location,6908.99,157.73,5.0,3.0,0.0,2019.0
+ANO001097,2024-07-22,Appartement 77m² Oujda,oujda,,Appartement,Vente,1748906.44,77.8,2.0,1.0,,2021.0
+ANO000381,2024-09-26,Terrain à vente - Rabat,Rabat,,Terrain,Vente,710730.95,465.08,0.0,0.0,0.0,1997.0
+ANO000205,2024-11-06,Villa 159m² Kenitra,Kenitra,,Villa,Location,9359.94,159.96,3.0,2.0,0.0,2024.0
+ANO000651,2023-04-10,Appartement à vente - Casablanca,casablanca,Non spécifié,Appartement,Vente,337236.1,116.55,4.0,2.0,2.0,
+ANO000836,,Appartement moderne Meknès,Meknès,,Appartement,Vente,450950.74,158.73,,,7.0,
+ANO000508,2024-07-13,Appartement moderne Tanger,Tanger,Iberia,Appartement,Vente,619851.72,79.34,2.0,2.0,,2002.0
+ANO000852,2023-11-09,Appartement moderne Fès,Fès,,Appartement,Vente,596753.7,63.29,4.0,3.0,1.0,2008.0
+ANO000436,2024-03-10,Beau Appartement Kenitra,Kenitra,Centre,Appartement,Vente,1640612.81,85.7,2.0,1.0,4.0,2009.0
+ANO000213,2024-01-22,Terrain à location - Tétouan,Tétouan,Centre,Terrain,Location,4187.8,308.8,0.0,0.0,0.0,1999.0
+ANO001481,2024-09-29,Villa 267m² Talborjt,Agadir,Talborjt,Villa,Location,6086.13,267.85,5.0,2.0,0.0,2014.0
+ANO001455,2024-11-16,Appartement 114m² Targa,MARRAKECH,Targa,Appartement,Vente,2110640.31,114.89,3.0,2.0,0.0,2005.0
+ANO000094,2023-06-11,Appartement à vente - Meknès,Meknès,Ville Nouvelle,Appartement,Vente,1845874.56,87.84,4.0,2.0,2.0,2015.0
+ANO001410,2024-11-21,Beau Villa Tanger,tanger,Iberia,Villa,Vente,6629558.41,272.13,4.0,3.0,0.0,2010.0
+ANO000870,2023-01-02,Bureau à vente - Tétouan,Tétouan,M'diq,Bureau,Vente,317773.58,155.88,0.0,,1.0,2020.0
+ANO000684,2023-05-02,Appartement à vente - Meknès,Meknès,,Appartement,Vente,568622.88,105.63,2.0,2.0,3.0,2003.0
+ANO001028,2023-03-16,Villa 92m² Centre,Agadir,Centre,Villa,Vente,2270179.93,92.63,4.0,,0.0,2001.0
+ANO000648,2023-07-31,Appartement 91m² Hamria,Meknès,Hamria,Appartement,Location,2012.01,91.73,3.0,2.0,1.0,2007.0
+ANO000948,2023-10-12,Villa à vente - Tétouan,Tétouan,Centre,Villa,Vente,1441678.73,368.15,,3.0,0.0,2000.0
+ANO000715,2024-06-23,Beau Villa Marrakech,Marrakech,,Villa,Vente,2286670.83,269.52,3.0,2.0,0.0,
+ANO001134,2024-09-02,Appartement moderne Casablanca,Casablanca,Maarif,Appartement,Vente,501472.31,97.29,,1.0,,2008.0
+ANO001077,2024-04-07,Appartement moderne Oujda,Oujda,Hay Qods,Appartement,Location,2574.09,84.02,2.0,2.0,5.0,2006.0
+ANO000291,2023-02-08,Beau Villa Tétouan,Tétouan,M'diq,Villa,Vente,5734579.16,186.14,4.0,2.0,0.0,
+ANO001444,,Villa à vente - Tanger,Tanger,Centre Ville,Villa,Vente,5397307.46,304.51,6.0,3.0,0.0,2000.0
+ANO001447,,Beau Appartement Oujda,Oujda,,,Location,1209.57,77.07,2.0,2.0,2.0,2017.0
+ANO001487,2023-01-12,Villa 302m² Malabata,Tanger,Malabata,,Location,14690.93,302.96,5.0,2.0,0.0,2019.0
+ANO000702,2024-09-21,Bureau moderne Meknès,meknès,Hamria,Bureau,Vente,1650173.91,72.42,0.0,0.0,7.0,2023.0
+ANO000521,2023-07-28,Appartement moderne Marrakech,Marrakech,,,Location,2189.74,66.32,1.0,1.0,3.0,1990.0
+ANO000499,2024-12-13,Appartement 135m² Meknès,Meknès,,Appartement,Location,2940.21,135.15,3.0,2.0,9.0,2024.0
+ANO001377,2023-10-07,Bureau à vente - Marrakech,Marrakech,Medina,Bureau,Vente,905919.59,186.25,,0.0,5.0,2008.0
+ANO000228,2023-12-05,Appartement 71m² Hassan,Rabat,Hassan,Appartement,Location,1658.06,71.89,3.0,1.0,0.0,
+ANO000854,2023-12-03,Appartement à vente - Tanger,Tanger,Centre Ville,Appartement,Vente,2369708.06,59.65,2.0,2.0,0.0,2010.0
+ANO001260,2024-08-15,Appartement moderne Rabat,rabat,Hassan,Appartement,Vente,402586.74,33.11,2.0,2.0,3.0,1998.0
+ANO000003,2024-12-22,Beau Duplex Rabat,RABAT,Hay Riad,Duplex,Location,10990.11,188.37,3.0,1.0,5.0,1992.0
+ANO000223,2024-11-01,Villa moderne Meknès,Meknès,Hamria,Villa,Vente,2072511.39,370.32,3.0,2.0,0.0,1988.0
+ANO001160,2023-07-21,Appartement à location - Kenitra,Kenitra,Hay Essalam,Appartement,Location,1189.29,113.84,2.0,1.0,2.0,2021.0
+ANO000712,2024-01-12,Bureau à location - Casablanca,Casablanca,Ain Diab,Bureau,Location,5746.9,105.84,0.0,0.0,8.0,1991.0
+ANO000019,2024-07-03,Beau Bureau Fès,Fès,Ville Nouvelle,Bureau,Vente,1612399.81,157.25,0.0,0.0,6.0,1987.0
+ANO000253,2024-07-13,Appartement à vente - Marrakech,Marrakech,Medina,Appartement,Vente,609198.15,89.62,2.0,1.0,4.0,2003.0
+ANO001305,2024-01-26,Appartement 12m² Medina,MARRAKECH,Medina,Appartement,Location,9615.15,12.0,1.0,,2.0,1998.0
+ANO001234,2024-06-10,Villa 335m² Iberia,Tanger,Iberia,Villa,Location,8354.56,335.21,6.0,4.0,0.0,2021.0
+ANO001418,2023-08-12,Appartement à vente - Kenitra,Kenitra,Hay Essalam,Appartement,Vente,2084267.39,90.24,4.0,,1.0,2001.0
+ANO000186,2024-11-19,Beau Villa Marrakech,Marrakech,Hivernage,Villa,,1994061.52,210.99,4.0,3.0,,
+ANO001420,2023-05-17,Villa 242m² Maarif,casablanca,Maarif,Villa,Vente,2912247.91,242.66,5.0,3.0,0.0,1986.0
+ANO001055,2023-10-22,Appartement 67m² Hassan,Rabat,Hassan,Appartement,Vente,494909.16,67.63,4.0,2.0,2.0,1982.0
+ANO001334,2023-10-02,Villa moderne Kenitra,Kenitra,Centre,Villa,Location,120.0,180.92,5.0,3.0,0.0,2009.0
+ANO000418,2024-05-24,Duplex 50m² Rabat,Rabat,,Duplex,Location,9200.47,50.31,4.0,2.0,,2005.0
+ANO001294,2024-08-11,Bureau 132m² Medina,Marrakech,Medina,Bureau,Vente,1121487.74,132.07,,0.0,6.0,2011.0
+ANO000239,2024-12-20,Villa moderne Tétouan,Tétouan,Centre,Villa,Vente,5943547.95,338.26,3.0,2.0,0.0,
+ANO000020,2024-12-26,Villa à location - Meknès,Meknès,,Villa,Location,22144.73,276.5,5.0,3.0,0.0,2017.0
+ANO001298,2024-08-14,Beau Terrain Kenitra,Kenitra,,Terrain,Vente,974771.4,204.01,0.0,0.0,0.0,1994.0
+ANO001309,2023-12-22,Villa à vente - Meknès,Meknès,,Villa,Vente,2068670.24,223.09,5.0,2.0,,2017.0
+ANO001277,2023-06-17,Terrain à location - Kenitra,Kenitra,,Terrain,Location,4618.27,357.71,0.0,0.0,0.0,2008.0
+ANO001355,2024-12-26,Villa moderne Casablanca,Casablanca,,Villa,Location,18294.54,2500.0,5.0,3.0,0.0,1985.0
+ANO000450,2023-05-17,Appartement à vente - Meknès,Meknès,Ville Nouvelle,Appartement,Vente,2373727.96,50.83,4.0,2.0,2.0,2008.0
+ANO000464,2024-08-06,Beau Appartement Tétouan,tétouan,Centre,Appartement,Vente,459589.86,96.5,4.0,3.0,,2004.0
+ANO000913,2023-08-05,Appartement moderne Fès,Fès,,Appartement,,7463.78,93.56,1.0,1.0,1.0,2023.0
+ANO000396,2024-05-04,Appartement moderne Rabat,Rabat,Hassan,,Vente,662892.54,60.44,,1.0,2.0,1996.0
+ANO000270,2023-04-22,Appartement 116m² M'diq,Tétouan,M'diq,Appartement,Vente,492550.17,116.39,2.0,1.0,4.0,2002.0
+ANO000843,2023-05-08,Appartement à location - Tétouan,Tétouan,,Appartement,Location,8672.15,100.17,4.0,2.0,1.0,2024.0
+ANO000943,2024-11-11,Appartement moderne Tétouan,Tétouan,M'diq,Appartement,Vente,2498756.69,83.45,,1.0,0.0,2017.0
+ANO000138,2023-09-23,Villa moderne Marrakech,Marrakech,Medina,Villa,Vente,4313036.86,127.27,4.0,2.0,0.0,
+ANO000382,2024-09-27,Beau Terrain Oujda,Oujda,Centre,Terrain,Vente,837672.94,279.23,0.0,0.0,0.0,2010.0
+ANO001477,2023-09-11,Beau Appartement Fès,Fès,Ville Nouvelle,Appartement,Location,8163.98,72.93,,1.0,1.0,1973.0
+ANO000439,2024-02-16,Appartement moderne Fès,fès,,Appartement,Vente,2004141.05,52.2,1.0,1.0,1.0,1984.0
+ANO000330,2024-05-27,Beau Bureau Rabat,Rabat,Ocean,Bureau,Location,6203.78,111.16,0.0,0.0,1.0,2000.0
+ANO000105,2023-03-01,Villa 315m² Hay Essalam,Kenitra,Hay Essalam,Villa,Vente,2612708.17,315.08,,3.0,0.0,2020.0
+ANO000421,,Duplex moderne Tétouan,Tétouan,M'diq,Duplex,Vente,2134996.15,153.8,3.0,1.0,1.0,2014.0
+ANO001180,2024-07-17,Appartement à vente - Casablanca,Casablanca,Californie,Appartement,Vente,452511.72,83.77,3.0,1.0,2.0,1997.0
+ANO000378,2023-11-20,Beau Appartement Casablanca,Casablanca,Hay Mohammadi,Appartement,Vente,600630.49,125.34,2.0,1.0,0.0,2006.0
+ANO000680,2024-07-18,Appartement moderne Kenitra,Kenitra,,Appartement,Vente,488924.36,84.36,2.0,2.0,3.0,1995.0
+ANO000950,2024-11-06,Appartement 69m² Centre,Tétouan,Centre,Appartement,Vente,449528.51,69.8,2.0,1.0,0.0,2005.0
+ANO001120,2024-03-17,Villa à vente - Agadir,AGADIR,,Villa,Vente,2806898.86,286.65,3.0,2.0,0.0,2002.0
+ANO001254,2023-03-24,Appartement moderne Tétouan,Tétouan,,Appartement,Vente,547326.52,93.05,2.0,1.0,3.0,2009.0
+ANO001136,2023-08-12,Villa 304m² Hay Riad,Rabat,Hay Riad,Villa,Vente,2201630.87,304.57,,3.0,0.0,2001.0
+ANO000297,2023-09-02,Beau Appartement Rabat,Rabat,Hay Riad,Appartement,,620878.58,112.72,2.0,2.0,0.0,2012.0
+ANO000827,2023-03-11,Beau Villa Tétouan,Tétouan,,Villa,Vente,1530697.1,305.43,3.0,1.0,0.0,2005.0
+ANO000456,2024-03-14,Beau Villa Kenitra,Kenitra,Centre,Villa,Vente,5762205.64,247.82,,,0.0,2002.0
+ANO000482,2023-03-17,Appartement à vente - Oujda,Oujda,Centre,Appartement,Vente,1481267.22,94.99,2.0,1.0,,2004.0
+ANO000694,2024-10-18,Appartement moderne Casablanca,Casablanca,,Appartement,Vente,1819924.29,85.01,3.0,2.0,2.0,2009.0
+ANO000416,2023-05-06,Terrain moderne Kenitra,Kenitra,,,Vente,432817.92,304.09,0.0,0.0,0.0,2003.0
+ANO000085,2023-11-23,Terrain moderne Fès,Fès,Medina,Terrain,Vente,1436646.86,423.9,0.0,0.0,0.0,1977.0
+ANO001491,2023-01-10,Appartement moderne Casablanca,Casablanca,Ain Diab,Appartement,Vente,588782.26,117.1,2.0,2.0,1.0,2019.0
+ANO000973,2024-12-28,Appartement à vente - Tétouan,Tétouan,,Appartement,Vente,528932.33,101.72,1.0,1.0,4.0,
+ANO001412,2023-11-21,Terrain à vente - Tétouan,Tétouan,M'diq,Terrain,Vente,45000.0,112.44,0.0,0.0,0.0,2000.0
+ANO000668,2023-01-12,Appartement 65m² Hay Mohammadi,Agadir,Hay Mohammadi,Appartement,Vente,532657.76,65.19,3.0,2.0,3.0,2007.0
+ANO000144,2024-12-22,Appartement moderne Tétouan,tétouan,Centre,Appartement,Vente,338951.26,55.42,2.0,1.0,,
+ANO000729,2023-10-23,Appartement à vente - Agadir,Agadir,Talborjt,Appartement,Vente,284576.57,123.34,1.0,1.0,8.0,1998.0
+ANO000525,2024-08-05,Appartement à vente - Fès,Fès,Medina,Appartement,Vente,585226.95,51.09,,2.0,0.0,2006.0
+ANO001071,2023-02-25,Villa moderne Tétouan,Tétouan,M'diq,Villa,Vente,7775240.5,155.76,4.0,2.0,0.0,2023.0
+ANO000023,2024-12-05,Terrain 420m² Ain Diab,Casablanca,Ain Diab,Terrain,Vente,778396.96,420.42,0.0,0.0,0.0,2005.0
+ANO000681,2024-07-06,Villa 217m² Medina,Marrakech,Medina,Villa,Location,19831.72,217.26,5.0,2.0,0.0,2005.0
+ANO000159,2024-11-24,Bureau moderne Tétouan,tétouan,Centre,Bureau,Vente,1857987.09,110.04,0.0,0.0,1.0,2014.0
+ANO000531,,Appartement moderne Tétouan,Tétouan,,Appartement,Vente,421343.32,15.0,4.0,2.0,6.0,2013.0
+ANO001369,2024-09-07,Beau Appartement Rabat,Rabat,Hay Riad,Appartement,Vente,542483.25,91.08,3.0,1.0,0.0,
+ANO000568,2023-12-22,Appartement 100m² Oujda,Oujda,,Appartement,Location,2434.81,100.87,25.0,13.0,6.0,2018.0
+ANO000666,2023-09-30,Terrain 296m² Hassan,Rabat,Hassan,,Vente,1121045.07,296.82,0.0,0.0,0.0,1986.0
+ANO001152,2023-05-27,Appartement 15m² Meknès,Meknès,,Appartement,Location,7103.03,15.0,3.0,2.0,0.0,2024.0
+ANO001099,2023-04-25,Duplex moderne Tétouan,Tétouan,Centre,Duplex,Vente,1075787.01,96.23,2.0,2.0,5.0,
+ANO001128,2024-12-17,Terrain à vente - Casablanca,Casablanca,Bourgogne,Terrain,Vente,1157164.58,325.51,0.0,0.0,0.0,2015.0
+ANO001177,2024-06-22,Appartement à vente - Tanger,Tanger,Iberia,Appartement,Vente,330198.13,58.72,,2.0,6.0,2021.0
+ANO000477,2023-05-08,Beau Appartement Fès,Fès,,Appartement,Location,7645.99,2500.0,3.0,,5.0,
+ANO000753,2024-08-17,Bureau à location - Marrakech,MARRAKECH,,Bureau,Location,6219.02,103.17,0.0,0.0,8.0,1989.0
+ANO001203,2024-10-15,Beau Appartement Rabat,Rabat,Souissi,Appartement,Vente,456417.65,112.05,,1.0,,1979.0
+ANO000509,2024-11-03,Duplex moderne Tétouan,Tétouan,M'diq,Duplex,Vente,1576675.93,204.44,4.0,2.0,5.0,2024.0
+ANO000275,2024-09-16,Villa à location - Rabat,Rabat,,Villa,Location,13397.8,220.97,4.0,3.0,0.0,1993.0
+ANO000145,2023-08-16,Appartement moderne Marrakech,Marrakech,Targa,Appartement,Vente,517671.18,102.94,3.0,1.0,0.0,
+ANO001383,2024-05-05,Beau Terrain Marrakech,Marrakech,Hivernage,Terrain,Location,3666.05,288.62,0.0,0.0,0.0,2005.0
+ANO000602,2023-07-25,Bureau à vente - Tétouan,Tétouan,,Bureau,Vente,594514.24,47.87,0.0,0.0,0.0,1997.0
+ANO000708,2023-01-01,Villa moderne Agadir,Agadir,,Villa,Vente,2592302.14,248.46,6.0,4.0,0.0,2007.0
+ANO001350,2024-08-31,Terrain à location - Tétouan,Tétouan,M'diq,Terrain,Location,6577.59,287.48,0.0,0.0,0.0,2013.0
+ANO000445,2024-11-16,Appartement à location - Casablanca,Casablanca,Bourgogne,Appartement,Location,2097.55,122.27,2.0,1.0,3.0,2002.0
+ANO001092,2023-07-28,Appartement moderne Tanger,Tanger,,Appartement,Vente,636536.24,62.09,3.0,1.0,,2020.0
+ANO000759,2023-02-18,Beau Terrain Rabat,Rabat,Hay Riad,Terrain,Vente,473826.22,169.7,25.0,0.0,0.0,2010.0
+ANO001139,2023-08-26,Duplex 142m² Ville Nouvelle,Meknès,Ville Nouvelle,Duplex,Location,5879.72,142.65,2.0,1.0,7.0,2016.0
+ANO000878,,Beau Appartement Marrakech,Marrakech,Gueliz,Appartement,Vente,605582.18,89.93,3.0,2.0,2.0,2012.0
+ANO001225,2024-02-22,Appartement 105m² Ville Nouvelle,Fès,Ville Nouvelle,Appartement,Vente,412837.68,105.5,2.0,1.0,,1999.0
+ANO001178,2024-03-29,Villa moderne Marrakech,Marrakech,,Villa,Location,12515.4,241.73,5.0,,0.0,
+ANO001378,2023-09-13,Villa à vente - Fès,Fès,Zouagha,Villa,Vente,6003431.9,335.63,5.0,3.0,0.0,2019.0
+ANO000842,2023-09-29,Beau Villa Kenitra,Kenitra,,Villa,Location,8172.94,323.74,5.0,3.0,0.0,
+ANO000178,2024-01-30,Bureau à vente - Oujda,Oujda,,Bureau,Vente,535391.98,117.36,0.0,0.0,2.0,2000.0
+ANO000850,2023-09-27,Appartement moderne Marrakech,Marrakech,Targa,Appartement,Location,7096.36,110.53,2.0,,1.0,2024.0
+ANO000789,2023-03-16,Beau Appartement Kenitra,Kenitra,Centre,Appartement,Vente,474488.39,123.34,2.0,2.0,1.0,2005.0
+ANO001300,2023-06-27,Villa 284m² Talborjt,Agadir,Talborjt,Villa,Location,10221.1,284.35,5.0,2.0,,2013.0
+ANO000299,2024-01-11,Villa 301m² Gueliz,Marrakech,Gueliz,Villa,Location,11564.32,301.9,5.0,,0.0,2008.0
+ANO000629,2024-02-21,Appartement 92m² Marrakech,Marrakech,,Appartement,Vente,546831.31,92.0,1.0,1.0,2.0,2003.0
+ANO001163,2024-08-29,Appartement moderne Agadir,Agadir,,Appartement,Vente,733623.42,101.62,3.0,2.0,1.0,2002.0
+ANO001403,2023-06-15,Appartement 15m² Malabata,Tanger,Malabata,Appartement,Vente,2197625.57,15.0,4.0,2.0,1.0,2003.0
+ANO001190,2023-12-19,Beau Duplex Tanger,TANGER,Malabata,Duplex,Vente,2444590.81,161.22,,2.0,6.0,2017.0
+ANO000147,2024-10-20,Terrain moderne Kenitra,Kenitra,,Terrain,Location,1155.94,293.33,0.0,,0.0,
+ANO001138,2023-02-08,Beau Villa Tétouan,Tétouan,M'diq,Villa,Vente,5395386.02,409.32,4.0,3.0,,2003.0
+ANO001349,2023-09-28,Villa à location - Fès,FÈS,Zouagha,Villa,Location,29594.61,216.79,6.0,3.0,0.0,
+ANO001354,2024-02-21,Bureau à vente - Kenitra,Kenitra,,Bureau,Vente,1105195.21,150.0,0.0,0.0,,2012.0
+ANO001488,2023-01-29,Terrain 401m² Hay Qods,Oujda,Hay Qods,Terrain,Vente,1354808.64,401.17,0.0,0.0,0.0,2019.0
+ANO000940,2023-10-24,Beau Appartement Agadir,Agadir,Talborjt,Appartement,Location,2376.99,94.84,1.0,1.0,0.0,1994.0
+ANO000053,2024-08-01,Villa 287m² Centre Ville,Tanger,Centre Ville,Villa,Location,12531.55,287.91,4.0,2.0,0.0,2000.0
+ANO001330,2023-12-15,Appartement à vente - Casablanca,Casablanca,Californie,Appartement,Vente,1780719.88,133.09,1.0,1.0,0.0,
+ANO000432,2024-06-28,Appartement 87m² Souissi,Rabat,Souissi,Appartement,Vente,650618.89,87.05,3.0,1.0,0.0,1998.0
+ANO000584,2024-02-12,Beau Appartement Casablanca,Casablanca,Non spécifié,Appartement,Vente,670125.53,17.42,3.0,1.0,1.0,2010.0
+ANO000001,2024-10-16,Appartement à location - Rabat,rabat,Hassan,Appartement,Location,2438.42,81.54,2.0,1.0,1.0,2009.0
+ANO000912,2024-12-08,Appartement 134m² Marrakech,MARRAKECH,,Appartement,Vente,444422.28,134.68,2.0,1.0,4.0,2005.0
+ANO001130,2023-08-22,Beau Appartement Oujda,Oujda,,Appartement,Location,8125.03,106.54,2.0,2.0,0.0,2011.0
+ANO000350,,Villa moderne Tanger,Tanger,Centre Ville,Villa,Vente,3635411.76,368.12,4.0,3.0,0.0,2021.0
+ANO001479,2024-02-01,Beau Appartement Marrakech,Marrakech,Gueliz,Appartement,Vente,483629.22,102.4,3.0,2.0,7.0,2019.0
+ANO001302,2023-02-18,Beau Appartement Tétouan,Tétouan,,Appartement,Vente,436893.04,125.37,2.0,2.0,1.0,
+ANO000862,,Beau Bureau Rabat,Rabat,Souissi,Bureau,Vente,1689427.55,163.86,0.0,0.0,3.0,1990.0
+ANO000043,2024-01-31,Appartement moderne Marrakech,Marrakech,Gueliz,Appartement,Location,1724.54,70.84,1.0,1.0,4.0,2010.0
+ANO000802,2023-01-07,Beau Villa Casablanca,casablanca,Hay Mohammadi,Villa,,5592517.33,383.88,5.0,,0.0,2020.0
+ANO001239,2023-09-02,Duplex 142m² Zouagha,Fès,Zouagha,Duplex,Vente,2407582.45,142.09,4.0,3.0,6.0,2024.0
+ANO000982,,Villa à vente - Oujda,Oujda,Hay Qods,Villa,Vente,2104748.45,275.92,4.0,3.0,,2000.0
+ANO000265,2024-09-29,Beau Villa Kenitra,Kenitra,Centre,Villa,Vente,2335789.42,147.86,4.0,,0.0,
+ANO001411,2023-05-24,Villa à location - Casablanca,Casablanca,Ain Diab,Villa,Location,14574.71,358.45,5.0,2.0,0.0,1990.0
+ANO000793,2024-11-29,Bureau moderne Tanger,Tanger,Iberia,Bureau,Vente,1056092.54,66.96,0.0,0.0,5.0,2006.0
+ANO000890,2023-11-15,Appartement 98m² Bourgogne,Casablanca,Bourgogne,Appartement,Location,1608.39,98.81,3.0,1.0,0.0,2009.0
+ANO001078,2024-11-13,Appartement moderne Marrakech,MARRAKECH,Medina,Appartement,Vente,306903.06,58.23,1.0,1.0,0.0,2024.0
+ANO000356,2024-09-17,Beau Terrain Tétouan,Tétouan,Centre,Terrain,Vente,464099.03,144.64,0.0,0.0,,2019.0
+ANO001156,2023-11-02,Appartement moderne Tétouan,Tétouan,Centre,Appartement,Vente,389592.95,74.7,1.0,1.0,1.0,2011.0
+ANO001317,2023-04-25,Villa à vente - Tétouan,Tétouan,,Villa,Vente,5580010.05,147.68,,3.0,0.0,2014.0
+ANO001154,2024-06-15,Appartement à location - Marrakech,MARRAKECH,Medina,Appartement,Location,1637.61,127.39,,2.0,0.0,2024.0
+ANO000969,2023-07-06,Beau Appartement Meknès,Meknès,,Appartement,Vente,367939.16,103.76,,2.0,0.0,2006.0
+ANO000560,2023-07-10,Terrain 419m² Ville Nouvelle,Fès,Ville Nouvelle,Terrain,Location,5025.58,419.8,0.0,0.0,0.0,1993.0
+ANO001044,2023-08-23,Beau Villa Rabat,Rabat,Hassan,Villa,Vente,1994253.43,242.86,,2.0,,1999.0
+ANO000710,2023-08-21,Appartement à vente - Oujda,Oujda,Hay Qods,Appartement,Vente,2445728.68,102.88,1.0,1.0,1.0,2015.0
+ANO000709,2024-09-06,Villa 293m² Ville Nouvelle,Fès,Ville Nouvelle,Villa,Vente,2211232.95,293.77,3.0,2.0,0.0,1982.0
+ANO000315,2024-08-16,Villa à vente - Fès,Fès,Medina,Villa,Vente,6975301.77,242.07,5.0,2.0,0.0,2024.0
+ANO000717,2024-11-09,Appartement moderne Rabat,Rabat,Agdal,Appartement,Location,2150.44,43.92,4.0,2.0,2.0,1997.0
+ANO000917,2023-03-17,Bureau moderne Tanger,Tanger,,Bureau,Vente,1354529.33,111.82,0.0,0.0,0.0,2024.0
+ANO000520,2024-01-01,Beau Bureau Tanger,Tanger,Iberia,Bureau,Location,3514.91,179.71,0.0,0.0,4.0,2007.0
+ANO000522,2023-03-03,Appartement à location - Agadir,Agadir,,Appartement,Location,2624.34,103.42,2.0,1.0,3.0,2007.0
+ANO000457,2024-11-02,Appartement 62m² Targa,Marrakech,Targa,Appartement,Location,7290.75,62.88,2.0,1.0,0.0,2008.0
+ANO000799,2023-04-22,Appartement 48m² Talborjt,Agadir,Talborjt,,Vente,539987.44,48.76,1.0,1.0,3.0,2002.0
+ANO001344,2024-07-17,Villa 318m² Hay Essalam,Kenitra,Hay Essalam,Villa,Vente,7203192.69,318.98,6.0,4.0,0.0,1998.0
+ANO000123,2024-08-14,Appartement à vente - Rabat,Rabat,Ocean,Appartement,Vente,576891.1,85.31,2.0,2.0,3.0,2001.0
+ANO000317,2024-04-12,Beau Duplex Tétouan,Tétouan,,Duplex,Vente,1772648.39,162.17,4.0,2.0,7.0,
+ANO000099,2024-07-31,Appartement moderne Rabat,Rabat,Ocean,Appartement,Vente,592841.86,67.68,3.0,,0.0,2013.0
+ANO000992,,Appartement à vente - Oujda,Oujda,Centre,Appartement,Vente,788473.12,107.78,3.0,2.0,0.0,2010.0
+ANO000909,2023-08-29,Appartement 85m² Targa,Marrakech,Targa,Appartement,Vente,2785034.88,85.09,2.0,,4.0,2018.0
+ANO001393,2024-07-11,Appartement à vente - Meknès,Meknès,Hamria,Appartement,Vente,548885.37,92.67,4.0,2.0,6.0,2024.0
+ANO000619,,Appartement moderne Fès,FÈS,,Appartement,Vente,670069.88,68.23,3.0,2.0,,2020.0
+ANO000621,2023-01-27,Beau Villa Tanger,Tanger,Malabata,Villa,Vente,2132845.63,314.86,4.0,3.0,0.0,2016.0
+ANO000735,2023-04-08,Beau Bureau Agadir,Agadir,Centre,Bureau,Vente,1487903.18,68.27,0.0,0.0,4.0,2002.0
+ANO000540,2024-10-07,Appartement moderne Meknès,Meknès,,Appartement,Vente,459785.07,74.34,2.0,2.0,1.0,2019.0
+ANO000783,2024-02-15,Appartement moderne Rabat,Rabat,Agdal,Appartement,Vente,1808465.02,63.43,1.0,1.0,0.0,2010.0
+ANO000592,2024-10-22,Appartement moderne Agadir,Agadir,Hay Mohammadi,Appartement,Vente,573352.89,66.44,3.0,1.0,1.0,1999.0
+ANO001157,2024-01-05,Appartement à location - Marrakech,Marrakech,Hivernage,Appartement,Location,1981.82,79.53,4.0,3.0,3.0,2009.0
+ANO000333,2023-08-30,Beau Bureau Agadir,Agadir,Hay Mohammadi,Bureau,Vente,1919074.61,145.63,0.0,0.0,0.0,2005.0
+ANO001089,2024-06-05,Villa 405m² Ain Diab,Casablanca,Ain Diab,Villa,Location,10130.83,405.3,5.0,3.0,,1986.0
+ANO001290,2024-02-23,Beau Appartement Fès,Fès,Medina,Appartement,Vente,748434.07,88.5,3.0,2.0,1.0,2014.0
